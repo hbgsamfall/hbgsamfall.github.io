@@ -1,0 +1,18 @@
+---
+id: 162
+title: Ekonomi
+date: '2014-03-15T13:21:20+01:00'
+author: hbgsamfall
+layout: page
+guid: 'http://hbgsamfall.info.tm/?page_id=162'
+parent: Styrelsens sidor
+nav_exclude: true
+---
+<ul class="posts">
+{% for file in site.static_files %}
+	{% if file.path contains 'krypterat/ekonomi_filer' %}
+	      <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+
