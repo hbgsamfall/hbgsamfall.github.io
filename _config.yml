@@ -53,7 +53,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-logo: "/wp-content/uploads/2014/03/HGS_Logo.png"
+logo: "/wp-content/uploads/2022/09/hgs_logo_small.png"
 search_enabled: false
 last_edit_timestamp: true
 

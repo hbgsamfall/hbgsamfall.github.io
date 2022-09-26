@@ -8,7 +8,7 @@ nav_exclude: true
 guid: 'http://hbgsamfall.info.tm/?page_id=202'
 ---
 
-[![logo](http://www.hbgsamfall.win/wp-content/uploads/2014/03/HGS_Logo.png)](http://www.hbgsamfall.win/wp-content/uploads/2014/03/HGS_Logo.png)
+[![logo](http://www.hbgsamfall.win/wp-content/uploads/2022/09/hgs_logo_small.png)](http://www.hbgsamfall.win/wp-content/uploads/2022/09/hgs_logo_small.png)
 
 <span style="color: #000000; font-size: 30px; font-family: Georgia, Arial, Times, serif; font-weight: normal;">Välkommen till Hässelby Gårds Samfällighetsförening</span>
 
