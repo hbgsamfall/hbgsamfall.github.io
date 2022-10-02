@@ -5,8 +5,7 @@ date: '2015-10-10T11:43:48+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=1063/index.html'
-dsq_thread_id:
-    - ''
+nav_order: 20
 ---
 
 #### Om ni vill ha kontakt med medlemmar i styrelsen;  

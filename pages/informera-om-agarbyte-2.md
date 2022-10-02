@@ -5,6 +5,7 @@ date: '2017-07-16T18:20:49+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1673'
+nav_order: 40
 ---
 
 Länken nedan går till ett lösenordsskyddat formulär (Googlekonto krävs) som styrelsen lagt upp för att du (den gamle eller nye ägaren) ska kunna fylla i den information som styrelsen behöver för att veta när fastigheten byter ägare (för din information så är det fastigheten som är medlem, inte fastighetsägaren).

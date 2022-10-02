@@ -5,6 +5,7 @@ date: '2017-12-29T14:30:31+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1758'
+nav_order: 80
 ---
 
 Samfällighetsföreningen svarar för underhåll och reparation av följande gemensamma anläggningsdelar:

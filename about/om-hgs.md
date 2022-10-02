@@ -6,6 +6,7 @@ author: hbgsamfall
 layout: page
 has_children: true
 guid: 'http://hbgsamfall.info.tm/?page_id=246'
+nav_order: 10
 ---
 
 #### **I undermenyerna hittar ni allmän information om Hässelby Gårds Samfällighetsförening** 
@@ -17,4 +18,4 @@ guid: 'http://hbgsamfall.info.tm/?page_id=246'
 [Årsmöten](http://hbgsamfall.win/index.php/information-2/arsmoten/)  
 [Villaföreningen](http://hbgsamfall.win/index.php/information-2/villaforeningen/ "Villaföreningen")
 
-Ovanstående information finns samland i denna [Samf broschyr 2014](http://admin.hbgsamfall.win/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
+Ovanstående information finns samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
