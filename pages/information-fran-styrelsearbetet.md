@@ -33,8 +33,5 @@ Här kommer information från styrelsearbeter att presenteras löpande i form av
 [Styrelsemöte 4 2017](http://www.hbgsamfall.win/wp-content/uploads/2017/09/Beslutsprotokoll-4-2017.pdf)  
 [Styrelsemöte 2 2017](http://www.hbgsamfall.win/wp-content/uploads/2017/03/Beslutsprotokoll-2-2017-1.pdf)
 [Styrelsemöte 1 2017](http://www.hbgsamfall.win/wp-content/uploads/2017/02/Beslutsprotokoll-1-2017.pdf)
-[Styrelsemöte 6 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/12/Styrelsemöte-6-2016-1.pdf)
 [Styrelsemöte 5 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/09/Beslutsprotokoll-5.pdf)
-[Styrelsemöte 6 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/12/Styrelsemöte-6-2016-1.pdf)
-[Styrelsemöte 4 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/07/Styrelsemöte-4.pdf)  
 [Styrelsemöte 3 2016](http://www.hbgsamfall.win/wp-content/uploads/2017/02/Beslutsprotokoll-1-2017.pdf)

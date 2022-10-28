@@ -22,4 +22,4 @@ Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande](http://www.hbgs
 Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågående rörförnyelsen
 
 **Elektriska kablar/säkringsskåp**  
-In [inventering ](http://www.hbgsamfall.win/index.php/information-2/gavelelskap/)har gjorts för att bedömma elskåpens status. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte. Utbyte är för närvarande planerat att ske 2039.
+In [inventering ]({% link pages/gavelelskap.md %})har gjorts för att bedömma elskåpens status. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte. Utbyte är för närvarande planerat att ske 2039.

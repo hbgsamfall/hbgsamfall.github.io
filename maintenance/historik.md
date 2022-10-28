@@ -12,7 +12,7 @@ parent: Underhållsplan
 [Läs på lantmäteriets hemsida](https://www.lantmateriet.se/sv/fastigheter/samfalligheter/#anchor-0)
 
 **HGS Bakgrund**  
-[Husen](http://admin.hbgsamfall.win/wp-content/uploads/2014/03/Husen.pdf) ritades av arkitektfirman Höjer &amp; Ljungkvist 1956 för SMÅA och är i princip självbyggen. Det finns olika varianter av hustyper och under årens lopp har husen utvecklats individuellt och personligt med tillbyggnader och olika lösningar, vilket har sin speciella charm, utan att helheten går förlorad.
+[Husen](wp-content/uploads/2014/03/Husen.pdf) ritades av arkitektfirman Höjer &amp; Ljungkvist 1956 för SMÅA och är i princip självbyggen. Det finns olika varianter av hustyper och under årens lopp har husen utvecklats individuellt och personligt med tillbyggnader och olika lösningar, vilket har sin speciella charm, utan att helheten går förlorad.
 
 Hur man klarade sig utan föreningen. som inte bildades förrän 1977, har tidigare ordföranden Jan Nuder berättat följande;
 

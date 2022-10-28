@@ -9,11 +9,11 @@ parent: bakgrund och redan utförd verksamhet
 grand_parent: Rörförnyelse
 ---
 
-<span style="color: #0000ff;">Gröna textsnuttar i texten nedan är klickbara länkar till information.</span>
+Gröna textsnuttar i texten nedan är klickbara länkar till information.
 
 Efter årsskiftet kom äntligen arbetet igånd med renovering av samfällighetsföreningens andel av avloppsrören för den första av de fem planerade etapperna. **AARSLEFF RÖRTEKNIK AB**  är utsedd att utföra arbetet med denna etapp.
 
-[Information om upphandlingsförfarandet](http://www.hbgsamfall.win/wp-content/uploads/2016/03/Information-om-upphandlingsförfarandet.pdf)
+[Information om upphandlingsförfarandet](wp-content/uploads/2016/03/Information-om-upphandlingsförfarandet.pdf)
 
 I etapp 1 ingår följande 39 fastigheter:  
 10 st Kv Täckheten 2-11, Stallknektsgränd 4-22  
@@ -30,16 +30,16 @@ Vid denna fösyn har de som inte kunde vara med på informationsmötet möjlighe
 
 I samband med uppstart och genomförande av den renovering av samfällighetföreningens avloppsstammar som börjar 2015-01-11 kommer det att finnas ett stort behov för berörda att utbyta information med samfällighetsföreningens styrelse.
 
-Styrelsen rekommenderar att medlemmarna i första hand använder sig av det [MEDLEMSFORUM](http://hbgsamfall.win/index.php/forum/) som finns här på hemsidan för ställa frågor och få svar på alla spörsmål som kan uppstå i samband med den kommande rörförnyelsen. Självklart kan ni även ta upp och få svar på andra frågor som rör Hässelby Gårds Samfällighetsförening.
+Styrelsen rekommenderar att medlemmarna i första hand använder sig av kontaktinformationen som finns här på hemsidan för ställa frågor och få svar på alla spörsmål som kan uppstå i samband med den kommande rörförnyelsen. Självklart kan ni även ta upp och få svar på andra frågor som rör Hässelby Gårds Samfällighetsförening.
 
 Detaljerad information om försynen, tidplan, mm. finns i det “Informations-kit till boende” som överlämnades.
 
-[Sacpipe Connection System](https://www.youtube.com/watch?v=uaEJUW-YzTs) har en film som visar hur rörförnyelsen går till. Den metod som visas i filmen är mycket lik den metod som Aarsleff använder. Mer information om rörförnyelse finns på hemsidan under denna flik [RÖRFÖRNYELSE-RELINING](http://hbgsamfall.win/index.php/information-2/rorrenovering-relining/)
+[Sacpipe Connection System](https://www.youtube.com/watch?v=uaEJUW-YzTs) har en film som visar hur rörförnyelsen går till. Den metod som visas i filmen är mycket lik den metod som Aarsleff använder. Mer information om rörförnyelse finns på hemsidan under denna flik [RÖRFÖRNYELSE-RELINING]({% link relining/rorrenovering-relining.md %})
 
 Nedan finns länk till den utdelade informationen samt länkar till de ritningar som Aarsleff använt som underlag vid planeringen av sitt arbete.
 
-[Informations\_Kit till boende](http://admin.hbgsamfall.win/wp-content/uploads/2015/12/Informations_Kit-till-boende.pdf)
+[Informations\_Kit till boende](wp-content/uploads/2015/12/Informations_Kit-till-boende.pdf)
 
-[VA ritningar område 8, Etapp 1](http://admin.hbgsamfall.win/wp-content/uploads/2015/12/VA_ritningar-område-8-etapp1.zip)  
-[VA ritningar område 9, Etapp 1](http://admin.hbgsamfall.win/wp-content/uploads/2015/12/VA-ritningar-område-9.-etapp-1.zip)  
-[VA ritningar område 10, Etapp 1](http://admin.hbgsamfall.win/wp-content/uploads/2015/12/VA-ritningar-område-10-etapp-1.zip)
+[VA ritningar område 8, Etapp 1](wp-content/uploads/2015/12/VA_ritningar-område-8-etapp1.zip)  
+[VA ritningar område 9, Etapp 1](wp-content/uploads/2015/12/VA-ritningar-område-9.-etapp-1.zip)  
+[VA ritningar område 10, Etapp 1](wp-content/uploads/2015/12/VA-ritningar-område-10-etapp-1.zip)

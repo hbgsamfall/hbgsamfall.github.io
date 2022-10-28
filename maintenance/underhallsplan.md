@@ -32,5 +32,5 @@ Genom att följa länkarna nedan kommer ni till underhållsplaner med tillhöran
 [HGS Underhållsplan 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/03/HGS-Underhållsplan-2016.pdf)[  
 Presentation Underhållsplan 2016  ](http://www.hbgsamfall.win/wp-content/uploads/2016/03/Presentation-Underhållsplan-2016.pdf)[Kalkyl Underhållsplan Alt 1 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-13.pdf)
 
-**[Historik över tidigare utförd rörförnyelse](http://www.hbgsamfall.win/index.php/information-2/historik-over-tidigare-utford-rorfornyelse/)**  
- **[Bakgrundsinformation](http://www.hbgsamfall.win/index.php/information-2/bakgrundsinformation/)**
+[Historik över tidigare utförd rörförnyelse]({% link maintenance/historik-over-tidigare-utford-rorfornyelse.md %})
+[Bakgrundsinformation]({% link about/bakgrundsinformation.md %})

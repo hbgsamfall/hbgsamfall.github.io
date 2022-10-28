@@ -20,7 +20,7 @@ där styrelsen informerar om nyheter och ger annan information om Hässelby Går
 
 I menyerna till vänster (om ni öppnar sidan i mobilen kan menyerna komma längst ned pga den begränsade skärmstorleken) kan ni komma till olika sidor och undermenyer där ni kan hitta information om Hässelby Gårds Samfällighetsförening och dess verksamhet.
 
-[Grönfärgad texter](http://hbgsamfall.win/index.php/information-2/historik/) är “klickbara” länkar till underliggande sidor eller dokument.
+[Grönfärgad texter]({% link maintenance/historik.md %}) är “klickbara” länkar till underliggande sidor eller dokument.
 
 [![Loviselundsvägen_R](http://www.hbgsamfall.win/wp-content/uploads/2014/03/Loviselundsvägen_R.png)](http://www.hbgsamfall.win/wp-content/uploads/2014/03/Loviselundsvägen_R.png)
 

@@ -16,9 +16,9 @@ Enligt den plan för fortsatt rörförnyelse som antogs av årsmötet 2017 har a
 
 Entreprenören har även fått möjlighet att inom den satta tidsramen fritt planera antal fastigheter per år, i vilken ordning och inom vilka områden rörförnyelsen görs. Enda förbehållet är att de fastigheter där filmningen visar att skicket är sämst ska prioriteras.
 
-<span style="font-family: 'Arial',sans-serif; color: #2b2b2b;">Sedan 2017 har avtal tecknats med Röranalys. Arbetet pågår fram t.o.m. 2024 och är fördelat på 7 etapper för att vi ska kunna klara kostnaden utan att ta lån. Röranalys har under de år som gått genomför etapperna 1 t.o.m. 3 (hela område 9 samt 60 fastigheter i område 8). Etapp 4 (83 fastigheter i område 8 pågår). Därefter återstår några fastigheter i område 8 samt hela område 9.</span>
+Sedan 2017 har avtal tecknats med Röranalys. Arbetet pågår fram t.o.m. 2024 och är fördelat på 7 etapper för att vi ska kunna klara kostnaden utan att ta lån. Röranalys har under de år som gått genomför etapperna 1 t.o.m. 3 (hela område 9 samt 60 fastigheter i område 8). Etapp 4 (83 fastigheter i område 8 pågår). Därefter återstår några fastigheter i område 8 samt hela område 9.
 
-<span style="font-family: 'Arial',sans-serif; color: #2b2b2b;">För varje år som gått har en uppdaterad Underhålls och förnyelseplan tagits fram och presenterats för beslut vid årsmötet.</span>
+För varje år som gått har en uppdaterad Underhålls och förnyelseplan tagits fram och presenterats för beslut vid årsmötet.
 
 Genom att följa länkarna nedan kommer ni till den resulterande underhållsplanen från det senaste årsmötet:
 

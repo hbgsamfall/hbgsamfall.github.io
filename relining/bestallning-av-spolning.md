@@ -8,4 +8,4 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1727'
 parent: Rörförnyelse
 ---
 
-Beställning av spolning ska göras genom [Ove Jönsson](http://www.hbgsamfall.win/index.php/information-2/kontakt/) (ordförande). Detta bland annat för att spolning måste ske varsamt med lågt tryck för att inte förstöra de slitna rören.
+Beställning av spolning ska göras genom [Ordföranden]({% link pages/kontakt.md %}) (ordförande). Detta bland annat för att spolning måste ske varsamt med lågt tryck för att inte förstöra de slitna rören.
