@@ -26,4 +26,4 @@ Kostnaden för rörförnyelse av avloppsstammarna för de återstående fastighe
 
 Vi hoppas det här ger de som undrar den information de behöver och om de har frågor är de välkomna att kontakta styrelsen.
 
-För de som inte var med på årsmötet finns mer information i [**Utskickade handlingar inför årsmötet**](http://www.hbgsamfall.win/wp-content/uploads/2019/03/Utskick-inför-HGS-årsmöte-2019.pdf) som gjordes vid årsmötet.
+För de som inte var med på årsmötet finns mer information i [**Utskickade handlingar inför årsmötet**](/wp-content/uploads/2019/03/Utskick-inför-HGS-årsmöte-2019.pdf) som gjordes vid årsmötet.

@@ -22,13 +22,13 @@ Det ges dessutom information om tillval som fastighetsägaren kan göra efter r�
 
 Nedan finns länkar till den typ av information som kommer att ges av Röranalys när de informerar om kommande arbete.
 
-[INFORMATION FRÅN ENTREPRENÖREN](http://www.hbgsamfall.win/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)  
+[INFORMATION FRÅN ENTREPRENÖREN](/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)  
 [AVISERINGAR](http://www.hbgsamfall.win/index.php/information-2/aviseringar/)  
 [TILLVAL SOM BOKAS VID ENTREPRENÖRENS  
-BESIKTNING](http://www.hbgsamfall.win/wp-content/uploads/2018/06/Beställningavi.pdf)
+BESIKTNING](/wp-content/uploads/2018/06/Beställningavi.pdf)
 
-[Etapp 5 – Information till boende](http://www.hbgsamfall.win/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
+[Etapp 5 – Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
 
-**[Definitiv tidplan 2022 Etapp 5](http://www.hbgsamfall.win/wp-content/uploads/2022/03/Definitiv-tidplan-2022-Etapp-5.pdf)**
+**[Definitiv tidplan 2022 Etapp 5](/wp-content/uploads/2022/03/Definitiv-tidplan-2022-Etapp-5.pdf)**
 
-**[Grovplanering 2022-2024](http://www.hbgsamfall.win/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)**
+**[Grovplanering 2022-2024](/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)**

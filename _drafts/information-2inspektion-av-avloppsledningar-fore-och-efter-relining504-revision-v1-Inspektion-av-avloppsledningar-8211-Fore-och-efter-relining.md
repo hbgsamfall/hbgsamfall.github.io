@@ -8,7 +8,7 @@ guid: 'http://www.hbgsamfall.info.tm/index.php/504-revision-v1/'
 permalink: '/?p=1771'
 ---
 
-## [T25:2012 Handbok](http://www.hbgsamfall.win/wp-content/uploads/2017/12/T25_2012-Se-rören-inifrån.pdf) för TV-inspektion av avloppsledningar
+## [T25:2012 Handbok](/wp-content/uploads/2017/12/T25_2012-Se-rören-inifrån.pdf) för TV-inspektion av avloppsledningar
 
 <div>
 <div>Efter cirka två års arbete är nu skriften “T25:2012 Handbok för TV-inspektion av avloppsledningar inom fastighet” färdig. Handboken beskriver hur en tv-inspektion ska utföras, dokumenteras och redovisas. Det är ett hjälpmedel för:

@@ -16,7 +16,7 @@ Detta innebär att det inte är tillåtet att bygga in/över rensluckor utan att
 
 Kontakta styrelsen och informera om du/ni har inbygda rensluckor så att vi, för att undvika stilleståndskostnader, mm, kan ange det när vi går ut med anbudfrörfrågan respektive informerar anlitad entreprenör för kommande etapper.
 
-<span style="color: #0000ff;">Renslucka till samlingsledning under golv</span>[![Renslucka till samlingsledning under golv](http://www.hbgsamfall.win/wp-content/uploads/2016/09/Renslucka-till-samlingsledning-under-golv.jpg)](http://www.hbgsamfall.win/wp-content/uploads/2016/09/Renslucka-till-samlingsledning-under-golv.jpg)
+<span style="color: #0000ff;">Renslucka till samlingsledning under golv</span>[![Renslucka till samlingsledning under golv](/wp-content/uploads/2016/09/Renslucka-till-samlingsledning-under-golv.jpg)](/wp-content/uploads/2016/09/Renslucka-till-samlingsledning-under-golv.jpg)
 
 <span style="color: #0000ff;">  
-Renslucka i avloppsstam</span>[![Renslucka i avloppsstam](http://www.hbgsamfall.win/wp-content/uploads/2016/09/Renslucka-i-avloppsstam.jpg)](http://www.hbgsamfall.win/wp-content/uploads/2016/09/Renslucka-i-avloppsstam.jpg)
+Renslucka i avloppsstam</span>[![Renslucka i avloppsstam](/wp-content/uploads/2016/09/Renslucka-i-avloppsstam.jpg)](/wp-content/uploads/2016/09/Renslucka-i-avloppsstam.jpg)

@@ -10,11 +10,11 @@ permalink: '/?p=367'
 
 ####  **ÅRSMÖTE 2022**
 
-**[Kallelse till Årsmöte 2022](http://www.hbgsamfall.win/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)**  
+**[Kallelse till Årsmöte 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)**  
 Tid : Tisdag 22/3 – Kl. 18.30 – 21.00  
 Plats : Prisma, Hässelby Gård
 
-[<span style="color: #339966;">**<span style="text-decoration: underline;">Utskickade handlingar inför årsmötet</span>**</span>](http://www.hbgsamfall.win/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
+[<span style="color: #339966;">**<span style="text-decoration: underline;">Utskickade handlingar inför årsmötet</span>**</span>](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
 – Bilaga 1: Verksamhetsberättelse för år 2021  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  

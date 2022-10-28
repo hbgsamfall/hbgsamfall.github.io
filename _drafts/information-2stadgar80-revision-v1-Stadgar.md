@@ -10,8 +10,8 @@ permalink: '/?p=1795'
 
 #### Stadgar för Hässelby Gårds Samfällighetsförening
 
-[jo2010SamfStadgaLantmBest](http://www.hbgsamfall.win/wp-content/uploads/2018/02/jo2010SamfStadgaLantmBest.pdf)
+[jo2010SamfStadgaLantmBest](/wp-content/uploads/2018/02/jo2010SamfStadgaLantmBest.pdf)
 
 #### Bakomliggande Lag (1973:1150)
 
-[Lag om förvaltning av samfälligheter](http://www.hbgsamfall.win/wp-content/uploads/2017/03/SFS-1973_1155.pdf)
+[Lag om förvaltning av samfälligheter](/wp-content/uploads/2017/03/SFS-1973_1155.pdf)

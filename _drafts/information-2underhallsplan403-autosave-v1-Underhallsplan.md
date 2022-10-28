@@ -18,19 +18,19 @@ Genom att följa länkarna nedan kommer ni till underhållsplaner med tillhöran
 
 HGS Underhållsplan 2022
 
-[Kalkyl Underhållsplan 2022](http://www.hbgsamfall.win/wp-content/uploads/2022/05/Kalkyl-Underhallsplan-2022.pdf)  
-[HGS Underhållsplan 2021](http://www.hbgsamfall.win/wp-content/uploads/2021/11/HGS-Underhallsplan-2021.pdf)  
-[Kalkyl Underhållsplan 2021](http://www.hbgsamfall.win/wp-content/uploads/2021/11/Kalkyl-Underhallsplan-2021.pdf)  
-[HGS Underhållsplan 2020](http://www.hbgsamfall.win/wp-content/uploads/2021/11/HGS-Underhallsplan-2020.pdf)  
-[Kalkyl Underhållsplan 2020](http://www.hbgsamfall.win/wp-content/uploads/2021/11/Kalkyl-Underhallsplan-2020.pdf)  
-[HGS Underhållsplan 2019](http://www.hbgsamfall.win/wp-content/uploads/2021/11/HGS-Underhallsplan-2019.pdf)  
-[Kalkyl Underhållsplan 2019](http://www.hbgsamfall.win/wp-content/uploads/2021/11/Kalkyl-Underhallsplan-2019.pdf)  
-[HGS Underhållsplan 2018](http://www.hbgsamfall.win/wp-content/uploads/2018/03/HGS-Underhållsplan-2018.pdf)  
-[Kalkyl Underhållsplan 2018](http://www.hbgsamfall.win/wp-content/uploads/2018/03/Kalkyl-Underhållsplan-2018.pdf)  
-[HGS Underhållsplan 2017](http://www.hbgsamfall.win/wp-content/uploads/2017/03/HGS-Underhållsplan-2017.pdf)  
-[Kalkyl Underhållsplan 2017](http://www.hbgsamfall.win/wp-content/uploads/2017/03/Kalkyl-Underhållsplan-2017.pdf)  
-[HGS Underhållsplan 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/03/HGS-Underhållsplan-2016.pdf)[  
-Presentation Underhållsplan 2016  ](http://www.hbgsamfall.win/wp-content/uploads/2016/03/Presentation-Underhållsplan-2016.pdf)[Kalkyl Underhållsplan Alt 1 2016](http://www.hbgsamfall.win/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-13.pdf)
+[Kalkyl Underhållsplan 2022](/wp-content/uploads/2022/05/Kalkyl-Underhallsplan-2022.pdf)  
+[HGS Underhållsplan 2021](/wp-content/uploads/2021/11/HGS-Underhallsplan-2021.pdf)  
+[Kalkyl Underhållsplan 2021](/wp-content/uploads/2021/11/Kalkyl-Underhallsplan-2021.pdf)  
+[HGS Underhållsplan 2020](/wp-content/uploads/2021/11/HGS-Underhallsplan-2020.pdf)  
+[Kalkyl Underhållsplan 2020](/wp-content/uploads/2021/11/Kalkyl-Underhallsplan-2020.pdf)  
+[HGS Underhållsplan 2019](/wp-content/uploads/2021/11/HGS-Underhallsplan-2019.pdf)  
+[Kalkyl Underhållsplan 2019](/wp-content/uploads/2021/11/Kalkyl-Underhallsplan-2019.pdf)  
+[HGS Underhållsplan 2018](/wp-content/uploads/2018/03/HGS-Underhållsplan-2018.pdf)  
+[Kalkyl Underhållsplan 2018](/wp-content/uploads/2018/03/Kalkyl-Underhållsplan-2018.pdf)  
+[HGS Underhållsplan 2017](/wp-content/uploads/2017/03/HGS-Underhållsplan-2017.pdf)  
+[Kalkyl Underhållsplan 2017](/wp-content/uploads/2017/03/Kalkyl-Underhållsplan-2017.pdf)  
+[HGS Underhållsplan 2016](/wp-content/uploads/2016/03/HGS-Underhållsplan-2016.pdf)[  
+Presentation Underhållsplan 2016  ](/wp-content/uploads/2016/03/Presentation-Underhållsplan-2016.pdf)[Kalkyl Underhållsplan Alt 1 2016](/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-13.pdf)
 
 **[Historik över tidigare utförd rörförnyelse](http://www.hbgsamfall.win/index.php/information-2/historik-over-tidigare-utford-rorfornyelse/)**  
  **[Bakgrundsinformation](http://www.hbgsamfall.win/index.php/information-2/bakgrundsinformation/)**

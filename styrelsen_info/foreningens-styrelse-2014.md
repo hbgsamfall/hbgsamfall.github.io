@@ -10,4 +10,4 @@ parent: Styrelsen Informerar
 
 Klicka på raden nedan för att komma till dokumentet
 
-[HGS Samf Styrelse 2022](http://www.hbgsamfall.win/wp-content/uploads/2022/05/HGS-Samf-Styrelse-2022.pdf)
+[HGS Samf Styrelse 2022](/wp-content/uploads/2022/05/HGS-Samf-Styrelse-2022.pdf)

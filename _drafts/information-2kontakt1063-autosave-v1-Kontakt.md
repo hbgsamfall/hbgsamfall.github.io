@@ -11,7 +11,7 @@ permalink: '/?p=1067'
 #### Om ni vill ha kontakt med medlemmar i styrelsen;  
 ring eller mejla
 
-[![Ordförande](http://www.hbgsamfall.win/wp-content/uploads/2016/12/Ordförande.png)](http://www.hbgsamfall.win/wp-content/uploads/2016/12/Ordförande.png)
+[![Ordförande](/wp-content/uploads/2016/12/Ordförande.png)](/wp-content/uploads/2016/12/Ordförande.png)
 
 eller i andra hand ring eller mejla
 

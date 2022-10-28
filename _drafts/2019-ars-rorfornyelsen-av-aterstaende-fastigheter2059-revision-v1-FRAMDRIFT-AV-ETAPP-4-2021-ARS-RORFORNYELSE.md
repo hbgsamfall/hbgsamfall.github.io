@@ -8,7 +8,7 @@ guid: 'http://www.hbgsamfall.win/?p=2301'
 permalink: '/?p=2301'
 ---
 
-[![](http://www.hbgsamfall.win/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)](http://www.hbgsamfall.win/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)
+[![](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)
 
 Garantibesiktning Etapp 1 gjordes v 40.
 
@@ -19,8 +19,8 @@ Arbetet har fortgått enligt tidplanen med regelbundna byggmöten med entrepren�
 Nedan finns länkar till detaljerad tidplaner för Etapp 4 och grov plan för den fortsatta rörförnyelsen.
 
 **Tidplaner  
-[Definitiv tidplan 2021 Etapp 4](http://www.hbgsamfall.win/wp-content/uploads/2021/03/Projektplanering-Hasselby-med-veckor-samt-hus-2021.pdf)**
+[Definitiv tidplan 2021 Etapp 4](/wp-content/uploads/2021/03/Projektplanering-Hasselby-med-veckor-samt-hus-2021.pdf)**
 
 Information från entreprenören och de ställningstaganden och tilläggsval som fastighetsägare kan göra återfinns under rubriken **[RÖRFÖRNYELSE – FRAMÅTSKRIDANDE](http://www.hbgsamfall.win/index.php/information-2/rorfornyelse-framatskridande/)**
 
-**Grov tidplanering för resterade del av projekt** [Grovplanering 2022-2024](http://www.hbgsamfall.win/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)
+**Grov tidplanering för resterade del av projekt** [Grovplanering 2022-2024](/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)

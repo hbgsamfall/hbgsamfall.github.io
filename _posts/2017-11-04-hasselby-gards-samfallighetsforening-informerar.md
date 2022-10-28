@@ -13,7 +13,7 @@ categories:
 ---
 
 **[  
-Ny betalningsmottagare](http://www.hbgsamfall.win/wp-content/uploads/2017/11/Ny-betalningsmottagare.pdf)**  
+Ny betalningsmottagare](/wp-content/uploads/2017/11/Ny-betalningsmottagare.pdf)**  
 Vi vill härmed informera om att Hässelby Gårds Samfällighetsförening byter betalningsmottagare för medlemsavgiften från och med denna faktura.
 
 Från och med nu skall medlemsavgiften betalas till Bankgiro 824-5870

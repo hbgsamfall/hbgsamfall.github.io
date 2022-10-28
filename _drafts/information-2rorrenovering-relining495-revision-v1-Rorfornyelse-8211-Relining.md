@@ -12,7 +12,7 @@ permalink: '/?p=1774'
 
 De intresserade kan genom att gå via nedanstående länkar hitta mer information om Rörrenovering samt Rörinfodring eller Relining som det kallas i dagligt tal.
 
-[KTH Reliningrapport 2011](http://www.hbgsamfall.win/wp-content/uploads/2017/12/KTH-Reliningrapport-2011.pdf)  
+[KTH Reliningrapport 2011](/wp-content/uploads/2017/12/KTH-Reliningrapport-2011.pdf)  
 [CHALMERS Reliningrapport](http://publications.lib.chalmers.se/records/fulltext/163237.pdf)  
 [Guide – Rörrenovering](http://www.e-magin.se/v5/viewer/files/viewer_s.aspx?gKey=5cp1k69p&gInitPage=26)  
 [BRiF Branschföreningen relining i fastigheter](http://www.brif.se/Pages/Media.aspx?id=6)  

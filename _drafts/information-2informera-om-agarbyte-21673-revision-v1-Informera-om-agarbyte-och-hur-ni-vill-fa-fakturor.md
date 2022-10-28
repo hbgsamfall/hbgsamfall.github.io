@@ -16,4 +16,4 @@ De som inte har Googlekonto kan mejla den information som söks i formuläret ti
 
 [**Formulär för ägarbyte**](https://drive.google.com/open?id=18Goob2W3E8hGthVvIGM53WmRepJTFPogsWhvh-mnGy0)
 
-**[Formulär som kan fyllas i och mejlas](http://www.hbgsamfall.win/wp-content/uploads/2018/12/Ägarbyte-med-e-faktura.docx)** (Formuläret går att ladda ner)
+**[Formulär som kan fyllas i och mejlas](/wp-content/uploads/2018/12/Ägarbyte-med-e-faktura.docx)** (Formuläret går att ladda ner)

@@ -10,4 +10,4 @@ permalink: '/?p=1196'
 
 #### Inventering
 
-[Besiktning av elskåp](http://www.hbgsamfall.win/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf)
+[Besiktning av elskåp](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf)

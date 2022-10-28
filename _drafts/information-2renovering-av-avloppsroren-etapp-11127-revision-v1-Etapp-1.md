@@ -12,7 +12,7 @@ permalink: '/?p=1475'
 
 Efter årsskiftet kom äntligen arbetet igånd med renovering av samfällighetsföreningens andel av avloppsrören för den första av de fem planerade etapperna. **AARSLEFF RÖRTEKNIK AB**  är utsedd att utföra arbetet med denna etapp.
 
-[Information om upphandlingsförfarandet](http://www.hbgsamfall.win/wp-content/uploads/2016/03/Information-om-upphandlingsförfarandet.pdf)
+[Information om upphandlingsförfarandet](/wp-content/uploads/2016/03/Information-om-upphandlingsförfarandet.pdf)
 
 I etapp 1 ingår följande 39 fastigheter:  
 10 st Kv Täckheten 2-11, Stallknektsgränd 4-22  

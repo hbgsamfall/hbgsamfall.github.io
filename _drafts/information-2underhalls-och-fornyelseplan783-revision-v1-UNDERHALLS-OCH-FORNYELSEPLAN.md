@@ -22,5 +22,5 @@ Entreprenören har även fått möjlighet att inom den satta tidsramen fritt pla
 
 Genom att följa länkarna nedan kommer ni till den resulterande underhållsplanen från det senaste årsmötet:
 
-[HGS Underhållsplan 2022](http://www.hbgsamfall.win/wp-content/uploads/2022/05/HGS-Maintenance-Plan-2022.pdf)  
-[Kalkyl Underhållsplan 2022](http://www.hbgsamfall.win/wp-content/uploads/2022/05/Kalkyl-Underhallsplan-2022.pdf)
+[HGS Underhållsplan 2022](/wp-content/uploads/2022/05/HGS-Maintenance-Plan-2022.pdf)  
+[Kalkyl Underhållsplan 2022](/wp-content/uploads/2022/05/Kalkyl-Underhallsplan-2022.pdf)

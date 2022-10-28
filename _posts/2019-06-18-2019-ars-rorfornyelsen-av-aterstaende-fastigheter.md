@@ -10,7 +10,7 @@ categories:
     - nyheter
 ---
 
-[![](http://www.hbgsamfall.win/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)](http://www.hbgsamfall.win/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)
+[![](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)
 
 Förutom besiktning och eventuella åtgärder som identifieras vid besiktningen är Etapp 4 avslutad. Det innebär att enbart 9 fastigheter återstår att åtgärda, Enspännargatan 70 – 86. De fastigheterna ingår i Etapp 5 som i övrigt omfattar 64 fastigheter i område 10.  
 Arbetet har fortgått enligt tidplanen med regelbundna byggmöten med entreprenören Röranalys. Projektet har tidvis varit ansträngt på grund av pandemin, periodvis har entreprenören haft många sjukskrivningar vilket gjort att de ibland varit tvugna att forcera arbetet genom att jobba längre dagar och under helgdagar.  
@@ -23,8 +23,8 @@ Arbetet med Etapp 5 börjar vecka 23 och ska enligt plan avslutas vecka 50. För
 Nedan finns länkar till detaljerad tidplan för Etapp 5 och grov plan för den fortsatta rörförnyelsen.
 
 ### Tidplaner  
-[Definitiv tidplan 2022 Etapp 5](http://www.hbgsamfall.win/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)
+[Definitiv tidplan 2022 Etapp 5](/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)
 
 Information från entreprenören och de ställningstaganden och tilläggsval som fastighetsägare kan göra återfinns under rubriken [RÖRFÖRNYELSE – FRAMÅTSKRIDANDE]({% link relining/rorfornyelse-framatskridande.md %})
 
-**Grov tidplanering för resterade del av projekt** [Grovplanering 2022-2024](http://www.hbgsamfall.win/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)
+**Grov tidplanering för resterade del av projekt** [Grovplanering 2022-2024](/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)

@@ -9,4 +9,4 @@ permalink: '/?p=1768'
 ---
 
 Styrelsen har filmat avloppsrören i alla längor där rörförnyelse inte redan gjorts. Inget ras har setts och de tänkbara risker som identifierades är åtgärdade. Det är ingen garanti mot ras men sannolikheten är låg.  
-Om ni renoverar, KONTAKTA STYRELSEN INNAN NI RÖR AVLOPPSRÖR UNDER BOTTENBJÄLKLAGET. Detta eftersom de rören ingår i den [gemensamhetsanläggning ](http://www.hbgsamfall.win/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf)som [förvaltas av samfälligheten](http://www.hbgsamfall.win/index.php/information-2/foreningens-syfte-och-ansvar/).
+Om ni renoverar, KONTAKTA STYRELSEN INNAN NI RÖR AVLOPPSRÖR UNDER BOTTENBJÄLKLAGET. Detta eftersom de rören ingår i den [gemensamhetsanläggning ](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf)som [förvaltas av samfälligheten](http://www.hbgsamfall.win/index.php/information-2/foreningens-syfte-och-ansvar/).

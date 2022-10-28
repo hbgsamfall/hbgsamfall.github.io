@@ -19,7 +19,7 @@ Filmningen är nu avslutad och VA-gruppen kommer att granska underlaget, dels f�
 **2015-12-05**  
 Entreprenören **Sv.Röranalys** har anlitats för att filma avloppsstammarna i de fastigheter där rörförnyelse ännu inte utförts. I nedanstående tidplan kan ni ser när filmning kommer att ske i ert kvarter.
 
-För de i tidplanen angivna fastigheterna, t.ex. Enspännargatan 74, 80 och 86, kommer Entreprenören att behöva tillgång till rensluckorna. För att undvika merkostnader ber styrelsen och VA gruppen att ägaren/boende i angivna fastigheter ringer eller mejlar till ordföranden eller annan kontaktperson ifall rensluckan är överbyggd, igensatt eller borttagen. Om vi får informationen i tid kan Entreprenören ändra sin planering utan tilläggskostnad. Klicka här för att se hur en sådan **[renslucka ](http://www.hbgsamfall.win/wp-content/uploads/2016/09/Renslucka-till-samlingsledning-under-golv.jpg)**normalt ser ut.
+För de i tidplanen angivna fastigheterna, t.ex. Enspännargatan 74, 80 och 86, kommer Entreprenören att behöva tillgång till rensluckorna. För att undvika merkostnader ber styrelsen och VA gruppen att ägaren/boende i angivna fastigheter ringer eller mejlar till ordföranden eller annan kontaktperson ifall rensluckan är överbyggd, igensatt eller borttagen. Om vi får informationen i tid kan Entreprenören ändra sin planering utan tilläggskostnad. Klicka här för att se hur en sådan **[renslucka ](/wp-content/uploads/2016/09/Renslucka-till-samlingsledning-under-golv.jpg)**normalt ser ut.
 
 I takt med tidplanen kommer var och en av de angivna fastigheterna att en vecka i förväg få **Avisering inför arbete i Er fastighe**t. Nedanför tidplanen ser ni ett exempel på den avisering ni kommer att få.
 
@@ -102,4 +102,4 @@ Tisdag: 13/12 Sedum/Guckuskon Adress: Grönbetevägen 27, 21, 36, 26 och 44
 
 ####  
 
-[![Föravisering stamspolning Utg 1 2015](http://www.hbgsamfall.win/wp-content/uploads/2016/10/Föravisering-stamspolning-Utg-1-2015.png)](http://www.hbgsamfall.win/wp-content/uploads/2016/10/Föravisering-stamspolning-Utg-1-2015.png)
+[![Föravisering stamspolning Utg 1 2015](/wp-content/uploads/2016/10/Föravisering-stamspolning-Utg-1-2015.png)](/wp-content/uploads/2016/10/Föravisering-stamspolning-Utg-1-2015.png)

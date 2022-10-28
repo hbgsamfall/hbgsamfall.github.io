@@ -10,11 +10,11 @@ permalink: '/?p=2230'
 
 ####  **ÅRSMÖTE 2021**
 
-[**Kallelse Årsmöte 2021**](http://www.hbgsamfall.win/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021.pdf)  
+[**Kallelse Årsmöte 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021.pdf)  
 Tid : Tisdag 17/3 – Kl. 19.00 – 21.00  
 Plats : Prisma, Hässelby Gårdsskolan
 
-<span style="color: #339966;">[**<span style="text-decoration: underline;">Utskickade handlingar inför årsmötet</span>**](http://www.hbgsamfall.win/wp-content/uploads/2020/03/Kallelse-till-årsstämma-2020.pdf)</span>  
+<span style="color: #339966;">[**<span style="text-decoration: underline;">Utskickade handlingar inför årsmötet</span>**](/wp-content/uploads/2020/03/Kallelse-till-årsstämma-2020.pdf)</span>  
 Bilaga 1 – Verksamhetsberättelse för år 2020  
 Bilaga 2 – Resultatrapport  
 Bilaga 2 – Balansrapport  
