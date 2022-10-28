@@ -1,6 +1,6 @@
 ---
 id: 1910
-title: aviseringar
+title: Aviseringar
 date: '2018-08-21T18:21:17+01:00'
 author: hbgsamfall
 layout: page

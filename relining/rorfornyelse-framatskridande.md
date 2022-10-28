@@ -10,7 +10,7 @@ parent: Rörförnyelse
 
 2018 tecknades ett avtal med Röranalys för slutförandet av rörförnyelsen av våra avloppsstammar. Avtalet är uppdelat i 7 etapper och de 4 första etapperna är nu genomförda.
 
-På sidan [Framdrift av Etapp 5](http://www.hbgsamfall.win/index.php/2019-ars-rorfornyelsen-av-aterstaende-fastigheter/) ges en resume av Etapp 4 samt en kort information om Etapp 5, som är planerad att starta vecka 23, 2022.  
+På sidan [Framdrift av Etapp 5]({% post_url 2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter %}) ges en resume av Etapp 4 samt en kort information om Etapp 5, som är planerad att starta vecka 23, 2022.  
 Nedan finns länk till Definitiv tidplan etapp 5, 2022, där tidpunkten för ingående fastigheter är angiven. Där finns dessutom en länk till den övergripande grova tidplanen för den återstående rörförnyelsen (2022 – 2024).  
 Förutom tidplaner finns även länkar för information till fastighetsägarna från Röranalys
 
@@ -23,7 +23,7 @@ Det ges dessutom information om tillval som fastighetsägaren kan göra efter r�
 Nedan finns länkar till den typ av information som kommer att ges av Röranalys när de informerar om kommande arbete.
 
 [INFORMATION FRÅN ENTREPRENÖREN](http://www.hbgsamfall.win/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)  
-[AVISERINGAR](http://www.hbgsamfall.win/index.php/information-2/aviseringar/)  
+[AVISERINGAR]({% link pages/aviseringar.md %})  
 [TILLVAL SOM BOKAS VID ENTREPRENÖRENS  
 BESIKTNING](http://www.hbgsamfall.win/wp-content/uploads/2018/06/Beställningavi.pdf)
 

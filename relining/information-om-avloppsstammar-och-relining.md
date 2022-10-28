@@ -9,8 +9,3 @@ has_children: true
 parent: Rörförnyelse
 ---
 
-[Avloppsstammars livslängd](http://www.hbgsamfall.win/index.php/information-2/avloppsstammars-livslangd/)
-
-[Relining](http://www.hbgsamfall.win/index.php/information-2/rorrenovering-relining/)
-
-[Inspektion av avloppsstammar – Före och efter relining](http://www.hbgsamfall.win/index.php/information-2/inspektion-av-avloppsledningar-fore-och-efter-relining/)

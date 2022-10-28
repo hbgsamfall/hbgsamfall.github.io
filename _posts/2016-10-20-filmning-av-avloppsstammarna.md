@@ -5,7 +5,7 @@ date: '2016-10-20T21:18:18+01:00'
 author: hbgsamfall
 layout: post
 guid: 'http://www.hbgsamfall.info.tm/?p=1495'
-permalink: /index.php/filmning-av-avloppsstammarna/
+permalink: /news/filmning-av-avloppsstammarna/
 dsq_thread_id:
     - '5241964864'
 categories:

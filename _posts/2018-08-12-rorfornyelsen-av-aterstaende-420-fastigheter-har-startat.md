@@ -5,9 +5,7 @@ date: '2018-08-12T10:34:47+01:00'
 author: hbgsamfall
 layout: post
 guid: 'http://www.hbgsamfall.info.tm/?p=1895'
-permalink: /index.php/rorfornyelsen-av-aterstaende-420-fastigheter-har-startat/
-dsq_thread_id:
-    - '6849244566'
+permalink: /news/rorfornyelsen-av-aterstaende-420-fastigheter-har-startat/
 categories:
     - nyheter
 ---
@@ -27,4 +25,4 @@ Det återstår för oss att göra slutbesiktning av det utförda arbetet och fö
 
 Fastigheter på Ardennergatan, Remontgatan och Friherregatan ingick i den första etappen. Projektet har förlöpt väl. Trots en del skadade rör och vissa svåråtkomliga rensluckor har tidplanen kunnat hållas.
 
-[Tidplan – Rörförnyelse\_2018](http://www.hbgsamfall.win/index.php/2019-ars-rorforn…ende-fastigheter/)
+[Tidplan – Rörförnyelse]({% link relining/rorfornyelse-framatskridande.md %})

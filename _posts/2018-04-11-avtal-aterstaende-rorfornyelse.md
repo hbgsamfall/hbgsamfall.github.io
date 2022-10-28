@@ -5,7 +5,7 @@ date: '2018-04-11T16:58:07+01:00'
 author: hbgsamfall
 layout: post
 guid: 'http://www.hbgsamfall.info.tm/?p=1831'
-permalink: /index.php/avtal-aterstaende-rorfornyelse/
+permalink: /news/avtal-aterstaende-rorfornyelse/
 dsq_thread_id:
     - '6610148608'
 categories:

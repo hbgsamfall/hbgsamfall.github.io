@@ -24,4 +24,5 @@ De intresserade kan genom att gå via nedanstående länkar hitta mer informatio
 #### Information om TV inspektion av avloppsledningar
 
 För information om TV inspektion av avloppsledningar – gå till undermenyn nedan:  
-[Inspektion av avloppsledningar – Före och efter relining](http://admin.hbgsamfall.win/index.php/information-2/inspektion-av-avloppsledningar-fore-och-efter-relining/ "Inspektion av avloppsledningar – Före och efter relining")
+[Inspektion av avloppsledningar – Före och efter relining]({% link relining/inspektion-av-avloppsledningar-fore-och-efter-relining.md %})
+

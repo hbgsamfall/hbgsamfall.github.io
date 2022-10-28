@@ -5,9 +5,7 @@ date: '2017-05-02T08:14:43+01:00'
 author: hbgsamfall
 layout: post
 guid: 'http://www.hbgsamfall.info.tm/?p=1650'
-permalink: /index.php/atgardande-av-fel-som-identifierades-vid-filmningen/
-dsq_thread_id:
-    - '5780111643'
+permalink: /news/atgardande-av-fel-som-identifierades-vid-filmningen/
 categories:
     - nyheter
 ---

@@ -8,7 +8,7 @@ guid: 'http://hbgsamfall.info.tm/?page_id=416'
 nav_order: 35
 ---
 
-Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar anmäls till nedanstående mejladress. Kontaktuppgifter finns under [KONTAKT](http://www.hbgsamfall.win/index.php/information-2/kontakt/), fliken längst upp till höger på sidan under bilden
+Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar anmäls till nedanstående mejladress. Kontaktuppgifter finns under [KONTAKT]({%link pages/kontakt.md %}), fliken längst upp till höger på sidan under bilden
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.
 

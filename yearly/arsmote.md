@@ -15,4 +15,3 @@ has_children: true
 **2022 Årsmöte – Mars**  
 [Kallelse, handlingar](http://www.hbgsamfall.win/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)
 
-**[Föregående år](http://hbgsamfall.win/index.php/information-2/foregaende-ars-arsmoten/ "Föregående års årsmöten")**

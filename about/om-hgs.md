@@ -11,11 +11,4 @@ nav_order: 10
 
 #### **I undermenyerna hittar ni allmän information om Hässelby Gårds Samfällighetsförening** 
 
-[Bakgrund &amp; Historik](http://hbgsamfall.win/index.php/information-2/historik/)  
-[Fakta](http://hbgsamfall.win/index.php/information-2/fakta/)  
-[Stadgar](http://hbgsamfall.win/index.php/information-2/stadgar/)  
-[Föreningens syfte &amp; ansvar](http://hbgsamfall.win/index.php/information-2/foreningens-syfte-och-ansvar/)  
-[Årsmöten](http://hbgsamfall.win/index.php/information-2/arsmoten/)  
-[Villaföreningen](http://hbgsamfall.win/index.php/information-2/villaforeningen/ "Villaföreningen")
-
 Ovanstående information finns samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)

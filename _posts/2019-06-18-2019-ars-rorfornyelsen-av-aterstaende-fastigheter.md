@@ -5,7 +5,7 @@ date: '2019-06-18T14:00:46+01:00'
 author: hbgsamfall
 layout: post
 guid: 'http://www.hbgsamfall.info.tm/?p=2059'
-permalink: /index.php/2019-ars-rorfornyelsen-av-aterstaende-fastigheter/
+permalink: /news/2019-ars-rorfornyelsen-av-aterstaende-fastigheter/
 categories:
     - nyheter
 ---
@@ -22,9 +22,9 @@ Arbetet med Etapp 5 börjar vecka 23 och ska enligt plan avslutas vecka 50. För
 
 Nedan finns länkar till detaljerad tidplan för Etapp 5 och grov plan för den fortsatta rörförnyelsen.
 
-**Tidplaner  
-[Definitiv tidplan 2022 Etapp 5](http://www.hbgsamfall.win/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)**
+### Tidplaner  
+[Definitiv tidplan 2022 Etapp 5](http://www.hbgsamfall.win/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)
 
-Information från entreprenören och de ställningstaganden och tilläggsval som fastighetsägare kan göra återfinns under rubriken **[RÖRFÖRNYELSE – FRAMÅTSKRIDANDE](http://www.hbgsamfall.win/index.php/information-2/rorfornyelse-framatskridande/)**
+Information från entreprenören och de ställningstaganden och tilläggsval som fastighetsägare kan göra återfinns under rubriken [RÖRFÖRNYELSE – FRAMÅTSKRIDANDE]({% link relining/rorfornyelse-framatskridande.md %})
 
 **Grov tidplanering för resterade del av projekt** [Grovplanering 2022-2024](http://www.hbgsamfall.win/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)

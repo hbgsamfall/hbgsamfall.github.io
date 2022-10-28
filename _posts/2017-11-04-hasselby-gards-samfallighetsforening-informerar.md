@@ -5,7 +5,7 @@ date: '2017-11-04T11:03:12+01:00'
 author: hbgsamfall
 layout: post
 guid: 'http://www.hbgsamfall.info.tm/?p=1707'
-permalink: /index.php/hasselby-gards-samfallighetsforening-informerar/
+permalink: /news/hasselby-gards-samfallighetsforening-informerar/
 dsq_thread_id:
     - '6268757017'
 categories:
