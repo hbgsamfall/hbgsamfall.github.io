@@ -16,10 +16,9 @@ De intresserade kan genom att gå via nedanstående länkar hitta mer informatio
 [KTH Reliningrapport 2011](http://www.hbgsamfall.win/wp-content/uploads/2017/12/KTH-Reliningrapport-2011.pdf)  
 [CHALMERS Reliningrapport](http://publications.lib.chalmers.se/records/fulltext/163237.pdf)  
 [Guide – Rörrenovering](http://www.e-magin.se/v5/viewer/files/viewer_s.aspx?gKey=5cp1k69p&gInitPage=26)  
-[BRiF Branschföreningen relining i fastigheter](http://www.brif.se/Pages/Media.aspx?id=6)  
+[BRiF Branschföreningen relining i fastigheter](http://www.brif.se/)  
 [Bra att veta om relining och Sacpipe Connection System](https://www.youtube.com/watch?v=J4g_RC5AAEw). Filmen innehåller information om en liknande typ av relining som den som utförs i Samfällighetsföreningens Etapp 1 med början 2015-01-11  
-[Relining med Tubus System](http://www.tubussystem.se/relining). Sidan innehåller instruktiv film och animation av relining.  
-[HWQ, Relining Systems AB](http://www.hwq.se) (kallvattenledningar)
+[Relining med Re-New ab](https://youtu.be/LNeUH7v6BEI)). En instruktiv film och animation av relining.  
 
 #### Information om TV inspektion av avloppsledningar
 
