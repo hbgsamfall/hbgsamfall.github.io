@@ -14,11 +14,11 @@ Samfällighetsföreningen svarar för underhåll och reparation av följande gem
 För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte. Utbyte är för närvarande planerat att ske 2034
 
 **Rör för avloppsvatten**  
-Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande](http://www.hbgsamfall.win/index.php/information-2/rorfornyelse-framatskridande/)  
+Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
 Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågåenderörförnyelsen
 
 **Rör för dagvatten inklusive gårdsbrunnar**  
-Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande](http://www.hbgsamfall.win/index.php/information-2/rorfornyelse-framatskridande/)  
+Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
 Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågående rörförnyelsen
 
 **Elektriska kablar/säkringsskåp**  

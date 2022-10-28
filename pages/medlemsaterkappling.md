@@ -38,7 +38,7 @@ Telefonnummer och mejladresser hittar ni under rubriken Styrelsen informerar/Fö
 ## Kallvattenledningar
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!Underhållsplanering W300
 
-![plumber]({{ site.baseurl }}/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
+![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
 
 Hälsningar
 Styrelsen
