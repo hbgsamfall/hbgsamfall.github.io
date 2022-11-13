@@ -15,3 +15,4 @@ Arbeten som berör föreningens anläggningar får bestämmas och beställas enb
 Felanmälan ska alltid anmälas via epost till:
 
 [Samfällighetens mejladress](/wp-content/uploads/2016/12/Samfällighetens-mejladress.png)
+
