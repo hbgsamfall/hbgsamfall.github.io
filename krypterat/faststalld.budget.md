@@ -1,6 +1,6 @@
 ---
 id: 162
-title: Ekonomi
+title: Fastställd budget
 date: '2014-03-15T13:21:20+01:00'
 author: hbgsamfall
 layout: page
