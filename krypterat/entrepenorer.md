@@ -12,3 +12,11 @@ nav_exclude: true
 <span style="color: #ff00ff;">**Denna information är förbehållen samfällighetens styrelse**</span>
 
 Här kommer en lista med de entreprenörer att läggas upp. Listan är för att de i styrelsen ska kunna slå upp lämplig entreprenör att kalla in i samband med en mottagen felanmälan.
+
+<ul class="posts">
+{% for file in site.static_files %}
+	{% if file.path contains 'krypterat/entrepenorer_filer' %}
+	      <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
