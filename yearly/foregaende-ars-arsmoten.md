@@ -15,6 +15,8 @@ Här finns information från de senaste årens årsmöten.
 [Kallelse Årsmöte 2014](/wp-content/uploads/2014/03/Kallelse-Årsmöte-2014.pdf)  
 [Kallelse Årsmöte 2015](/wp-content/uploads/2015/02/Kallelse-Årsmöte-2015.pdf)  
 [Kallelse till extra stämma 7 oktober 2015  ](/wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017.pdf)  
+[Kallelse Årsmöte 2016](wp-content/uploads/2016/03/Rev2-Kallelse-Årsmöte-2016-03-16.pdf) 
+[Kallelse Årsmöte 2017](wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017.pdf)  
 [Kallelse Årsmöte 2018](/wp-content/uploads/2018/03/HGS-Kallelse-till-årsstämma-2018.pdf)  
 [Kallelse Årsmöte 2019](/wp-content/uploads/2019/03/Kallelse-till-årsstämma-HGS-2019-1.pdf)  
 [Kallelse Årsmöte 2020](/wp-content/uploads/2020/03/Kallelse-Årsmöte-2020.pdf)  
@@ -26,6 +28,7 @@ Här finns information från de senaste årens årsmöten.
 [Årsmötesprotokoll 2015](/wp-content/uploads/2016/02/Årsmötesprotokoll-2015.pdf)  
 [Protokoll från extrastämma](/wp-content/uploads/2015/02/Sammanställning-av-underhålls-och-förnyelseplanen.pdf)som refereras till i protokollet)  
 [Årsmötesprotokoll 2016  ](/wp-content/uploads/2017/03/Årsmötesprotokoll-2017.pdf)  
+[Årsmötesprotokoll 2017](wp-content/uploads/2017/03/Årsmötesprotokoll-2017.pdf)  
 [Årsmötesprotokoll 2018](/wp-content/uploads/2018/05/Protokoll-årsmöte-2018.pdf)  
 [Årsmötesprotokoll 2019](/wp-content/uploads/2019/04/Protokoll-Årsmöte-2019.pdf)  
 [Årsmötesprotokoll 2020](/wp-content/uploads/2020/04/HGS-Protokoll-årsmöte-2020.pdf)  
@@ -74,7 +77,7 @@ Kallelse till årsmöte
 – Bilaga 5: Underhålls- och förnyelseplan för år 2018  
 – Fullmakt  
 <span style="color: #000000;">
-[#### Handlingar årsmötet 2017](wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017-sammanslagen.pdf)
+[Handlingar årsmötet 2017](wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017-sammanslagen.pdf)  
 – Bilaga 1: Verksamhetsberättelse för år 2016  
 – Bilaga 2: Resultaträkning år 2016, Balansräkning 2016  
 – Bilaga 3: Revisionsberättelse  
