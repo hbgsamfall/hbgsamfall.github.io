@@ -15,7 +15,7 @@ Här finns information från de senaste årens årsmöten.
 [Kallelse Årsmöte 2014](/wp-content/uploads/2014/03/Kallelse-Årsmöte-2014.pdf)  
 [Kallelse Årsmöte 2015](/wp-content/uploads/2015/02/Kallelse-Årsmöte-2015.pdf)  
 [Kallelse till extra stämma 7 oktober 2015  ](/wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017.pdf)  
-[Kallelse Årsmöte 2016](wp-content/uploads/2016/03/Rev2-Kallelse-Årsmöte-2016-03-16.pdf) 
+[Kallelse Årsmöte 2016](wp-content/uploads/2016/03/Rev2-Kallelse-Årsmöte-2016-03-16.pdf)  
 [Kallelse Årsmöte 2017](wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017.pdf)  
 [Kallelse Årsmöte 2018](/wp-content/uploads/2018/03/HGS-Kallelse-till-årsstämma-2018.pdf)  
 [Kallelse Årsmöte 2019](/wp-content/uploads/2019/03/Kallelse-till-årsstämma-HGS-2019-1.pdf)  
@@ -66,7 +66,7 @@ Kallelse till årsmöte
 – Bilaga 4: Utgifts- Inkomststat/Budget år 2019  
 – Fullmakt  
 [Revisionsberättelse](/wp-content/uploads/2019/03/Revisionsberättelse.pdf)  
-[Valberedningens förslag 2019-03-19\_0905](/wp-content/uploads/2019/03/Valberedningens-förslag-2019-03-19_0905.pdf)
+[Valberedningens förslag](/wp-content/uploads/2019/03/Valberedningens-förslag-2019-03-19_0905.pdf)
 
 [Handlingar årsmötet 2018](/wp-content/uploads/2018/03/Utskickade-handlingar-inför-årsmötet.pdf)  
 – Kallelse till årsmöte  
