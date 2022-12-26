@@ -73,13 +73,16 @@ Kallelse till årsmöte
 – Bilaga 4: Utgifts- Inkomststat/Budget år 2018  
 – Bilaga 5: Underhålls- och förnyelseplan för år 2018  
 – Fullmakt  
-<span style="color: #000000;">[Handlingar årsmötet](/wp-content/uploads/2016/02/FULLMAKT.pdf)– Kallelse till årsmöte  
+<span style="color: #000000;">
+#### Handlingar årsmötet 2017  
 – Bilaga 1: Verksamhetsberättelse för år 2016  
 – Bilaga 2: Resultaträkning år 2016, Balansräkning 2016  
 – Bilaga 3: Revisionsberättelse  
 – Bilaga 4: Utgifts- Inkomststat/Budget år 2017  
 – Bilaga 5: Underhålls- och förnyelseplan för år 2017  
-– Fullmakt</span><span style="color: #000000;">  
+[– Fullmakt](/wp-content/uploads/2016/02/FULLMAKT.pdf)
+ 
+#### Handlingar årsmötet 2015
 [Underhållsplan 2016 Alt 1](/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-1.pdf)  
 [(Alt 1 sid 3 i större format)](/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-13.pdf)  
 [Förslag inkomststat 2016\_Alt 1](/wp-content/uploads/2016/03/Förslag-inkomststat-2016_Alt-1.pdf)  
@@ -90,7 +93,7 @@ Kallelse till årsmöte
 [Verksamhetsberättelse 2015](/wp-content/uploads/2016/02/Verksamhetsberättelse-2015.pdf)  
 [Resultaträkning 2015](/wp-content/uploads/2016/02/Resultaträkning-2015.pdf)  
 [Balansrapport 2015](/wp-content/uploads/2016/02/Balansrapport-2015.pdf)  
-[S](/wp-content/uploads/2015/02/Sammanställning-av-underhålls-och-förnyelseplanen.pdf)  
+[Sammanställning-av-underhålls-och-förnyelseplanen](/wp-content/uploads/2015/02/Sammanställning-av-underhålls-och-förnyelseplanen.pdf)  
 [Förslag till budget 2015](/wp-content/uploads/2015/03/Budget-2015.pdf)  
 [Revisionsberättelse 2015](/wp-content/uploads/2016/03/Revisionsberättelse-2015.pdf)  
 [Presentation Förnyelseplan](/wp-content/uploads/2015/11/Presentation-F%C3%B6rnyelseplan.pdf) vid Extrastämman  
