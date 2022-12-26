@@ -74,7 +74,7 @@ Kallelse till årsmöte
 – Bilaga 5: Underhålls- och förnyelseplan för år 2018  
 – Fullmakt  
 <span style="color: #000000;">
-#### Handlingar årsmötet 2017  
+[#### Handlingar årsmötet 2017](wp-content/uploads/2017/02/Kallelse-till-årsstämma-2017-sammanslagen.pdf)
 – Bilaga 1: Verksamhetsberättelse för år 2016  
 – Bilaga 2: Resultaträkning år 2016, Balansräkning 2016  
 – Bilaga 3: Revisionsberättelse  
