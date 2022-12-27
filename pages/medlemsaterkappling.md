@@ -8,7 +8,8 @@ nav_order: 999
 ---
 
 ## rörförnyelse - framåtskridande  
-På sidan under rubriken ovan finns Definitiv tidplan 2022 Etapp 5, Etapp 5 - Information till boende samt en grov tidplan 2022-2024.
+På sidan under rubriken ovan finns Preliminär tidplan Etapp 6, 2023. Röranalys kommer att genomföra Etapp 6, alla återstående fastigheter, under 2023 med preliminär start vecka 33. 
+Detaljerad tidplan kommer att presenteras i god tid innan arbetet börjar.
 
 ## agerande vid stopp i avlopp
 Föreningen har avtal med Röranalys om spolning och kontroll av våra gemensamma avloppsrör:
