@@ -12,7 +12,7 @@ parent: Rörförnyelse
 
 Etapp 6 kommer att inkludera samtliga återstående fastigheter. Den Preliminära tidplanen för etapp 6, 2023, anger tidpunkten för start av rörförnyelsen för de ingående fastigheterna. 
 
-**[Preliminär tidplan etapp 6 2023](https://github.com/hbgsamfall/hbgsamfall.github.io/blob/23576158782b8ea22aa92ce7a7b682589b2858e4/wp-content/uploads/2022/Prelimin%C3%A4r%20tidplan%20Etapp%206.pdf)**
+**[Preliminär tidplan etapp 6 2023](wp-content/uploads/2022/Preliminär tidplan Etapp 6.pdf)**
 
 I takt med att rörförnyelsen går vidare kommer de fastighetsägare som blir berörda att bli informerade så de får möjlighet att planera för den störning i boendet som arbetet med avloppsrören innebär.
 
@@ -31,6 +31,4 @@ BESIKTNING](/wp-content/uploads/2018/06/Beställningavi.pdf)
 
 [Etapp 5 – Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
 
-**[Definitiv tidplan 2022 Etapp 5](/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)**
-
-**[Grovplanering 2022-2024](/wp-content/uploads/2021/02/Grovplanering-2022-2024.pdf)**
+[Definitiv tidplan 2022 Etapp 5](/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)
