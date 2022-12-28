@@ -15,4 +15,4 @@ Det finns även information om upptag, arbete som röranalys kan vara tvungen at
 **[Förbesiktningsavisering- upptag](/wp-content/uploads/2018/08/Förbesiktningsavisering-upptag.pdf) [Föravisering innan arbetet](/wp-content/uploads/2019/02/Föravisering-innan-arbetet.pdf)**
 
 Det finns dessutom information om tillval som fastighetsägaren kan göra efter rörinfodringen .  
-**[Tillvalsavisering](/wp-content/uploads/2018/08/Tillvalsavisering.pdf)**
+**[Tillvalsavisering](/wp-content/uploads/2022/Tillvalsavisering.pdf)**
