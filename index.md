@@ -8,7 +8,7 @@ nav_exclude: true
 guid: 'http://hbgsamfall.info.tm/?page_id=202'
 ---
 
-[![logo](/wp-content/uploads/2022/09/hgs_logo_small.png)](/wp-content/uploads/2022/09/hgs_logo_small.png)                                        **[Preliminär tidplan Etapp 6](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf)**
+[![logo](/wp-content/uploads/2022/09/hgs_logo_small.png)](/wp-content/uploads/2022/09/hgs_logo_small.png)                                                                                **[Preliminär tidplan Etapp 6](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf)**
 
 
 <span style="color: #000000; font-size: 30px; font-family: Georgia, Arial, Times, serif; font-weight: normal;">Välkommen till Hässelby Gårds Samfällighetsförening</span>
