@@ -8,7 +8,7 @@ nav_order: 999
 ---
 
 ## rörförnyelse - framåtskridande  
-På sidan under rubriken ovan finns Preliminär tidplan Etapp 6, 2023. Röranalys kommer att genomföra Etapp 6, alla återstående fastigheter, under 2023 med preliminär start vecka 33. 
+På sidan under rubriken ovan finns Preliminär tidplan Etapp 6, 2023. Röranalys kommer under 2023 att genomföra Etapp 6 (som kommer att omfatta alla återstående fastigheter) med preliminär start vecka 33. 
 Detaljerad tidplan kommer att presenteras i god tid innan arbetet börjar.
 
 ## agerande vid stopp i avlopp
