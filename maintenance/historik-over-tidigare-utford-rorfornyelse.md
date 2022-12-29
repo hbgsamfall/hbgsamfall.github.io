@@ -10,7 +10,7 @@ parent: Underhållsplan
 
 #### <u>2015 – 2017</u>
 
-**Etapp 1** Förutom en restpunkt som entreprenören åtgärdade våren 2017 avslutades rörförnyelse **[Etapp 1]({% link relining/renovering-av-avloppsroren-etapp-1.md %})** under 2016.
+**Aarsleff Etapp 1** Förutom en restpunkt som entreprenören åtgärdade våren 2017 avslutades rörförnyelse **[Aarsleff Etapp 1]({% link relining/renovering-av-avloppsroren-etapp-1.md %})** under 2016.
 
 **Etapp 2 (avbruten)**  
 Anbudsbegäran för Etapp 2 av rörförnyelsen skickades ut 2016-03-01. Prisnivån på de inkomna anbuden var alltför hög och därför avbröts upphandlingen. Styrelsen började därefter söka vägar för att få ett bättre pris vid fortsatt upphandling.
