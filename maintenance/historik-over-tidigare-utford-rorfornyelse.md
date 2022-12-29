@@ -12,7 +12,7 @@ parent: Underhållsplan
 
 På grund av att stamledningarna under vissa fastigheter börjat rasa samman och orsaka stopp i avloppen har styrelsen  under år 2014 via anbudförfarande valt Pipecoating som entreprenör för reparation/ relining av avloppsledningarna för 3 radhus, Kurirgatan 15 - 19. Detta på grund av en så kallad "komage", d.v.s. en sättning där avloppsrören sjunkit ned så att det orsakat stopp i avloppet. I ett av dessa radhus, där "komagen" låg, måste golven i undervåning och badrum bilas upp med därtil ökade kostnader.
 
-Styrelsen har även under året på grund av totalt sammanbrott på avloppsledningen genom anbudsförfarande akut kontrakterat entreprenören  Pipecoating för reparation/ relining av avloppsstammarna under ytterligare 25 radhus, Loviselundsvägen 63-73, Sleipnergatan 14-18, Kurirgatan 1-19 och Astrakangatan 199-209. Även här måste golven i undervåning och badrum bilas upp i en fastighet på grud av totalt havererad avloppsstam.
+Styrelsen har även under året på grund av totalt sammanbrott på avloppsledningen genom anbudsförfarande akut kontrakterat entreprenören  Pipecoating för reparation/ relining av avloppsstammarna under ytterligare 22 radhus, Loviselundsvägen 63-73, Sleipnergatan 14-18, Kurirgatan 1-13 och Astrakangatan 199-209. Även här måste golven i undervåning och badrum bilas upp i en fastighet på grud av totalt havererad avloppsstam.
 
 Genomförandet av dessa entreprenader har gått bra borttett från i något fall försening med återställning efter genomförd rörförnyelse.
 
