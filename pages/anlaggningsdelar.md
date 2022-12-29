@@ -11,7 +11,7 @@ nav_order: 80
 Samfällighetsföreningen svarar för underhåll och reparation av följande gemensamma anläggningsdelar:
 
 **Vattenrör för kallvatten**  
-Inventering har utförts och vattenrören för kallvatten planeras att bytas ut under åren 2026 -2030. För närvarande håller styrelsen på med att ta fran upphandlingsunderlag.
+Inventering har utförts och vattenrören för kallvatten planeras att bytas ut under åren 2026 -2030. För närvarande håller styrelsen på med att ta fram upphandlingsunderlag.
 
 **Rör för avloppsvatten**  
 Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
