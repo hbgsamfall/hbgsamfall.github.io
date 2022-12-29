@@ -12,7 +12,7 @@ parent: Om HGS
 
 Våra avlopp som är gjorda i gjutjärn är mer än 50 år gamla och en kostsam rörförnyelse håller på att genomföras.
 
-Rörförnyelsen kommer att slutföras under 2023 men de inkommande kallvattenledningarna, inkommande elektriska kablar inklusive säkringsskåp och säkringar är lika gamla och behöver succesivt bytas ut. Dessa utbyten innebär störninar för de boende. 
+Rörförnyelsen kommer att slutföras under 2023 men de inkommande kallvattenledningarna, inkommande elektriska kablar inklusive säkringsskåp och säkringar är lika gamla och behöver succesivt bytas ut. Dessa utbyten innebär kostnader för samfälligheten och störninar för de boende. 
 
 Kom till föreningens årsmöten och bidra till och ge stöd för planläggningen av den nödvändiga förvaltningen av gemensamhetsanläggningarna.
 
