@@ -10,7 +10,7 @@ parent: Styrelsen Informerar
 
 #### Nuvarande medlemsavgift
 
-Medlemsavgiften beslutas varje år av årsmötet.  Se längt ned på sidan beträffande fakturering av medlemsavgiften
+Medlemsavgiften beslutas varje år av årsmötet.              #### Se längst ned på sidan beträffande fakturering av medlemsavgiften
 
 Den nuvarande medlemsavgiften är 14 400 kr. Den tas ut genom en uttaxering av 3600 kronor per kvartal.
 
@@ -28,6 +28,7 @@ Vi hoppas det här ger de som undrar den information de behöver och om de har f
 
 För de som inte var med på årsmötet finns mer information i [**Utskickade handlingar inför årsmötet**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf) samt  
 presentationen **[190317 Projekt rörförnyelse](/wp-content/uploads/2019/03/190317-Projekt-rörförnyelse.pdf)**
+
 
 
 **Fakturering av medlemsavgiften**
