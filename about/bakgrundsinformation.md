@@ -10,11 +10,11 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1750'
 
 #### Bakgrundsinformation
 
-Vid årsmötet 2014 påtalade medlemmarna det akuta behovet av renovering av samfällighetens avloppssystem och efterfrågade en riktig underhållsplan på 5 eller 10 år. Styrelsen tog först fram en förnyelseplan som las fram vid årsmötet 2015. Samfällighetens underhållsplaner kommer man till genom att följa länkarna ovan som lagts in med grön text.
+Vid årsmötet 2014 påtalade medlemmarna det akuta behovet av renovering av samfällighetens avloppssystem och efterfrågade en riktig underhållsplan på 5 eller 10 år. Styrelsen tog först fram en förnyelseplan som las fram vid årsmötet 2015. Man kommer till samfällighetens underhållsplaner genom att i menyn till vänster gå in på **Underhållsplan.
 
 Behovet att ta fram en förnyelseplan beror på att våra avlopp som är gjorda i gjutjärn är mer än 50 år gamla och enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn (HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras).
 
-Denna uppskattade livsländ bekräftas av en undersökning som Korrosionsinstitutet, Kimab, gjorde 2004 av avloppsrör i samband med ett stambyte i en hyresfastighet i en Stockholmsförort.
+Den uppskattade livsländen bekräftas av en undersökning som Korrosionsinstitutet, Kimab, gjorde 2004 av avloppsrör i samband med ett stambyte i en hyresfastighet i en Stockholmsförort.
 
 Tillsammans undersökte de 30 meter rör av gjutjärn från 1960-talet. Rören plockades ut ur huset med varsamhet, så att de två forskarna skulle kunna studera dem ordentligt.
 
@@ -24,7 +24,7 @@ Beträffande vår samfällighet visar denna undersökning att köksstammar borde
 
 De avloppsstammar som samfälligheten ansvarar för har grövre gods och utsätts för en kombination av köks- och badrumsavlopp vilket gör att livslängden, trots att stammarna är horisontella, hamnar i övre delen av skalan. Det finns exempel på livslängder över 60 år men att låta vattenskadorna bli beviset på att avloppsstammen måste åtgärdas ger en minst fördubblad kostnad för åtgärdandet eftersom det kommer att innebära att golv måste bilas upp och återställas förutom själva åtgärden i avloppsstammen. Åtgärdas avloppsstammen i tid genom så kallad relining, en metod där man bygger upp ett nytt avloppsrör i plast inuti det befintliga röret, kan åtgärden göras utan uppbilning eller grävning genom att man går in via avgreningar. Metoden med relining har funnits i 20 år vilket är den upp till dato verifierade livslängden. Den uppskattade livslängden på relining är 50 år, dvs. motsvarande livslängd som för de avloppsrör i plast som normalt installeras idag.
 
-Tidpunkten för när avloppsstammen måste åtgärdas måste dessutom baseras på den erfarenhetsmässiga livslängden på våra gjutjärnsrör eftersom det inte går att se tillståndet för rören på in- eller utsidan, och inte heller med mätinstrument som laser. När gjutjärnet rostar, bildar nämligen rosten och kolet i gjutjärnet ett grafiteringsskikt, som gör att rörets form blir konstant. TV-filmning eller ultraljudsundersökning av insidan av röret visar inte vad som skett. Den som knackar på röret kan inte heller höra att en del av gjutjärnet försvunnit och ersatts av grafiteringsskiktet (enligt Mats Linder bergsingenjör i materialteknik vid KTH och vice VD vid Korrosionsinstitutet).  
+Tidpunkten för när avloppsstammen måste åtgärdas måste dessutom baseras på den erfarenhetsmässiga livslängden på våra gjutjärnsrör eftersom det inte går att se tillståndet för rören på in- eller utsidan, och inte ens med mätinstrument som laser. När gjutjärnet rostar, bildar nämligen rosten och kolet i gjutjärnet ett grafiteringsskikt, som gör att rörets form blir konstant. TV-filmning eller ultraljudsundersökning av insidan av röret visar inte vad som skett. Den som knackar på röret kan inte heller höra att en del av gjutjärnet försvunnit och ersatts av grafiteringsskiktet (enligt Mats Linder bergsingenjör i materialteknik vid KTH och vice VD vid Korrosionsinstitutet).  
 Det enda möjliga är att ta ut en rörbit, såga itu den och rengöra på insidan så att avlagringar och grafiteringsskikt försvinner och korrosionsangreppen därunder går att se. Sådana förstörande prov är mycket dyrbara och kan i praktiken inte göras i samfällighetens avlopp eftersom avloppsstammen ligger under fastigheterna.
 
 **Källor:** [Villaägarna – Dags att byta VVS-rör och elldedningar](/wp-content/uploads/2022/Villaägarna - Dags för stambyte.pdf)  
