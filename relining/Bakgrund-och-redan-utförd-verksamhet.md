@@ -16,7 +16,7 @@ Pipecoating hade även det bästa anbudet för de senare rapporterade rasen och 
 I fastigheten där “komagen” låg, måste golven i undervåning och badrum bilas upp med därtill ökade kostnader och även i den senare entreprenaden måste golven i undervåning och badrum bilas upp i en fastighet på grund av totalt havererad avloppsstam.
 Genomförandet av dessa entreprenader gick bra bortsett från i något fall försening med återställning efter genomförd rörförnyelse. 
 
-## [Aarsleff Etapp 1]({%link pages/felanmalan.md %})relining/renovering-av-avloppsroren-etapp-1.md %})  
+## [Aarsleff Etapp 1]({%link relining/renovering-av-avloppsroren-etapp-1.md %})  
 
 ## Röranalys Etapp 1
 
@@ -47,4 +47,4 @@ En gårdsbrunn har bytts ut. Den baksida där gårdsbrunnen var placerad fick gr
 
 ## Röranalys Etapp 5
 
-Verksamheten under Röranalys Etapp 5 beskrivs på sidan [Framdrift av etapp 5 (2022 års rörförnyelse)] ({%link _posts/2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter.md %})
+Verksamheten under Röranalys Etapp 5 beskrivs på sidan [Framdrift av etapp 5 (2022 års rörförnyelse)]({%link _posts/2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter.md %})
