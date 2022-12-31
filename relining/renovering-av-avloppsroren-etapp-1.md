@@ -9,9 +9,9 @@ parent: bakgrund och redan utförd verksamhet
 grand_parent: Rörförnyelse
 ---
 
-Gröna textsnuttar i texten nedan är klickbara länkar till information.
+Ljust blå textsnuttar i texten nedan är klickbara länkar till information.
 
-Efter årsskiftet kom äntligen arbetet igånd med renovering av samfällighetsföreningens andel av avloppsrören för den första av de fem planerade etapperna. **AARSLEFF RÖRTEKNIK AB**  är utsedd att utföra arbetet med denna etapp.
+I början av 2016 kom äntligen arbetet igånd med renovering av samfällighetsföreningens andel av avloppsrören för den första av de fem planerade etapperna. **AARSLEFF RÖRTEKNIK AB**  är utsedd att utföra arbetet med denna etapp.
 
 [Information om upphandlingsförfarandet](/wp-content/uploads/2016/03/Information-om-upphandlingsförfarandet.pdf)
 
