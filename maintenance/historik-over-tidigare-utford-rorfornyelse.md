@@ -10,11 +10,11 @@ parent: Underhållsplan
 
 #### <u>2014</u>
 
-På grund av att stamledningarna under vissa fastigheter börjat rasa samman och orsaka stopp i avloppen har styrelsen  under år 2014 via anbudförfarande valt Pipecoating som entreprenör för reparation/ relining av avloppsledningarna för 3 radhus, Kurirgatan 15 - 19. Detta på grund av en så kallad "komage", d.v.s. en sättning där avloppsrören sjunkit ned så att det orsakat stopp i avloppet. I ett av dessa radhus, där "komagen" låg, måste golven i undervåning och badrum bilas upp med därtil ökade kostnader.
+På grund av att stamledningarna under vissa fastigheter börjat rasa samman och orsaka stopp i avloppen har styrelsen  under år 2014 via anbudförfarande valt Pipecoating som entreprenör för reparation/relining av avloppsledningarna för 3 radhus, Kurirgatan 15 - 19. Detta på grund av en så kallad "komage", d.v.s. en sättning där avloppsrören sjunkit ned så att det orsakat stopp i avloppet. I ett av dessa radhus, där "komagen" låg, måste golven i undervåning och badrum bilas upp med därtill ökade kostnader.
 
 Styrelsen har även under året på grund av totalt sammanbrott på avloppsledningen genom anbudsförfarande akut kontrakterat entreprenören  Pipecoating för reparation/ relining av avloppsstammarna under ytterligare 22 radhus, Loviselundsvägen 63-73, Sleipnergatan 14-18, Kurirgatan 1-13 och Astrakangatan 199-209. Även här måste golven i undervåning och badrum bilas upp i en fastighet på grud av totalt havererad avloppsstam.
 
-Genomförandet av dessa entreprenader har gått bra borttett från i något fall försening med återställning efter genomförd rörförnyelse.
+Genomförandet av dessa entreprenader har gått bra bortsett från i något fall försening med återställning efter genomförd rörförnyelse.
 
 #### <u>2015 – 2017</u>
 
@@ -28,4 +28,4 @@ Ett ”pilotprojekt” har genomförts för en länga med 3 fastigheter. En för
 
 **Filmning**  
 Under 2017 filmades avloppsstammarna för att i den mån det går ta reda på aktuell status och åtgärda de mest akuta delarna. Åtgärder har gjorts på 9 platser.  
-Åtgärderna ger oss tid att fördela återstående rörförnyelse under flera år. Detta tillsammans med att entreprenören får bättre underlag och minskat tillägg för oförutsett gör att vi inte ska behöva ta lån för de fortsatta rörförnyelsen
+Åtgärderna ger oss tid att fördela återstående rörförnyelse under flera år. Detta tillsammans med att entreprenören får bättre underlag och minskat tillägg för oförutsett gör att vi inte ska behöva ta lån för den fortsatta rörförnyelsen
