@@ -19,6 +19,15 @@ Genomförandet av dessa entreprenader gick bra bortsett från i något fall för
 ## [Aarsleff Etapp 1]({%link relining/renovering-av-avloppsroren-etapp-1.md %}) 
 Rubriken länkar till sida där det finns information om genomförandet av rörförnyelsen som gjordes under Aarsleff Etapp 1.
 
+## Pilotprojektet
+
+Anbudsbegäran för Etapp 2 av rörförnyelsen skickades  ut	 2016-03-01 till nio entreprenörer men  endast	 två anbud kom in. Styrelsen ansåg prisnivån  på de inkomna anbuden vara alltför hög eftersom den låg ca 25 % högre än priset	 per fastighet i den genomförda Etapp 1. Styrelsen antog att orsaken till det höga priset berodde på för dålig konkurrens och att entreprenören gjort risktillägg på grund av osäkerhet om anläggnings skick och möjlighet till tillträde. Därför avbröts upphandlingen och styrelsen började söka vägar för att få ett bättre pris vid fortsatt upphandling. 
+För att föreningen själv skulle få insikt i och själv skaffa sig bättre kunskap vad som var kostnadsdrivande i samfällighetens rörförnyelseprojekt, beslöt styrelsen att göra en upphandling där full insyn i kostnadsmassan och processen i övrigt erbjöds. 
+En sådan upphandling gjordes för ett ”pilotprojekt” som omfattade en länga med tre fastigheter, Astrakangatan 193, 195 och 197. Valet av länga baserades på att behovet av rörförnyelse var angeläget för den längan.
+I syfte att om möjligt öka objektiviteten valdes en mindre, men självklart kompetent entreprenör för att utföra reliningsarbetena på dessa adresser. Uppdraget villkorades till att helt ”öppna böcker” skulle vara en central förutsättning för uppdraget. 
+Arbetena utfördes under ca 4 veckor och kunde slutbesiktigas 2016‐06‐20 och då med väldigt få anmärkningar. 
+Det ekonomiska utfallet landade knappt under den summa som vi fått i de förkastade anbuden vilket inte var förväntat. Slutsatsen blev att ytterligare alternativ måste undersökas för att få in anbud med lägre kostnad för den återstående rörförnyelsen.
+
 ## Röranalys Etapp 1
 
 Under andra halvan av 2018 gjordes Röranalys Etapp 1, den första etappen av rörförnyelse på våra avloppsrör. Röranalys startade arbetet i område 9 vecka 32 och de var klara veckan före jul. Det återstår för oss att göra slutbesiktning av det utförda arbetet och för entreprenören att åtgärda eventuella besiktningsanmärkningar. 
