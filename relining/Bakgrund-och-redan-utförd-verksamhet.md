@@ -5,7 +5,7 @@ parent: Rörförnyelse
 ---
 # Bakgrund och redan utförd verksamhet
 
-Här har vi sparat undan information från starten av rörförnyelsen på grund av akuta stopp och ras via en mer omfattande etapp som utfördes av Aarsleff innan ett omtag gjordes på grund av att anbudspriserna steg till en orimlig nivå. Vid omtaget kom styrelsen slutligen fram till till en process som ledde till ett avtal med Röranalys på en mer rimlig kostnadsnivå för den fortsatta rörförnyelsen för den fortsatta rörförnyelsen av samfällighetens återstående 420 fastigheter.
+Här har vi sparat undan information från starten av rörförnyelsen på grund av akuta stopp och ras via en mer omfattande etapp som utfördes av Aarsleff innan ett omtag gjordes på grund av att anbudspriserna steg till en orimlig nivå. Vid omtaget kom styrelsen slutligen fram till till en process som ledde till ett avtal med Röranalys på en mer rimlig kostnadsnivå för den fortsatta rörförnyelsen av samfällighetens återstående 420 fastigheter.
 
 ## Pipecoating
 
