@@ -5,9 +5,7 @@ parent: Rörförnyelse
 ---
 # Bakgrund och redan utförd verksamhet
 
-Här har vi sparat undan information från det omtag av rörförnyelsen som gjordes efter den inledande etapp som utfördes 2016 av Aarsleff. Omtaget gjorde på grund av att anbudspriserna steg till en orimlig nivå och ledde slutligen till ett avtal med Röranalys för den fortsatta rörförnyelsen av samfällighetens återstående 420 fastigheter.
-
-Det fortsatta arbetet är uppdelat i ett flertal etapper och nedan finns länkar till information om redan genomförda etapper.
+Här har vi sparat undan information från starten av rörförnyelsen på grund av akuta stopp och ras via en mer omfattande etapp som utfördes av Aarsleff innan ett omtag gjordes på grund av att anbudspriserna steg till en orimlig nivå. Vid omtaget kom styrelsen slutligen fram till till en process som ledde till ett avtal med Röranalys på en mer rimlig kostnadsnivå för den fortsatta rörförnyelsen för den fortsatta rörförnyelsen av samfällighetens återstående 420 fastigheter.
 
 ## Pipecoating
 
@@ -21,7 +19,8 @@ Rubriken länkar till sida där det finns information om genomförandet av rörf
 
 ## Pilotprojektet
 
-Anbudsbegäran för Etapp 2 av rörförnyelsen skickades  ut	 2016-03-01 till nio entreprenörer men  endast	 två anbud kom in. Styrelsen ansåg prisnivån  på de inkomna anbuden vara alltför hög eftersom den låg ca 25 % högre än priset	 per fastighet i den genomförda Etapp 1. Styrelsen antog att orsaken till det höga priset berodde på för dålig konkurrens och att entreprenören gjort risktillägg på grund av osäkerhet om anläggnings skick och möjlighet till tillträde. Därför avbröts upphandlingen och styrelsen började söka vägar för att få ett bättre pris vid fortsatt upphandling. 
+Anbudsbegäran för Etapp 2 av rörförnyelsen skickades ut 2016-03-01 till nio entreprenörer men endast två anbud kom in. Styrelsen ansåg prisnivån på de inkomna anbuden vara alltför hög eftersom den låg ca 25 % högre än priset per fastighet i den genomförda Etapp 1. Styrelsen antog att orsaken till det höga priset berodde på för dålig konkurrens och att entreprenören gjort risktillägg på grund av osäkerhet om anläggnings skick och möjlighet till tillträde. Därför avbröts upphandlingen och styrelsen gjorde ett omtag av rörförnyelsen. 
+Omtaget gjordes på grund av att anbudspriserna steg till en orimlig nivå och styrelsen började söka vägar för att få ett bättre pris vid fortsatt upphandling. 
 För att föreningen själv skulle få insikt i och själv skaffa sig bättre kunskap vad som var kostnadsdrivande i samfällighetens rörförnyelseprojekt, beslöt styrelsen att göra en upphandling där full insyn i kostnadsmassan och processen i övrigt erbjöds. 
 En sådan upphandling gjordes för ett ”pilotprojekt” som omfattade en länga med tre fastigheter, Astrakangatan 193, 195 och 197. Valet av länga baserades på att behovet av rörförnyelse var angeläget för den längan.
 I syfte att om möjligt öka objektiviteten valdes en mindre, men självklart kompetent entreprenör för att utföra reliningsarbetena på dessa adresser. Uppdraget villkorades till att helt ”öppna böcker” skulle vara en central förutsättning för uppdraget. 
