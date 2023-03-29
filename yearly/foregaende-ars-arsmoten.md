@@ -21,7 +21,7 @@ Här finns information från de senaste årens årsmöten.
 [Kallelse Årsmöte 2019](/wp-content/uploads/2019/03/Kallelse-till-årsstämma-HGS-2019-1.pdf)  
 [Kallelse Årsmöte 2020](/wp-content/uploads/2020/03/Kallelse-Årsmöte-2020.pdf)  
 [Kallelse Årsmöte 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)  
-[Kallelse Årsmöte 2022](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023.pdf)
+[Kallelse Årsmöte 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)
 
 #### Årsmötesprotokoll
 
