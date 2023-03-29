@@ -20,7 +20,8 @@ Här finns information från de senaste årens årsmöten.
 [Kallelse Årsmöte 2018](/wp-content/uploads/2018/03/HGS-Kallelse-till-årsstämma-2018.pdf)  
 [Kallelse Årsmöte 2019](/wp-content/uploads/2019/03/Kallelse-till-årsstämma-HGS-2019-1.pdf)  
 [Kallelse Årsmöte 2020](/wp-content/uploads/2020/03/Kallelse-Årsmöte-2020.pdf)  
-[Kallelse Årsmöte 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)
+[Kallelse Årsmöte 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)  
+[Kallelse Årsmöte 2022](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023.pdf)
 
 #### Årsmötesprotokoll
 
@@ -32,9 +33,22 @@ Här finns information från de senaste årens årsmöten.
 [Årsmötesprotokoll 2018](/wp-content/uploads/2018/05/Protokoll-årsmöte-2018.pdf)  
 [Årsmötesprotokoll 2019](/wp-content/uploads/2019/04/Protokoll-Årsmöte-2019.pdf)  
 [Årsmötesprotokoll 2020](/wp-content/uploads/2020/04/HGS-Protokoll-årsmöte-2020.pdf)  
-[Årsmötesprotokoll 2021](/wp-content/uploads/2021/03/HGS_Arsmote2021.pdf)
+[Årsmötesprotokoll 2021](/wp-content/uploads/2021/03/HGS_Arsmote2021.pdf)  
+[Årsmötesprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)
 
 ####  Övriga handlingar
+[**Handlingar årsmöte 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021-Komplett_R1.pdf)  
+Handlingar årsmöte 2022  
+– Bilaga 1: Verksamhetsberättelse för år 2021  
+– Bilaga 2: Resultatrapport  
+– Bilaga 2: Balansrapport  
+– Bilaga 3: Revisionsberättelse  
+– Bilaga 4: Underhålls- och förnyelseplan för år 2022  
+– Bilaga 4: Kalkyl – Underhållsplan 2022  
+– Bilaga 5: Utgifts- Inkomststat 2022 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2022  
+– Bilaga 7: Valberedningens förslag till årsmötet 2022  
+– Fullmakt
 
 [**Handlingar årsmöte 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021-Komplett_R1.pdf)  
 – Bilaga 1: Verksamhetsberättelse för år 2020  
