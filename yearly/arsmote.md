@@ -12,6 +12,6 @@ has_children: true
 
 #### I undermenyerna hittar ni information om Hässelby Gårds Samfällighetsförenings årsmöten.
 
-**2022 Årsmöte – Mars**  
-[Kallelse, handlingar](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)
+**2023 Årsmöte – Mars**  
+[Kallelse, handlingar](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023_Komplett.pdf)
 
