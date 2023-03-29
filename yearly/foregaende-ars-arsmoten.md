@@ -37,7 +37,7 @@ Här finns information från de senaste årens årsmöten.
 [Årsmötesprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)
 
 ####  Övriga handlingar
-[**Handlingar årsmöte 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021-Komplett_R1.pdf)  
+[**Handlingar årsmöte 2022**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
 Handlingar årsmöte 2022  
 – Bilaga 1: Verksamhetsberättelse för år 2021  
 – Bilaga 2: Resultatrapport  
