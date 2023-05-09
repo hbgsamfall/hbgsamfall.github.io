@@ -15,3 +15,4 @@ has_children: true
 **2023 Årsmöte – Mars**  
 [Kallelse, handlingar](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023_Komplett.pdf)
 
+**Årsmötesprotokoll 2023** 
