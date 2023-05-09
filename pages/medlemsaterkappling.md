@@ -37,7 +37,7 @@ Styrelsen har tagit fram en förnyelseplan men vi ser gärna att medlemmarna lä
 Telefonnummer och mejladresser hittar ni under rubriken [Styrelsen informerar/Föreningens styrelse]({%link styrelsen_info/styrelsen-informerar.md %}) 
 
 ## Kallvattenledningar
-Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en [felanmälan]({%link pages/felanmalan.md %}). 
+Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en [FELANMÄLAN]({%link pages/felanmalan.md %}). 
 Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
 ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
