@@ -26,4 +26,4 @@ Plats : Prisma, Hässelby Gård
 – Bilaga 7: Valberedningens förslag till årsmötet 2022  
 – Fullmakt
 
-###### [Årsmötesprotololl 2022](/wp-content/uploads/2022/04/Protokoll-HGS-arsstamma-2022.pdf)
+#### [Årsmötesprotololl 2022](/wp-content/uploads/2022/04/Protokoll-HGS-arsstamma-2022.pdf)
