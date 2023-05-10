@@ -22,7 +22,7 @@ Felanmälan ska alltid anmälas via epost till:
 
 ## Agerande vid stopp i avlopp
 Föreningen har avtal med Röranalys om spolning och kontroll av våra gemensamma avloppsrör:
-•	Om ni har stopp i avloppet ska **Felanmälan** göras till kontaktpersonerna i styrelsen som är angivna här.
+•	Om ni har stopp i avloppet ska **Felanmälan** göras till kontaktpersonerna i styrelsen som är angivna ovan under länken KONTAKT.
 •	Föreningen kontaktar då Röranalys som tar direktkontakt med fastighetsägaren och kommer ut för att kontrollera stoppet.
 •	Röranalys utreder vad som orsakat stoppet, bl.a. genom kamera och ev. filmning och meddelar sedan om kostnaden för åtgärd av stoppet ska betalas av fastighetsägaren eller samfälligheten.
 Eftersom föreningen endast har ansvar för de gemensamma avloppsrören och dess funktion kan föreningen endast ersätta kostnaden för spolning om orsaken till stoppet ligger i de gemensamma rören.
