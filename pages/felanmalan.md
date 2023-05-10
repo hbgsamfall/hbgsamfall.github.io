@@ -28,5 +28,5 @@ Föreningen har avtal med Röranalys om spolning och kontroll av våra gemensamm
 Eftersom föreningen endast har ansvar för de gemensamma avloppsrören och dess funktion kan föreningen endast ersätta kostnaden för spolning om orsaken till stoppet ligger i de gemensamma rören.
 
 ## Kallvattenledningar
-Med tanke på förebyggande underhåll ser vi gärna att ni gör en **Felanmälan** om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en FELANMÄLAN. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
+Med tanke på förebyggande underhåll ser vi gärna att ni gör en **Felanmälan** om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
