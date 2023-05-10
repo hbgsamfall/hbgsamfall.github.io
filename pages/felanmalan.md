@@ -11,7 +11,7 @@ nav_order: 35
 ## Felanmälan  
 ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
 
-Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar anmäls till nedanstående mejladress. Kontaktuppgifter finns under sidorubriken [KONTAKT](/pages/kontakt.md) 
+Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar anmäls till nedanstående mejladress. Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})  
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.
 
