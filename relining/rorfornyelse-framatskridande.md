@@ -24,7 +24,7 @@ På sidan Framdrift av Etapp 5 ges en resumé av Etapp 4 samt en kort informatio
 
 [INFORMATION FRÅN ENTREPRENÖREN](/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)  
 [AVISERINGAR]({% link pages/aviseringar.md %})  
-[TILLVAL SOM BOKAS VID ENTREPRENÖRENS BESIKTNING](/wp-content/uploads/2022/Beställningsavi.pdf) 
+[TILLVAL SOM BOKAS VID BESIKTNING](/wp-content/uploads/2022/Beställningsavi.pdf) 
 
 [Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
 
