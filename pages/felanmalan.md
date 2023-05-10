@@ -9,6 +9,7 @@ nav_order: 35
 ---
 
 ## Felanmälan
+ ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar anmäls till nedanstående mejladress. Kontaktuppgifter finns under sidorubriken  [KONTAKT]({%link pages/kontakt.md %})
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.
@@ -26,5 +27,4 @@ Eftersom föreningen endast har ansvar för de gemensamma avloppsrören och dess
 
 ## Kallvattenledningar
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en **Felanmälan** om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en FELANMÄLAN. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
- ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
 
