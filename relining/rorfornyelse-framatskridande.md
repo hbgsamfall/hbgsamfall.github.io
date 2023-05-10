@@ -16,7 +16,7 @@ Eftersom Etapp 6 kommer att inkludera samtliga återstående fastigheter så kom
 
 I takt med att rörförnyelsen går vidare kommer de fastighetsägare som blir berörda att bli informerade så de får möjlighet att planera för den störning i boendet som arbetet med avloppsrören innebär.
 
-I god tid innan arbetet ska utföras i en länga gör Röranalys en avisering och därefter gör de en besiktning av var och en av fastigheterna i den eller de längor som berörs av kommande deletapp. Vid besiktningen diskuteras i detalj vad som kommer att göras i respektive länga och vad som fastighetsägaren eventuellt måste göra för att Röranalys ska komma åt att arbeta. Bland annat måste rensluckor vara tillgängliga. I de fall golvbrunnar eller rensluckor är överbyggda ges även information om tillval av upptag, d.v.s. arbete som Röranalys kan vara tvungna att göra på fastighetsägarens bekostnad för att få åtkomst till avloppsrören.
+I god tid innan arbetet ska utföras i en länga gör Röranalys en avisering och därefter gör de en besiktning av var och en av fastigheterna i den eller de längor som berörs av kommande deletapp. Vid besiktningen diskuteras i detalj vad som kommer att göras i respektive länga och vad som fastighetsägaren eventuellt måste göra för att Röranalys ska komma åt att arbeta. Bland annat måste rensluckor vara tillgängliga. I de fall golvbrunnar eller rensluckor är överbyggda ges även information om tillval av upptag, d.v.s. arbete som Röranalys kan vara tvungna att göra på fastighetsägarens bekostnad för att få åtkomst till avloppsrören. 
 
 Det ges dessutom information om tillval som fastighetsägaren kan göra efter rörinfodringen.
 
