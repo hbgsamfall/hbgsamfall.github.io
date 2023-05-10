@@ -8,11 +8,11 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1721'
 parent: Rörförnyelse
 ---
 
-2018 tecknades ett avtal med Röranalys för slutförandet av rörförnyelsen av våra avloppsstammar. Avtalet är uppdelat i 7 etapper och de 5 första etapperna är nu i stort sett genomförda.
+2018 tecknades ett avtal med Röranalys för slutförandet av rörförnyelsen av våra avloppsstammar. Avtalet är uppdelat i 7 etapper och de 5 första etapperna är nu genomförda.
 
-Etapp 6 kommer att inkludera samtliga återstående fastigheter. Den Preliminära tidplanen för etapp 6, 2023, anger tidpunkten för start av rörförnyelsen för de ingående fastigheterna. 
+Eftersom Etapp 6 kommer att inkludera samtliga återstående fastigheter så kommer rörförnyelsen att i huvudsak vara avslutad vid kommande årsskifte. Den definitiva tidplanen för etapp 6, 2023, anger turordningen för de ingående fastigheterna. Verksamheten börjar med avisering och försyn vecka vecka 23 och arbetet med avloppsrören startar vecka 30. 
 
-**[Preliminär tidplan etapp 6 2023](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf)**
+**[Definitiv tidplan etapp 6 2023](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf)**
 
 I takt med att rörförnyelsen går vidare kommer de fastighetsägare som blir berörda att bli informerade så de får möjlighet att planera för den störning i boendet som arbetet med avloppsrören innebär.
 
