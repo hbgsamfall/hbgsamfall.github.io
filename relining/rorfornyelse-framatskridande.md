@@ -12,7 +12,7 @@ parent: Rörförnyelse
 
 Eftersom Etapp 6 kommer att inkludera samtliga återstående fastigheter så kommer rörförnyelsen att i huvudsak vara avslutad redan vid kommande årsskifte. Den definitiva tidplanen för etapp 6, 2023, anger turordningen för de ingående fastigheterna. Verksamheten börjar med avisering och försyn vecka 23 och arbetet med avloppsrören startar vecka 30. 
 
-**[Definitiv tidplan etapp 6 2023](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf)**
+**[Definitiv tidplan Etapp 6](/wp-content/uploads/2022/09/Definitiv tidplan 2023.pdf)**
 
 I takt med att rörförnyelsen går vidare kommer de fastighetsägare som blir berörda att bli informerade så de får möjlighet att planera för den störning i boendet som arbetet med avloppsrören innebär.
 
