@@ -11,6 +11,6 @@ parent: Rörförnyelse
 
 I underrubrikerna till "information om avloppsstammar och relining" finns:
 
-- information om avloppsstammars livsländ
-- inspektion före och efter relining
-- relining.
+  information om avloppsstammars livsländ
+  inspektion före och efter relining
+  relining.
