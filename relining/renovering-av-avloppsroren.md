@@ -9,7 +9,8 @@ nav_order: 100
 has_children: true
 ---
 
-För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information via följande länkar: 
+För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information via följande länkar:
+
 **[Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
 [Info om RÖRANALYS och Stamrenovering](/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)  
 [Aviseringar]({% link pages/aviseringar.md %})  
