@@ -13,9 +13,9 @@ På de sidor man kommer till via underrubrikerna i sidomenyn finns information o
 
 Ifall det skulle bli stopp i avloppet finns även information om hur man ska beställa spolning.
 
-För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information om utförandet genom att titta på beskrivningen av [Aarsleff Etapp 1]({%link renovering-av-avloppsroren-etapp-1.md %}). De fortsatta etapperna med Röranalys AB som entreprenör utförs på motsvarande sätt.
+För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information om utförandet genom att läsa beskrivningen av [Aarsleff Etapp 1]({%link renovering-av-avloppsroren-etapp-1.md %}). De fortsatta etapperna med Röranalys AB som entreprenör utförs på motsvarande sätt.
 
 Slutligen finns en underrubrik Information om avloppsstammar och relining med dess egna underrubriker:
-- information om avloppsstammars livsländ
-- inspektion före och efter relining
-- relining.
+  information om avloppsstammars livsländ
+  inspektion före och efter relining
+  relining.
