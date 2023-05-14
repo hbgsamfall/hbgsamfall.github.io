@@ -4,7 +4,7 @@ layout: page
 nav_order: 31
 ---
 
-**Nyheter**  
+## Nyheter  
 
 ![Magi](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg) 
 
