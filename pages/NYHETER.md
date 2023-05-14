@@ -4,8 +4,15 @@ layout: page
 nav_order: 31
 ---
 **Nyheter**
+[![](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg) 
 
-28 Dec 2022 – [Preliminär tidplan Etapp 6, slutförande av rörförnyelsen]( /wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf)
+14 Maj 2023 – [Framdrift av etapp 6 -2023 års rörförnyelse]{%link relining/rorfornyelse-framatskridande.md %}) 
+
+28 Mar 2023 – [Definitiv tidplan Etapp 6, slutförande av rörförnyelsen](/wp-content/uploads/2022/09/Definitiv tidplan 2023.pdf) 
+
+28 Dec 2022 – [Preliminär tidplan Etapp 6, slutförande av rörförnyelsen]( /wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf) 
+
+15 Feb 2021 – [Framdrift av etapp 4 -2021 års rörförnyelse]({%link _posts/2021-framdrift av etapp 4 -2021 års rörförnyelse.md %}) 
 
 18 Jun 2019 – [Framdrift av etapp 5 -2022 års rörförnyelse]({%link _posts/2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter.md %})
 
