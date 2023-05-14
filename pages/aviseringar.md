@@ -12,7 +12,8 @@ Här finns information om de aviseringar som Röranalys gör inför förbesiktni
 Det finns även information om upptag, arbete som röranalys kan vara tvungen att göra för att få åtkomst till golvbrunnar eller rensluckor som är överbyggda. Aviseringen av upptag kommer att diskuteras med fastighetsägaren i samband med förbesiktningen.
 
 **[Förbesiktningsavisering](/wp-content/uploads/2018/08/Förbesiktningsavisering.pdf)**  
-**[Förbesiktningsavisering- upptag](/wp-content/uploads/2018/08/Förbesiktningsavisering-upptag.pdf) [Föravisering innan arbetet](/wp-content/uploads/2019/02/Föravisering-innan-arbetet.pdf)**
+**[Förbesiktningsavisering- upptag](/wp-content/uploads/2018/08/Förbesiktningsavisering-upptag.pdf)** 
+**[Föravisering innan arbetet](/wp-content/uploads/2019/02/Föravisering-innan-arbetet.pdf)**
 
 Det finns dessutom information om tillval som fastighetsägaren kan göra efter rörinfodringen .  
 **[Tillvalsavisering](/wp-content/uploads/2022/Tillvalsavisering.pdf)**
