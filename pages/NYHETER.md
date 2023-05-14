@@ -3,9 +3,9 @@ title: Nyheter
 layout: page
 nav_order: 31
 ---
-**Nyheter** 
+![](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg) 
 
-![](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg)  
+**Nyheter**  
 
 14 Maj 2023 – [Framdrift av etapp 6 -2023 års rörförnyelse]{%link relining/rorfornyelse-framatskridande.md %}) 
 
