@@ -14,8 +14,6 @@ nav_order: 31
 
 28 Dec 2022 – [Preliminär tidplan Etapp 6, slutförande av rörförnyelsen](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf) 
 
-15 Feb 2021 – [Framdrift av etapp 4 -2021 års rörförnyelse]({%link _posts/2021-framdrift av etapp 4 -2021 års rörförnyelse.md %}) 
-
 18 Jun 2019 – [Framdrift av etapp 5 -2022 års rörförnyelse]({%link _posts/2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter.md %})
 
 12 Aug 2018 – [Rörförnyelsen av de återstående 420 fastigheterna pågår]({%link _posts/2018-08-12-rorfornyelsen-av-aterstaende-420-fastigheter-har-startat.md %})  
