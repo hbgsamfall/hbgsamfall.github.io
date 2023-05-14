@@ -8,7 +8,7 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1721'
 parent: Rörförnyelse
 ---
 
-**RÖRANALYS Etapp 5** är planerad att börja 2023 vecka 23 och omfattar de 65 återstående fastigheterna i område 10.  
+**RÖRANALYS Etapp 6** är planerad att börja 2023 vecka 23 och omfattar de 65 återstående fastigheterna i område 10.  
 
 2018 tecknades ett avtal med Röranalys för slutförandet av rörförnyelsen av våra avloppsstammar. Avtalet är uppdelat i 7 etapper och de 5 första etapperna är nu genomförda.
 
@@ -28,4 +28,3 @@ Det ges dessutom information om tillval som fastighetsägaren kan göra efter r�
 
 [Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
 
-[Definitiv tidplan 2022 Etapp 5](/wp-content/uploads/2022/05/Definitiv-tidplan-2022-Etapp-5.pdf)
