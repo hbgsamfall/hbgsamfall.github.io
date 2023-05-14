@@ -1,12 +1,12 @@
 ---
-title: 'framdrift av etapp 4 (2021 års rörförnyelse)'
+title: 'framdrift av etapp 4 2021 års rörförnyelse'
 layout: post
 ---
 
 **Framdrift av etapp 4 (2021 års rörförnyelse)**
 
 **RÖRANALYS Etapp 4** började 2021 vecka 20 och omfattade 83 fastigheter i område 8. 
-Förutom besiktning och eventuella åtgärder som identifieras vid besiktningen är Etapp 4 avslutad. Det innebär att enbart 9 fastigheter återstod att åtgärda i OMRÅDE 8 , Enspännargatan 70 – 86. 
+Förutom besiktning och eventuella åtgärder som identifieras vid besiktningen är Etapp 4 avslutad. Det innebär att enbart 9 fastigheter återstod att åtgärda i OMRÅDE 8, Enspännargatan 70 – 86. 
 
 Arbetet har fortgått enligt tidplanen med regelbundna byggmöten med entreprenören Röranalys. Projektet har tidvis varit ansträngt på grund av pandemin, periodvis har entreprenören haft många sjukskrivningar vilket gjort att de ibland varit tvungna att forcera arbetet genom att jobba längre dagar och under helgdagar.
 
