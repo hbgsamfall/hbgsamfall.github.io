@@ -6,7 +6,7 @@ nav_order: 31
 
 ## Nyheter  
 
-![Magi](/wp-content/uploads/2014/03/wizard-id-plumber-510x167.jpg) 
+![Rörmagi](/wp-content/uploads/2022/Wizard-ID-Plumber.jpg) 
 
 14 Maj 2023 – [Framdrift av etapp 6 -2023 års rörförnyelse]{%link relining/rorfornyelse-framatskridande.md %}) 
 
