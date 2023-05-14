@@ -8,7 +8,7 @@ nav_order: 31
 
 ![Rörmagi](/wp-content/uploads/2022/Wizard-ID-Plumber.jpg) 
 
-14 Maj 2023 – [Framdrift av etapp 6 -2023 års rörförnyelse]{%link relining/rorfornyelse-framatskridande.md %}) 
+14 Maj 2023 – [Framdrift av etapp 6 -2023 års rörförnyelse]({%link relining/rorfornyelse-framatskridande.md %}) 
 
 28 Mar 2023 – [Definitiv tidplan Etapp 6, slutförande av rörförnyelsen](/wp-content/uploads/2022/09/Definitiv tidplan 2023.pdf) 
 
