@@ -1,6 +1,6 @@
 ---
 id: 1721
-title: 'rörförnyelse &#8211; framåtskridande'
+title: 'rörförnyelse framåtskridande'
 date: '2017-12-27T16:03:36+01:00'
 author: hbgsamfall
 layout: page
