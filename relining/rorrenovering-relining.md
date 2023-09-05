@@ -9,7 +9,7 @@ grand_parent: Rörförnyelse
 guid: 'http://hbgsamfall.info.tm/?page_id=495'
 ---
 
-#### Information om rörförnyelse
+#### Information om rörförnyelse - Relining
 
 De intresserade kan genom att gå via nedanstående länkar hitta mer information om Rörrenovering samt Rörinfodring eller Relining som det kallas i dagligt tal.
 
