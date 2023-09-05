@@ -14,7 +14,7 @@ nav_order: 31
 
 28 Dec 2022 – [Preliminär tidplan Etapp 6, slutförande av rörförnyelsen](/wp-content/uploads/2022/09/Preliminär tidplan Etapp 6.pdf) 
 
-15 Feb 2021 Framdrift av etapp 4 -2021 års rörförnyelse – [Besiktning av elskåp](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf)
+15 Feb 2021 – [Framdrift av etapp 4 -2021 års rörförnyelse](/wp-content/uploads/2022/09/Framdrift av etapp 4.pdf)
 
 18 Jun 2019 – [Framdrift av etapp 5 -2022 års rörförnyelse]({%link _posts/2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter.md %})
 
