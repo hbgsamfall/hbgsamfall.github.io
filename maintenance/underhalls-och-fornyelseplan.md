@@ -22,5 +22,5 @@ För varje år som gått har en uppdaterad Underhålls och förnyelseplan tagits
 
 Genom att följa länkarna nedan kommer ni till den resulterande underhållsplanen från det senaste årsmötet:
 
-[HGS Underhållsplan 2022](/wp-content/uploads/2022/05/HGS-Maintenance-Plan-2022.pdf)  
-[Kalkyl Underhållsplan 2022](/wp-content/uploads/2022/05/Kalkyl-Underhallsplan-2022.pdf)
+[HGS Underhållsplan 2023](/wp-content/uploads/2022/09/HGS Underhållsplan 2023.pdf)  
+[Kalkyl Underhållsplan 2023](/wp-content/uploads/2022/09/Kalkyl Underhållsplan 2023.pdf)
