@@ -20,13 +20,12 @@ Felanmälan ska alltid anmälas via epost till:
 
 **[Samfällighetens mejladress](/wp-content/uploads/2016/12/Samfällighetens-mejladress.png)**
 
-## Agerande vid stopp i avlopp
-Föreningen har avtal med Röranalys om spolning och kontroll av våra gemensamma avloppsrör:
-•	Om ni har stopp i avloppet ska **Felanmälan** göras till kontaktpersonerna i styrelsen som är angivna ovan under länken KONTAKT.
-•	Föreningen kontaktar då Röranalys som tar direktkontakt med fastighetsägaren och kommer ut för att kontrollera stoppet.
-•	Röranalys utreder vad som orsakat stoppet, bl.a. genom kamera och ev. filmning och meddelar sedan om kostnaden för åtgärd av stoppet ska betalas av fastighetsägaren eller samfälligheten.
-Eftersom föreningen endast har ansvar för de gemensamma avloppsrören och dess funktion kan föreningen endast ersätta kostnaden för spolning om orsaken till stoppet ligger i de gemensamma rören.
+## Separat agerande vid stopp i avlopp
+Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller Röranalys om det omfattas av garanti. 
+
+**Telefon Röranalys AB: 08-599 098 00** 
+**E-post Röranalys AB: info@roranalys.nu**
 
 ## Kallvattenledningar
-Med tanke på förebyggande underhåll ser vi gärna att ni gör en **Felanmälan** om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
+Med tanke på förebyggande underhåll ser vi gärna att ni gör en **Felanmälan** till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
