@@ -26,10 +26,8 @@ Kostnaden för rörförnyelse av avloppsstammarna för de återstående fastighe
 
 Vi hoppas det här ger de som undrar den information de behöver och om de har frågor är de välkomna att kontakta styrelsen.
 
-För de som inte var med på årsmötet finns mer information i [**Utskickade handlingar inför årsmötet**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf) samt  
-presentationen **[190317 Projekt rörförnyelse](/wp-content/uploads/2019/03/190317-Projekt-rörförnyelse.pdf)**
-
-
+Mer information finns i presentationen **[190317 Projekt rörförnyelse](/wp-content/uploads/2019/03/190317-Projekt-rörförnyelse.pdf)**
+För de som inte var med på årsmötet finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsmötet**](/yearly/arsmote.md)   
 
 **Fakturering av medlemsavgiften**
 
