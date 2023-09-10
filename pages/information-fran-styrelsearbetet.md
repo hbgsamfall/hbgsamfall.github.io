@@ -12,7 +12,7 @@ Här kommer information från styrelsearbeter att presenteras löpande i form av
 
 ###### Styrelsemöten
 
-[Styrelsemöte 1 2023](/wp-content/uploads/2022/09/Beslutsprotokoll Styrelsemöte 1.pdf)
+[Styrelsemöte 1 2023](/wp-content/uploads/2022/09/Beslutsprotokoll 1-2023.pdf)  
 [Styrelsemöte 7 2022](/wp-content/uploads/2022/09/Beslutsprotokoll Styrelsemöte 7.pdf)   
 [Styrelsemöte 6 2022](/wp-content/uploads/2022/09/Beslutsprotokoll Styrelsemöte 6.pdf)   
 [Styrelsemöte 5 2022](/wp-content/uploads/2022/09/Beslutsprotokoll Styrelsemöte 5.pdf)  
