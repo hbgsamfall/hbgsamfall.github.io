@@ -9,10 +9,9 @@ nav_order: 90
 has_children: true
 ---
 
- ### Underhållsplan   
-
+### Underhållsplan  
  
- I hemsidans meny finns undermeny till sidor med ==mer information==. Att det finns undermenyer är indikerat med ^.
+I hemsidans meny finns undermeny till sidor med ==mer information==. Att det finns undermenyer är indikerat med ^.
 
 Hässelby Gårds Samfällighetsförening ansvarar för ett antal gemensamhetsanläggningar. För att bibehålla anläggningsdelarnas standard och beständighet behöver dessa delar underhållas. En underhållsplan upprättas för att kunna räkna ut avsättningen till detta underhåll. Kalkylen baseras på statusen på olika anläggningsdelar samt en plan över när de delarna bör åtgärdas.
 
