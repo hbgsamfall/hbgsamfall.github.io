@@ -7,4 +7,4 @@ nav_order: 34
 
 ### Vad får du spola ner i toaletten? 
 
-[OBS](/wp-content/uploads/2022/09/Vad får du spola ner i toaletten.pdf)
+[Vad får du spola ner i toaletten?](/wp-content/uploads/2022/09/Vad får du spola ner i toaletten.pdf)
