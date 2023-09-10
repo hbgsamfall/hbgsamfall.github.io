@@ -10,7 +10,7 @@ parent: Styrelsen Informerar
 
 #### Nuvarande medlemsavgift
 
-Medlemsavgiften beslutas varje år av årsmötet.             Se längst ned på sidan beträffande fakturering av medlemsavgiften
+Medlemsavgiften beslutas varje år av årsmötet. Se längst ned på sidan beträffande fakturering av medlemsavgiften
 
 Den nuvarande medlemsavgiften är 14 400 kr. Den tas ut genom en uttaxering av 3600 kronor per kvartal.
 
@@ -27,23 +27,11 @@ Kostnaden för rörförnyelse av avloppsstammarna för de återstående fastighe
 Vi hoppas det här ger de som undrar den information de behöver och om de har frågor är de välkomna att kontakta styrelsen.
 
 Mer information finns i presentationen **[190317 Projekt rörförnyelse](/wp-content/uploads/2019/03/190317-Projekt-rörförnyelse.pdf)**
+
 För de som inte var med på årsmötet finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsmötet**](/yearly/arsmote.md)   
 
 **Fakturering av medlemsavgiften**
 
-Föreningen sköter faktureringen själva, initialt via brev i postlådan. 
-Det har framkommit önskemål om att kunna betala elektroniskt. E-faktura och autogiro är tyvärr inte möjligt att använda då föreningen inte kan hantera dessa tjänster.  
-För att minska porto och posthantering, för alla oss i föreningen, har vi nu möjlighet att skicka ut fakturan via e-post, som PDF-fil.  
-
-Önskar ni få fakturan via e-post kan ni anmäla er e-postadress till föreningens e-postlåda. Vi behöver då följande uppgifter: 
-
-1. Kundnummer (Står på den senaste fakturan) 
-2. Adress 
-3. Ägarens namn 
-4. E-postadress dit fakturan önskas skickas 
-
-Skicka information enligt ovan till **hbgsamfall@gmail.com** 
-
-Observera att vi måste ha alla ovanstående uppgifter innan vi ändrar till e-postavisering. 
-Det åligger fastighetsägaren att anmäla ändringar av e-postadressen. Om e-postadressen ändras, upphör eller på annat sätt inte fungerar vilket resulterar att fakturan inte kommer fram kommer påminnelsefaktura vid utebliven betalning att skickas med vanlig post.
-
+Föreningen sköter faktureringen själva, initialt via brev i postlådan men e-faktura och autogiro är nu möjligt. För att få e-faktura anmäler du det själv via din internetbank. OBS! Den som önskar e-faktura mot kontot måste ha samma namn som namnet som finns angivet på fakturan. Vid frågor, ring kassören: 070 4447704
+  
+Om så många som möjligt övergår till e-faktura minskar det porto och posthantering för alla oss i föreningen.  
