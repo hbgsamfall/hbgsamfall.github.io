@@ -10,4 +10,4 @@ parent: Styrelsen Informerar
 
 Klicka på önskad rad för att komma till det dokument ni vill titta på:
 
-Inga för närvarande
+**Inga för närvarande**
