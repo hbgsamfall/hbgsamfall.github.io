@@ -8,7 +8,7 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1360'
 nav_order: 60
 ---
 
-Här kommer information från styrelsearbeter att presenteras löpande i form av sammanfattning från styrelsemöten, “månadsbrev”, etc.Styrelsemöte
+Här kommer information från styrelsearbetet att presenteras löpande i form av sammanfattning från styrelsemöten, “månadsbrev”, beslut vid Styrelsemöten, etc.
 
 ###### Styrelsemöten
 
