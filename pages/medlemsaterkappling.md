@@ -12,10 +12,7 @@ På sidan under rubriken ovan finns Preliminär tidplan Etapp 6, 2023. Röranaly
 Detaljerad tidplan kommer att presenteras i god tid innan arbetet börjar.
 
 ## Agerande vid stopp i avlopp
-Föreningen har avtal med Röranalys om spolning och kontroll av våra gemensamma avloppsrör:
-- Om ni har stopp i avloppet ska en [FELANMÄLAN]({%link pages/felanmalan.md %}) göras till kontaktpersonerna i styrelsen som är angivna här.
-- Föreningen kontaktar då Röranalys som tar direktkontakt med fastighetsägaren och kommer ut för att kontrollera stoppet.
-- Röranalys utreder vad som orsakat stoppet bl.a. genom kamera och ev. filmning och meddelar sedan om kostnaden för åtgärd av stoppet ska betalas av fastighetsägaren eller samfälligheten.
+Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller Röranalys om det omfattas av garanti.
 
 Eftersom föreningen endast har ansvar för de gemensamma avloppsrören och dess funktion kan föreningen endast ersätta kostnaden för spolning om orsaken till stoppet ligger i de gemensamma rören.
 
@@ -44,4 +41,9 @@ Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
 Hälsningar
 Styrelsen
+
+| Avlopp       | Vatten         |
+|:-------------|:------------------|
+| ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png) | ![plumber](/wp-content/uploads/2022/09/Stopp i avloppet.png |
+
 
