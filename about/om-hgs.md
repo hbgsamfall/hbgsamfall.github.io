@@ -9,6 +9,10 @@ guid: 'http://hbgsamfall.info.tm/?page_id=246'
 nav_order: 10
 ---
 
-#### **I undermenyerna hittar ni allmän information om Hässelby Gårds Samfällighetsförening** 
+**HGS**
 
-Ovanstående information finns samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
+#### **Allmän information om Hässelby Gårds Samfällighetsförening**
+
+I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.
+
+Informationen finns samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
