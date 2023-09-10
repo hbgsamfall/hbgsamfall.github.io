@@ -9,7 +9,9 @@ nav_order: 35
 ---
 
 ## Felanmälan  
-![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
+| Avloppskris  | Kallvattenkris    |        |
+|:-------------|:------------------|:-------|
+| ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png) |![Drabbad](/wp-content/uploads/2022/09/Stopp i avloppet 300.png) |        |
 
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar anmäls till nedanstående mejladress. 
 Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})  
