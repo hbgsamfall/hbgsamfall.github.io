@@ -9,9 +9,11 @@ has_children: true
 parent: Rörförnyelse
 ---
 
-**I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.**
+### **Information om avloppsstammar och relining**  
 
-I underrubrikerna till "Information om avloppsstammar och relining" finns:
+I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.
+
+I underrubrikerna finns:
 
 - information om avloppsstammars livsländ
 - inspektion före och efter relining
