@@ -10,7 +10,8 @@ nav_order: 130
 has_children: true
 ---
 
-#### I undermenyerna hittar ni information om Hässelby Gårds Samfällighetsförenings årsmöten.
+#### **I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.**  
+I undermenyerna hittar ni mer information om Hässelby Gårds Samfällighetsförenings årsmöten.    
 
 **2023 Årsmöte – Mars**  
 [Kallelse, handlingar](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023_Komplett.pdf)
