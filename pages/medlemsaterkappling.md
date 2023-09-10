@@ -44,6 +44,8 @@ Styrelsen
 
 | Avloppskris | Kallvattenkris |
 |:-------------|:------------------|
-| ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png) |![Drabbad](/wp-content/uploads/2022/09/Stopp i avloppet 314.png) |
+| ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png) |![Drabbad](/wp-content/uploads/2022/09
+/Stopp i avloppet 300.png
+) |
 
 
