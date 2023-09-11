@@ -11,7 +11,7 @@ has_children: true
 
 ### Rörförnyelse  
 
-I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.
+I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.
 
 För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information via följande länkar:
 
