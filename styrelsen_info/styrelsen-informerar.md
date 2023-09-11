@@ -9,6 +9,6 @@ nav_order: 50
 has_children: true
 ---
 
-**I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.**
+**I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.**
 
 I undermenyerna hittar ni information om styrelsens verksamhet, ekonomi och möten.
