@@ -11,7 +11,7 @@ parent: Rörförnyelse
 
 ### **Information om avloppsstammar och relining**  
 
-I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ^.
+I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.
 
 I underrubrikerna finns:
 
