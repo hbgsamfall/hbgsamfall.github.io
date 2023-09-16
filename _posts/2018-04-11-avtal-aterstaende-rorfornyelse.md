@@ -11,9 +11,11 @@ dsq_thread_id:
 categories:
     - nyheter
 ---
+**Avtal**
 
 2018-03-28 tecknades avtal med Svensk Röranalys AB för Etapp 2, rörförnyelse för de återstående 420 fastigheterna.
 
-[**Tidplan för de ca 50 fastigheter som ska åtgärdas under 2018.**](/wp-content/uploads/2018/08/Tidplan-Rörförnyelse_2018.pdf)
+**Tidplan för de ca 50 fastigheter som ska åtgärdas under 2018.**
+|![Tidplan](/wp-content/uploads/2022/09/Tidplan 2018.png) |
 
 **Informationsmöte** den 23 maj klockan 19.00-21.00, Prisma Hässelby torg. Där informerar styrelsen tillsammans med Röranalys de berörda fastighetsägarna.
