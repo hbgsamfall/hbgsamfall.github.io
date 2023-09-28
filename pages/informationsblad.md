@@ -8,7 +8,11 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1353'
 nav_order: 70
 ---
 
-#### Här hittar ni de informationsblad som styrelsen delat ut till medlemmarna.
+## Här hittar ni de informationsblad som styrelsen delat ut till medlemmarna.
+
+
+**2023  
+[HGS Info-blad 1 2023](/wp-content/uploads/2022/09/HGS Info-blad 1 2023.pdf)**
 
 **2022  
 [HGS Info-blad 1 2022](/wp-content/uploads/2022/08/HGS-Info-blad-1-2022_v3.pdf)**
