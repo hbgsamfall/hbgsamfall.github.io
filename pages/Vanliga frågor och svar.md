@@ -18,9 +18,7 @@ För att möjliggöra en enklare övergång till fastighetens rör är även de 
 #### Exempel på en radhuslänga med tre hus och angivna delar som ingår i avloppsanläggningen.  
 ![Exempelritning med bilder](/wp-content/uploads/2022/09/Exempelritning med bilder_r1.png).  
 
-**Ingår gårdsbrunnar i Samfälligheten?**  
-
-| **Svar:** <span style="color: #339966;">**Ja**</span>, gårdsbrunnar, de gemensamma brunnarna för dagvatten från taken, för respektive radhuslänga (markerade med rosa färg) och rör från gårdsbrunnarna till avloppsstammen ingår i samfälligheten. Gårdsbrunnarna har ett gjutjärnslock vars diameter är 286 mm. Se skissen för avloppsanläggningen ovan samt bilden till höger. | ![Gårdsbrunn](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) |   
+| **Ingår gårdsbrunnar i Samfälligheten?** <br><br> **Svar:** <span style="color: #339966;">**Ja**</span>, gårdsbrunnar, de gemensamma brunnarna för dagvatten från taken, för respektive radhuslänga (markerade med rosa färg) och rör från gårdsbrunnarna till avloppsstammen ingår i samfälligheten. Gårdsbrunnarna har ett gjutjärnslock vars diameter är 286 mm. Se skissen för avloppsanläggningen ovan samt bilden till höger. | ![Gårdsbrunn](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) |   
 
 Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för underhåll och eventuellt kommande utbyte. Har de i efterhand felaktigt byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning i samband med en eventuell entreprenad.  
 
@@ -31,8 +29,8 @@ Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för un
 ![Yttre dränering av dagvatten](/wp-content/uploads/2022/09/Regnvatten_r1.png)   
 
 **Vilka elkablar ingår i Samfälligheten?**  
-**Svar:** Elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gavel av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
-Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt i taket i anslutning till elkablarna sitter även centralen för respektive fastighets huvudsäkringar. Se bilden nedan. Bilden är från ett hus i änden av en länga. För de övriga radhusen fortsätter kabel vidare till nästa hus efter att ha passerat centralen. <span style="color: #ff0000;">Huvudsäkringscentralen är i många fall felaktigt inbyggd i efterhand utan öppningsbar lucka för åtkomst</span>. 
+**Svar:** Elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gaveln av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
+Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt i taket i anslutning till elkablarna sitter även centralen för respektive fastighets huvudsäkringar. Se bilden nedan. Bilden är från ett hus i änden av en länga. För de övriga radhusen fortsätter kabeln vidare till nästa hus efter att ha passerat centralen. <span style="color: #ff0000;">Huvudsäkringscentralen är i många fall felaktigt inbyggd i efterhand utan öppningsbar lucka för åtkomst</span>. 
 
 ![Huvudsäkringar](/wp-content/uploads/2022/09/Huvudsäkringscentral.jpg).  
 
