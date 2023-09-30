@@ -18,7 +18,7 @@ För att möjliggöra en enklare övergång till fastighetens rör är även de 
 #### Exempel på en radhuslänga med tre hus och angivna delar som ingår i avloppsanläggningen.  
 ![Exempelritning med bilder](/wp-content/uploads/2022/09/Exempelritning med bilder_r1.png).  
 
-| **Ingår gårdsbrunnar i Samfälligheten?** <br><br> **Svar:** <span style="color: #339966;">**Ja**</span>, gårdsbrunnar, de gemensamma brunnarna för dagvatten från taken, för respektive radhuslänga (markerade med rosa färg) och rör från gårdsbrunnarna till avloppsstammen ingår i samfälligheten. Gårdsbrunnarna har ett gjutjärnslock vars diameter är 286 mm. Se skissen för avloppsanläggningen ovan samt bilden till höger. | ![Gårdsbrunn](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) <br><br> |   
+| **Ingår gårdsbrunnar i Samfälligheten?** <br><br> **Svar:** <span style="color: #339966;">**Ja**</span>, gårdsbrunnar, de gemensamma brunnarna för dagvatten från taken, för respektive radhuslänga (markerade med rosa färg) och rör från gårdsbrunnarna till avloppsstammen ingår i samfälligheten. Gårdsbrunnarna har ett gjutjärnslock vars diameter är 286 mm. Se skissen för avloppsanläggningen ovan samt bilden till höger. | ![Gårdsbrunn](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) |   
 
 Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för underhåll och eventuellt kommande utbyte. Har de i efterhand felaktigt byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning i samband med en eventuell entreprenad.  
 
