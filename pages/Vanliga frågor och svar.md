@@ -23,7 +23,7 @@ För att möjliggöra en enklare övergång till fastighetens rör är även de 
 Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för underhåll och eventuellt kommande utbyte. Har de i efterhand felaktigt byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning i samband med en eventuell entreprenad.  
 
 **Ingår yttre dränering av dagvatten i Samfälligheten?**  
-**Svar:** <span style="color: #ff0000;">**Nej**</span>, de regnvattenrör som går i mark längs radhusen från stuprören fram till gårdsbrunn är respektive fastighetsägares ansvar, se skissen och bilderna nedan. 
+**Svar:** <span style="color: #ff0000;">**Nej**</span>, de regnvattenrör som går i mark längs radhusen från stuprören fram till gårdsbrunn är respektive fastighetsägares ansvar, se skissen och bilderna nedan samt bilden ovan av gårdsbrunnen med det framgrävda tegelröda röret för regnvatten från de övriga stuprören längs längan. 
 <span style="color: #ff0000;">**OBS! Respektive fastighetsägare ansvarar för dränering av dagvatten från tomtmarken**</span>.  
 
 ![Yttre dränering av dagvatten](/wp-content/uploads/2022/09/Regnvatten_r1.png)   
