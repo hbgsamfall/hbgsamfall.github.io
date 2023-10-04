@@ -1,5 +1,5 @@
 ---
-title: 'Vanliga frågor och svar'
+title: Vanliga frågor och svar
 layout: page
 nav_order: 32
 ---
