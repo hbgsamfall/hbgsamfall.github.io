@@ -3,7 +3,7 @@ title: Vanliga frågor och svar
 layout: page
 nav_order: 32
 ---
-## Vanliga frågor och svar
+## Vanliga frågor och svar 
 
 ### Ingår kallvattenrören i Samfälligheten? 
 **Svar:** <span style="color: #339966;">**Ja**</span>, i varje radhus ingår vattenrör för kallvatten från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren (rödmarkerade i skissen). Kallvattenrören är monterade nära taket i bottenplanet, se bild och skiss (<span style="color: #ff0000;">i många fall felaktigt inbyggda i efterhand utan öppningsbar slits för åtkomst</span>).  
