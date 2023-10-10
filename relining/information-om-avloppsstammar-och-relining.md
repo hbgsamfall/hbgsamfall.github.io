@@ -5,16 +5,15 @@ date: '2020-01-09T07:50:33+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=2132'
-has_children: true
 parent: Rörförnyelse
 ---
 
 ### **Information om avloppsstammar och relining**  
 
-I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.
+Informationen om avloppsstammar och relining är uppdelad i tre delar. Information om varje del får du genom att klicka på rubriken för respektive del. 
 
-I underrubrikerna finns:
+**[Avloppsstammars livsländ]({% link relining/avloppsstammars-livslangd.md %})** 
 
-- information om avloppsstammars livsländ
-- inspektion före och efter relining
-- relining.
+**[Inspektion före och efter relining]({% link relining/inspektion-av-avloppsledningar-fore-och-efter-relining.md %})** 
+
+**[Relining]({% link relining/rorrenovering-relining.md %})**
