@@ -12,7 +12,8 @@ parent: Rörförnyelse
 
 2018 tecknades ett avtal med Röranalys för slutförandet av rörförnyelsen av våra avloppsstammar. Avtalet är uppdelat i 7 etapper och de 5 första etapperna är nu genomförda.
 
-Eftersom Etapp 6 kommer att inkludera samtliga återstående fastigheter så kommer rörförnyelsen att i huvudsak vara avslutad redan vid kommande årsskifte. Den **[uppdaterade tidplanen för Etapp 6, 2023](/wp-content/uploads/2022/09/Uppdaterad tidplan 2023.pdf)**, anger turordningen för de ingående fastigheterna. Det finns även en karta **[Överblick relining Etapp 6](/wp-content/uploads/2022/09/Överblick relining Etapp 6, 2023.pdf)** som visar läget av de berörda fastigheterna (de gulmarkerade och de grönmarkerade längorna). Verksamheten började med försyn och avisering vecka 23 och arbetet med avloppsrören startade vecka 30. Längst ned på sidan finns länkar till den typ av information som kommer att ges av Röranalys när de informerar om kommande arbete.
+Eftersom Etapp 6 kommer att inkludera samtliga återstående fastigheter så kommer rörförnyelsen att i huvudsak vara avslutad redan vid kommande årsskifte. Den **[uppdaterade tidplanen för Etapp 6, 2023]({% link _posts/2023-03-28-tidplan-etapp-6.md
+ %})**, anger turordningen för de ingående fastigheterna. Det finns även en karta **[Överblick relining Etapp 6](/wp-content/uploads/2022/09/Överblick relining Etapp 6, 2023.pdf)** som visar läget av de berörda fastigheterna (de gulmarkerade och de grönmarkerade längorna). Verksamheten började med försyn och avisering vecka 23 och arbetet med avloppsrören startade vecka 30. Längst ned på sidan finns länkar till den typ av information som kommer att ges av Röranalys när de informerar om kommande arbete.
 
 I takt med att rörförnyelsen går vidare kommer de fastighetsägare som blir berörda att bli informerade så de får möjlighet att planera för den störning i boendet som arbetet med avloppsrören innebär. 
 
