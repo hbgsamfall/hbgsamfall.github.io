@@ -12,7 +12,7 @@ parent: Rörförnyelse
 
 Informationen om avloppsstammar och relining är uppdelad i tre delar. Information om varje del får du genom att klicka på rubriken för respektive del. 
 
-**[Avloppsstammars livsländ]({% link relining/avloppsstammars-livslangd.md %})** 
+**[Avloppstammars livsländ]({% link relining/avloppsstammars-livslangd.md %})** 
 
 **[Inspektion före och efter relining]({% link relining/inspektion-av-avloppsledningar-fore-och-efter-relining.md %})** 
 
