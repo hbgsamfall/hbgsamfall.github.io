@@ -5,6 +5,7 @@ date: '2018-08-21T18:21:17+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1910'
+nav_order: 31
 ---
 
 Här finns information om de aviseringar som Röranalys gör inför förbesiktning och start av arbetet. Exemplet på information vid Förbesiktningsavisering uppdateras allteftersom beroende på vilken del av samfälligheten som står på tur för rörförnyelse.
