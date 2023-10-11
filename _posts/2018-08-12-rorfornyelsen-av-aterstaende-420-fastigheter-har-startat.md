@@ -23,4 +23,4 @@ Till att börja med pågick arbetet till och med vecka 14. Därefter blev det et
 
 Det återstår för oss att göra slutbesiktning av det utförda arbetet och för entreprenören att åtgärda eventuella besiktningsanmärkningar.
 
-Fastigheter på Ardennergatan, Remontgatan och Friherregatan ingick i den första etappen. Projektet har förlöpt väl. Trots en del skadade rör och vissa svåråtkomliga rensluckor har tidplanen kunnat hållas.
+Fastigheter på Ardennergatan, Remontgatan och Friherregatan ingick i den första etappen. Projektet har förlöpt väl. Trots en del skadade rör och vissa svåråtkomliga rensluckor har tidplanen kunnat hållas. 
