@@ -56,4 +56,4 @@ En gårdsbrunn har bytts ut. Den baksida där gårdsbrunnen var placerad fick gr
 
 ## Röranalys Etapp 5
 
-Verksamheten under Röranalys Etapp 5 beskrivs på sidan [Framdrift av etapp 5 (2022 års rörförnyelse)]({%link _posts/2019-06-18-2019-ars-rorfornyelsen-av-aterstaende-fastigheter.md %})
+Verksamheten under Röranalys Etapp 5 beskrivs på sidan [Framdrift av etapp 5 (2022 års rörförnyelse)]({%link _posts/2022-10-05-2022-års-rörförnyelse-av-återstående-fastigheter.md %})
