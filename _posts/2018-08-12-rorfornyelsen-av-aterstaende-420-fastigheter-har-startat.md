@@ -1,6 +1,6 @@
 ---
 id: 1895
-title: 'rörförnyelsen av de återstående 420 fastigheterna pågår'
+title: 'rörförnyelsen av de återstående 420 fastigheterna (Etapp 1, 2 och 3)'
 date: '2018-08-12T10:34:47+01:00'
 author: hbgsamfall
 layout: post
