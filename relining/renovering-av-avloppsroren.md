@@ -19,7 +19,9 @@ Enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av
 
 Sedan dess har ett antal entreprenader upphandlats, den senaste vanns av Röranalys AB. Genom dessa entreprenader har rörförnyelse succesivt gjorts av större delen av avloppsstammarna och Röranalys kommer under 2023 att avsluta rörförnyelsen genom att färdigställa avloppsstammarna för de sista 65 fastigheterna. 
 
-Relining ![Rörinfodring](/wp-content/uploads/2022/09/Ingår gårdsbrunnar_317png.png) är ett samlingsnamn för metoder att renovera avloppsrör. Efter noggrann rengöring av de ursprungliga rören utför man antingen en invändig ”målning”/beläggning, så kallad coating med plastmaterial eller så utför man rörinfodring med en s.k. strumpa som är impregnerad med plastmaterial. I båda fallen bildas ett nytt plaströr inuti det gamla röret. Nästan all relinging under rörförnyelsen är utförd med ” strumpa”. 
+Relining
+![Rörinfodring](/wp-content/uploads/2023/Rörinfodring.PNG) 
+är ett samlingsnamn för metoder att renovera avloppsrör. Efter noggrann rengöring av de ursprungliga rören utför man antingen en invändig ”målning”/beläggning, så kallad coating med plastmaterial eller så utför man rörinfodring med en s.k. strumpa som är impregnerad med plastmaterial. I båda fallen bildas ett nytt plaströr inuti det gamla röret. Nästan all relinging under rörförnyelsen är utförd med ” strumpa”. 
 
 
 I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅. 
