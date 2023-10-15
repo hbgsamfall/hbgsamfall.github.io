@@ -11,7 +11,18 @@ has_children: true
 
 ### Rörförnyelse  
 
-I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.
+Rörförnyelsen initierades av att våra avlopp som är gjorda i gjutjärn installerades för ca 60 år sedan. Det resulterade i att stopp har uppstått här och var i våra avlopp på grund av rörförskjutningar, jord som rasat in genom sönderrostade avloppsledningar och avloppsvatten som läckt ut i marken under husen. 
+
+| ![Rörförskjutning](/wp-content/uploads/2022/09/Ingår gårdsbrunnar_317png.png) | ![Gårdsbrunn](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) | ![Sönderrostat rör](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) | 
+
+Enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn. HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras.På grund av att akutinsatser hade blivit vanliga tog styrelsen till årsmötet 2015 fram en plan för rörförnyelse genom så kallad relining. Mötet godtog planen. 
+
+Sedan dess har ett antal entreprenader upphandlats, den senaste vanns av Röranalys AB. Genom dessa entreprenader har rörförnyelse succesivt gjorts av större delen av avloppsstammarna och Röranalys kommer under 2023 att avsluta rörförnyelsen genom att färdigställa avloppsstammarna för de sista 65 fastigheterna. 
+
+Relining ![Rörinfodring](/wp-content/uploads/2022/09/Ingår gårdsbrunnar_317png.png) är ett samlingsnamn för metoder att renovera avloppsrör. Efter noggrann rengöring av de ursprungliga rören utför man antingen en invändig ”målning”/beläggning, så kallad coating med plastmaterial eller så utför man rörinfodring med en s.k. strumpa som är impregnerad med plastmaterial. I båda fallen bildas ett nytt plaströr inuti det gamla röret. Nästan all relinging under rörförnyelsen är utförd med ” strumpa”. 
+
+
+I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅. 
 
 För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information via följande länkar:
 
