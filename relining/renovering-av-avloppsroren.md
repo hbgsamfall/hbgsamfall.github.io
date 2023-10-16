@@ -14,7 +14,7 @@ has_children: true
 Rörförnyelsen initierades av att våra avlopp som är gjorda i gjutjärn installerades för ca 60 år sedan. Det resulterade i att stopp har uppstått här och var i våra avlopp på grund av rörförskjutningar, jord som rasat in genom sönderrostade avloppsledningar och avloppsvatten som läckt ut i marken under husen. 
 ![Samlade rörproblem](/wp-content/uploads/2023/Samlade rörproblem.png) 
 
-Enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn. HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras.På grund av att akutinsatser hade blivit vanliga tog styrelsen till årsmötet 2015 fram en plan för rörförnyelse genom så kallad relining. Mötet godtog planen. 
+Enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn. HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras. På grund av att akutinsatser hade blivit vanliga tog styrelsen till årsmötet 2015 fram en plan för rörförnyelse genom så kallad relining. Mötet godtog planen. 
 
 Sedan dess har ett antal entreprenader upphandlats, den senaste vanns av Röranalys AB. Genom dessa entreprenader har rörförnyelse succesivt gjorts av större delen av avloppsstammarna och Röranalys kommer under 2023 att avsluta rörförnyelsen genom att färdigställa avloppsstammarna för de sista 65 fastigheterna. 
 
