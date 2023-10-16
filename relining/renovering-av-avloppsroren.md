@@ -13,7 +13,7 @@ has_children: true
 
 Rörförnyelsen initierades av att våra avlopp som är gjorda i gjutjärn installerades för ca 60 år sedan. Det resulterade i att stopp har uppstått här och var i våra avlopp på grund av rörförskjutningar, jord som rasat in genom sönderrostade avloppsledningar och avloppsvatten som läckt ut i marken under husen. 
 
-| ![Rörförskjutning](/wp-content/uploads/2023/Rörförskjutning.jpg) | ![Läckande rör](/wp-content/wp-content/uploads/2023/Läckande rör.jpg) | ![Sönderrostat rör]wp-content/uploads/2023/Sönderrostat rör.jpg) | 
+| i. ![Rörförskjutning](/wp-content/uploads/2023/Rörförskjutning.jpg) | ii. ![Läckande rör](/wp-content/wp-content/uploads/2023/Läckande rör.jpg) | iii. ![Sönderrostat rör]wp-content/uploads/2023/Sönderrostat rör.jpg) | 
 
 Enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn. HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras.På grund av att akutinsatser hade blivit vanliga tog styrelsen till årsmötet 2015 fram en plan för rörförnyelse genom så kallad relining. Mötet godtog planen. 
 
