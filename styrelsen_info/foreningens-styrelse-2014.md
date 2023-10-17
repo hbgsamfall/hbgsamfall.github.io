@@ -8,5 +8,5 @@ guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=14'
 parent: Styrelsen Informerar
 ---
 
-## HGS Samf Styrelse 2023 
-![Styrelsen 2023](/wp-content/uploads/2023/HGS Samf Styrelse 2023.jpg)
+### HGS Samf Styrelse 2023 
+![Styrelsen 2023](/wp-content/uploads/2023/HGS Samf Styrelse_2023.jpg)
