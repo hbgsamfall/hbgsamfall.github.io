@@ -1,6 +1,6 @@
 ---
 id: 23
-title: medlemsavgift
+title: Medlemsavgift
 date: '2014-03-11T12:18:44+01:00'
 author: hbgsamfall
 layout: page
