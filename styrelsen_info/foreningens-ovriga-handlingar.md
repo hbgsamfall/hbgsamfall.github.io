@@ -1,6 +1,6 @@
 ---
 id: 201
-title: 'Föreningens övriga handlingar'
+title: 'Övriga handlingar'
 date: '2014-03-11T10:18:56+01:00'
 author: hbgsamfall
 layout: page
