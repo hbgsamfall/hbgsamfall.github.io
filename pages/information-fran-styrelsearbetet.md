@@ -5,7 +5,7 @@ date: '2016-05-02T12:38:44+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1360'
-nav_order: 60
+parent: Styrelsen Informerar
 ---
 
 Här kommer information från styrelsearbetet att presenteras löpande i form av sammanfattning från styrelsemöten, “månadsbrev”, beslut vid Styrelsemöten, etc.
