@@ -26,6 +26,6 @@ Ingen kom att tänka på hur reparationsåtgärderna på de “gemensamma anläg
 Lantmäteriverket ansåg det mest naturligt/rationellt att bilda en teknisk samfällighet inom var och en av de nuvarande geografiska områdena 8, 9 och 10. Dessa tre områden ansågs vart och ett bilda naturliga enheter, gemensamhetsanläggningar, med lagom storlek. 
 Skötseln av de tre gemensamhetsanläggningarna organiserades genom att man bildade en gemensam samfällighetsförening med namnet “Hässelby Gårds Samfällighetsförening”.
 
-För skötseln av gemensamhetsanläggningarna måste det finnas en [Underhållsplan]({% link maintenance/underhållsplan.md %}).  
+För skötseln av gemensamhetsanläggningarna måste det finnas en [Underhållsplan]({% link maintenance/underhallsplan.md %}).  
 
 Mer information om samfällighetsföreningens syfte och underhållsansvar finns här: [Föreningens syfte och ansvar]({% link about/foreningens-syfte-och-ansvar.md %})
