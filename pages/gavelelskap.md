@@ -10,7 +10,7 @@ nav_order: 120
 
 ## Elskåp  
 
-![Exenpel på elskåp](/ wp-content/uploads/2023/exempel på Elskåp.png)  
+![Exenpel på elskåp](/wp-content/uploads/2023/exempel på Elskåp.png)  
 
 Elskåp (säkringsskåp) med säkringar för den inkommande elen till varje länga (för långa längor finns ibland två elskåp) sitter vanligtvis utvändigt i gaveln av radhuslängan.
 
