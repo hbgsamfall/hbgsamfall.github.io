@@ -29,3 +29,14 @@ Ett ”pilotprojekt” har genomförts för en länga med 3 fastigheter. En för
 **Filmning**  
 Under 2017 filmades avloppsstammarna för att i den mån det går ta reda på aktuell status och åtgärda de mest akuta delarna. Åtgärder har gjorts på 9 platser.  
 Åtgärderna ger oss tid att fördela återstående rörförnyelse under flera år. Detta tillsammans med att entreprenören får bättre underlag och minskat tillägg för oförutsett gör att vi inte ska behöva ta lån för den fortsatta rörförnyelsen
+
+**Fortsatt framdrift av rörförnyelsen**  
+Under avbrottet på grund av att prisnivån på de inkomna anbuden varit alltför hög sökte styrelsen vägar, bland annat genom ovan nämnda pilotprojekt och filmning,   för att få ett bättre pris vid fortsatt upphandling.
+
+Det ledde till att styrelsen till årsmötet 2017 hade tagit fram en uppdaterad underhålls- och förnyelseplan. Planen är uppdaterad utifrån de erfarenheter som gjorts sedan upphandlingen av Etapp 2 avbröts.
+
+Enligt den plan för fortsatt rörförnyelse som antogs av årsmötet 2017 har anbud tagits in för rörförnyelse av de återstående 420 fastigheterna. Genom att ha filmat våra avloppsrör och försett anbudsgivarna med resultatet har vi minskat entreprenörens risk och därmed fått mer fördelaktiga anbud. För att ytterligare minska risken har vi valt att göra dagvattendelen inklusive gårdsbrunnar på löpande räkning.
+
+Entreprenören har även fått möjlighet att inom den satta tidsramen fritt planera antal fastigheter per år, i vilken ordning och inom vilka områden rörförnyelsen görs. Enda förbehållet är att de fastigheter där filmningen visar att skicket är sämst ska prioriteras.
+
+Sedan 2017 har avtal tecknats med Röranalys. Arbetet pågår fram t.o.m. 2024 och är fördelat på 7 etapper för att vi ska kunna klara kostnaden utan att ta lån. Röranalys har under de år som gått genomför etapperna 1 t.o.m. 5 (hela område 8 och 9 samt 73 fastigheter i område 10). Etapp 6 pågår i område 10 och är utökad så att de 65 fastigheter som återstår kommer att enligt den nya planen vara avklarade redan under 2023.
