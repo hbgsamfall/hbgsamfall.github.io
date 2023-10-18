@@ -8,7 +8,7 @@ parent: Om HGS
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1750'
 ---
 
-#### Bakgrundsinformation
+### Bakgrundsinformation
 
 Vid årsmötet 2014 påtalade medlemmarna det akuta behovet av renovering av samfällighetens avloppssystem och efterfrågade en riktig underhållsplan på 5 eller 10 år. Styrelsen tog först fram en förnyelseplan som las fram vid årsmötet 2015. Man kommer till samfällighetens underhållsplaner genom att i menyn till vänster gå in på **Underhållsplan.
 
