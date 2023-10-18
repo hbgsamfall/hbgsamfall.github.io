@@ -17,9 +17,9 @@ Hässelby Gårds Samfällighetsförening ansvarar för ett antal gemensamhetsanl
 
 Kostnaden för underhållsåtgärderna ska täckas av den medlemsavgift som uttaxeras av medlemmarna. För att få en jämn fördelning av kostnaden tas i kalkylen även hänsyn till att kontinuerliga avsättningar ska göras till framtida underhåll. Detta för att längre fram kunna undvika en plötslig höjning av medlemsavgiften.
 
-Den uppdaterade underhålls- och förnyelseplanen fastslogs av årsmötet.
+För varje år fastslås den uppdaterade underhålls- och förnyelseplanen av årsmötet.
 
-Genom att följa länkarna nedan kommer ni till underhållsplaner med tillhörande kalkyler och presentationer som gjorts vid årsmöten samt historik och bakgrundsinformation.
+Genom att följa länkarna nedan kommer ni till de underhållsplaner med tillhörande kalkyler som fastslagits vid våra årsmöten.
 
 [HGS Underhållsplan 2023](/wp-content/uploads/2022/09/HGS Underhållsplan 2023.pdf)  
 [Kalkyl Underhållsplan 2023](/wp-content/uploads/2022/09/Kalkyl Underhållsplan 2023.pdf)  
@@ -36,7 +36,5 @@ Genom att följa länkarna nedan kommer ni till underhållsplaner med tillhöran
 [HGS Underhållsplan 2017](/wp-content/uploads/2017/03/HGS-Underhållsplan-2017.pdf)  
 [Kalkyl Underhållsplan 2017](/wp-content/uploads/2017/03/Kalkyl-Underhållsplan-2017.pdf)  
 [HGS Underhållsplan 2016](/wp-content/uploads/2016/03/HGS-Underhållsplan-2016.pdf)[  
-Presentation Underhållsplan 2016  ](/wp-content/uploads/2016/03/Presentation-Underhållsplan-2016.pdf)[Kalkyl Underhållsplan Alt 1 2016](/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-13.pdf)
-
-[Historik över tidigare utförd rörförnyelse]({% link maintenance/historik-over-tidigare-utford-rorfornyelse.md %})
-[Bakgrundsinformation]({% link about/bakgrundsinformation.md %})
+Presentation Underhållsplan 2016  ](/wp-content/uploads/2016/03/Presentation-Underhållsplan-2016.pdf)  
+[Kalkyl Underhållsplan Alt 1 2016](/wp-content/uploads/2016/03/Underhållsplan-2016-Alt-13.pdf) 
