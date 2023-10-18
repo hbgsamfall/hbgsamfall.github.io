@@ -8,6 +8,9 @@ guid: 'http://hbgsamfall.info.tm/?page_id=776'
 nav_order: 120
 ---
 
-#### Inventering
+## Elskåp
+Elskåp (säkringsskåp) med säkringar för den inkommande elen till varje länga (för långa längor finns ibland två elskåp) sitter vanligtvis utvändigt i gaveln av radhuslängan.
 
-[Besiktning av elskåp](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf)
+Elskåpen och de anslutna kablarna börjar bli slitna på grund av ålder, påverkan av väder och vind och sättningar i marken och framöver kommer de att behöva bytas ut. med anledning av detta har styrelsen gjort en #### Inventering genom [Besiktning av elskåpen](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf) och de anslutna kablarna.
+
+ Inventeringen ligger till grund för planeringen av underhållsbehovet samt tidpunkten för kommande utbyte.
