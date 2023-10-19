@@ -1,5 +1,5 @@
 ---
-title: <span style="color: #ffffff;">Vattenrör för kallvatten</span>
+title: <span style="color: #ffffff;">Vattenrör för kallvatten
 author: hbgsamfall
 layout: page
 ---
