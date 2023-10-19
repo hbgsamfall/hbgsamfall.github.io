@@ -14,6 +14,6 @@ nav_order: 120
 
 Elskåp (säkringsskåp) med säkringar för den inkommande elen till varje länga (för långa längor finns ibland två elskåp) sitter vanligtvis utvändigt i gaveln av radhuslängan.
 
-Elskåpen och de anslutna kablarna börjar bli slitna på grund av ålder, påverkan av väder och vind och sättningar i marken. Framöver kommer de att behöva bytas ut. Med anledning av detta har styrelsen gjort den inventering genom här beskriven [Besiktning av elskåpen](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf) och de anslutna kablarna.
+Elskåpen och de anslutna kablarna börjar bli slitna på grund av ålder, påverkan av väder och vind och sättningar i marken. Framöver kommer de att behöva bytas ut. Med anledning av detta har styrelsen gjort en inventering genom här beskriven [Besiktning av elskåpen](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf) och de anslutna kablarna.
 
  Inventeringen ligger till grund för planeringen av underhållsbehovet samt tidpunkten för kommande utbyte.
