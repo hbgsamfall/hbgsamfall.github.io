@@ -1,5 +1,5 @@
 ---
-title: Vattenrör för kallvatten
+title:  
 author: hbgsamfall
 layout: page
 ---
