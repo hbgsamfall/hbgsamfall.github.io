@@ -33,7 +33,7 @@ Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt
 
 ![Huvudsäkringar](/wp-content/uploads/2022/09/Huvudsäkringscentral.jpg).  
 
-Rören för elkablarna och huvudsäkringscentralen måste vara åtkomliga för underhåll och kommande utbyte. Har de byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning i samband med entreprenad för utbyte av elskåpen. 
+Rören för elkablarna och huvudsäkringscentralen måste vara åtkomliga för underhåll och kommande utbyte. Har de byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning i samband med entreprenad för utbyte av elkablarna och huvudsäkringscentralen. 
 
 ### Ingår elskåpen i Samfälligheten?  
 **Svar:** <span style="color: #339966;">**Ja**</span>, elskåpen som vanligen sitter i gaveln av varje radhuslänga ingår i samfälligheten, se bilden nedan. Vissa elskåp är lite skymda av värmepumpar. 
