@@ -1,9 +1,10 @@
 ---
-title: Rör för dagvatten
+title:  
 author: hbgsamfall
 layout: page
 ---
 
+<span style="color: #ffffff;"># Blank</span>
 ### Inför renovering eller ombyggnad av din fastighet  
 Om du har planer på renovering eller ombyggnad av radhuset eller dräneringen måste du tänka på att samfälligheten har ansvaret för den gemensamma avloppsstammen med dess anslutningar till ditt hus, inkommande kallvattenledning, säkringsskåp för huvudsäkringarna, elkabel samt, elskåpet (om du äger ett gavelhus där säkringsskåpet sitter för anslutning av den inkommande elkabeln). Detaljerad information finns på sidan [Föreningens syfte och ansvar]({% link about/foreningens-syfte-och-ansvar.md %})  
 
