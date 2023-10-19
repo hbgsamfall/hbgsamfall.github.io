@@ -15,11 +15,11 @@ gemensamhetsanläggningarna beträffande vatten, avlopp och el.
 **Ansvarsområde**  
 Föreningen svarar för underhåll och reparation av följande gemensamhetsanläggningar.
 
-1. Vattenrör för kallvatten med avstängningsventiler från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren i varje radhus
-2. [Rör för avloppsvatten](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf) från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan i varje radhus *(<span style="color: #ff0000;">röd</span>markerade)*
-3. [Rör för dagvatten](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf) från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga *(markerade med <span style="color: #ff00ff;">rosa</span> färg)*
-4. Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus.
-
+1. Vattenrör för kallvatten med avstängningsventiler från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren i varje radhus. [Hur påverkar det mig som fastighetsägare?]({% link wp-content/uploads/2023/vattenrör för kallvatten.md %})  
+2. [Rör för avloppsvatten](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf) från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan i varje radhus *(<span style="color: #ff0000;">röd</span>markerade)*. [Hur påverkar det mig som fastighetsägare?]({% link wp-content/uploads/2023/rör för avloppsvatten.md %})  
+3. [Rör för dagvatten](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf) från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga *(markerade med <span style="color: #ff00ff;">rosa</span> färg)*. [Hur påverkar det mig som fastighetsägare?]({% link wp-content/uploads/2023/rör för dagvatten.md %})  
+4. Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus. [Hur påverkar det mig som fastighetsägare?]({% link wp-content/uploads/2023/elektriska kablar & säkringsskåp.md %})  
+  
 Enligt protokoll från Fastighetsbildningsmyndighetens anläggningsförrättning avseende ledningar för vatten och avlopp samt el för tomträtterna för vart och ett av de tre områdena inom Samfälligheten daterade 1977-04-27 gäller följande:  
 “*Kostnaderna för anläggningens utförande och drift skall fördelas mellan deltagande tomträtter efter lika andelstal*“.  
 Dessa protokoll från Fastighetsbildningsmyndighetens anläggningsförrättning ingår i Samfällighetens stadgar.
