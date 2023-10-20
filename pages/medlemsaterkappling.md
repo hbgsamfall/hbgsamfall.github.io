@@ -29,7 +29,7 @@ det underlättar föreningens administration
 [Se vad som gäller vid Äganderättsövergång]({%link pages/informera-om-agarbyte-2.md %}) 
 
 ## Underhålls och förnyelseplan
-Styrelsen har tagit fram en förnyelseplan men vi ser gärna att medlemmarna lämnar information om status på avloppsstam och kallvattenrör samt pågående eller kommande renoveringar så att styrelsen får information för att avgöra turordning i planen.
+Styrelsen har tagit fram en [förnyelseplan]({% link maintenance/underhallsplan.md %}) men vi ser gärna att medlemmarna lämnar information om status på avloppsstam och kallvattenrör samt pågående eller kommande renoveringar så att styrelsen får information för att avgöra turordning i planen.
 
 Telefonnummer och mejladresser hittar ni under rubriken [Styrelsen informerar/Föreningens styrelse]({%link styrelsen_info/styrelsen-informerar.md %}) 
 
