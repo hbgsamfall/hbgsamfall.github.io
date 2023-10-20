@@ -16,7 +16,7 @@ De kallvattenrör som förvaltas av samfälligheten måste vara åtkomliga för 
 **Svar:** Rör för avloppsvatten från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan (<span style="color: #ff0000;">rödmarkerade</span> i skissen nedan) ingår för varje radhus i gemensamhetsanläggningen.  
 För att möjliggöra en enklare övergång till fastighetens rör är även de vertikala "stumparna" (gulmarkerade) upp genom bottenbjälklaget inkluderade vid rörförnyelsen av avloppsstammarna.  
 #### Exempel på en radhuslänga med tre hus och angivna delar som ingår i avloppsanläggningen.  
-![Exempelritning med bilder](/wp-content/uploads/2022/09/Exempelritning med bilder_r1.png). 
+![Exempelritning med bilder](/wp-content/uploads/2022/09/Exempelritning med bilder-r1.png). 
 
 Den gemensamma avloppsstammen med dess anslutningar till ditt hus förvaltas av samfälligheten och måste vara åtkomlig för underhåll och kommande utbyte. Har rören byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för framtagning och återställning vid underhåll i form av spolning och rensning av rören, filmning och åtgärdande av identifierade problem samt i samband med entreprenad för större reparationer.
 
@@ -27,7 +27,7 @@ Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för un
 ### Ingår yttre dränering av dagvatten i Samfälligheten? 
 **Svar:** <span style="color: #ff0000;">**Nej**</span>, de regnvattenrör som går i mark längs radhusen från stuprören fram till gårdsbrunn är respektive fastighetsägares ansvar, se skissen och bilderna nedan samt bilden ovan av gårdsbrunnen med det framgrävda tegelröda röret för regnvatten från de övriga stuprören längs längan. <span style="color: #ff0000;">**OBS! Respektive fastighetsägare ansvarar för dränering av dagvatten från tomtmarken**</span>. 
 
-![Yttre dränering av dagvatten](/wp-content/uploads/2022/09/Regnvatten_r1.png) 
+![Yttre dränering av dagvatten](/wp-content/uploads/2022/09/Regnvatten-r1.png) 
 
 ### Vilka elkablar ingår i Samfälligheten?  
 **Svar:** Elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gaveln av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
