@@ -19,7 +19,7 @@ där styrelsen informerar om nyheter och ger annan information om Hässelby Går
 
 [![Ordförande](/wp-content/uploads/2016/12/Ordförande.png)](/wp-content/uploads/2016/12/Ordförande.png)
 
-I menyerna till vänster (om ni öppnar sidan i mobilen kommer ikon för meny längst upp) kan ni komma till olika sidor och undermenyer där ni kan hitta information om Hässelby Gårds Samfällighetsförening och dess verksamhet.
+I menyerna till vänster (om ni öppnar sidan i mobilen kommer ikon för meny ≡ längst upp) kan ni komma till olika sidor och undermenyer där ni kan hitta information om Hässelby Gårds Samfällighetsförening och dess verksamhet.
 
 [Ljust blåfärgade texter]({% link maintenance/historik.md %}) är “klickbara” länkar till underliggande sidor eller dokument.
 
