@@ -6,6 +6,8 @@ layout: page
 
 <span style="color: #ffffff;"># Blank</span>
 ### Inför renovering eller ombyggnad av din fastighet  
+En viktig skyldighet är att du som medlem/fastighetsägare inte får skada eller göra sådant som uppenbart hindrar eller fördyrar utövandet av samfällighetens förvaltning.
+
 Om du har planer på renovering eller ombyggnad av radhuset eller dräneringen måste du tänka på att samfälligheten har ansvaret för den gemensamma avloppsstammen med dess anslutningar till ditt hus, inkommande kallvattenledning, säkringsskåp för huvudsäkringarna, elkabel samt, elskåpet (om du äger ett gavelhus där säkringsskåpet sitter för anslutning av den inkommande elkabeln). Detaljerad information finns på sidan [Föreningens syfte och ansvar]({% link about/foreningens-syfte-och-ansvar.md %})  
 
 Eftersom ditt arbete kan påverka våra gemensamhetsanläggningar måste alltid styrelsen kontaktas (hbgsamfall@gmail.com) för att informera och komma överens om hur du som fastighetsägare ska gå vidare.
