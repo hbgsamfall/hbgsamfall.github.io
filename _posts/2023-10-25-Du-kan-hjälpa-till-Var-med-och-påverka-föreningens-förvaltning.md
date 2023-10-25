@@ -1,5 +1,5 @@
 ---
-title: 'Du kan hjälpa till'
+title: 'Du kan hjälpa till! - Var med och påverka föreningens förvaltning'
 author: hbgsamfall
 layout: post
 categories:
