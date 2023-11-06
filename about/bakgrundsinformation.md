@@ -10,9 +10,18 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1750'
 
 ### Bakgrundsinformation
 
-Vid årsmötet 2014 påtalade medlemmarna det akuta behovet av renovering av samfällighetens avloppssystem och efterfrågade en riktig underhållsplan på 5 eller 10 år. Styrelsen tog först fram en förnyelseplan som las fram vid årsmötet 2015. Man kommer till samfällighetens underhållsplaner genom att i menyn till vänster gå in på **Underhållsplan.
+Radhusen byggdes i längor, i många fall flera sammankopplade längor, som alla är beroende av en gemensam anslutning av: kallvatten, avlopp, dagvatten från gemensamma gårdsbrunnar anslutna till avloppet,  elektricitet. 
 
-Behovet att ta fram en förnyelseplan beror på att våra avlopp som är gjorda i gjutjärn är mer än 50 år gamla och enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn (HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras).
+Trots beroendet av gemensam anslutning var det ingen som tänkte på hur reparationsåtgärder skulle hanteras på dessa "gemensamhetsanläggningar".  
+Med tiden visade det sig vara svårt att uppnå frivillig reglering av ekonomin då “samfällighetsanläggningar” måste repareras efter inträffade skador. Tvister uppkom som krävde anlitande av juridisk sakkunskap och juridiska instanser. Huvudansvaret för reparationsåtgärderna åvilade dock alltid den aktuella fastighetsägaren där den skadade anläggningen var belägen.
+
+Lantmäteriverket ansåg det då mest naturligt/rationellt att bilda en teknisk samfällighet inom var och en av de nuvarande geografiska områdena 8, 9 och 10. Dessa tre områden bedömdes vart och ett bilda naturliga enheter, gemensamhetsanläggningar, med lagom storlek. Skötseln av de tre gemensamhetsanläggningarna organiserades genom att man bildade en gemensam samfällighetsförening med namnet “Hässelby Gårds Samfällighetsförening”. [Samfällighetsföreningen]({% link yearly/foregaende-ars-arsmoten.md %}) skulle därefter sköta gemensamhetsanläggningarna enligt en underhållsplan. 
+
+Inledningsvis sköttes gemensamhetsanläggningarna genom akuta spolningar och reparationer men med tiden växte underhållsbehovet alltmer.
+Vid årsmötet 2014 påtalade medlemmarna det akuta behovet av renovering av samfällighetens avloppssystem och efterfrågade en riktig underhållsplan på 5 eller 10 år. Styrelsen tog först fram en förnyelseplan som lades fram vid årsmötet 2015 för diskussion och beslut. 
+Mötet godtog planen, se protokoll och övriga handlingar för [årsmötet 2015]({% link yearly/foregaende-ars-arsmoten.md %}).
+
+Det ovan nämnda behovet att ta fram en förnyelseplan berodde på att våra avlopp som är gjorda i gjutjärn då var mer än 50 år gamla och enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn (HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras).
 
 Den uppskattade livsländen bekräftas av en undersökning som Korrosionsinstitutet, Kimab, gjorde 2004 av avloppsrör i samband med ett stambyte i en hyresfastighet i en Stockholmsförort.
 
