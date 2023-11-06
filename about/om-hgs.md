@@ -13,6 +13,14 @@ nav_order: 10
 
 #### **Allmän information om Hässelby Gårds Samfällighetsförening**
 
-I hemsidans meny finns undermeny till sidor med information. Att det finns undermenyer är indikerat med ˅.
+I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅.
 
-Informationen finns även samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
+Avgift
+Bakgrundsinformation
+Fakta (indelning i områden)
+Föreningens syfte och ansvar
+Stadgar
+Villaföreningen
+Årsmöten
+
+Informationen finns även kortfattad samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
