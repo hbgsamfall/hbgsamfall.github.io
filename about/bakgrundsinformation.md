@@ -38,5 +38,4 @@ Det enda möjliga är att ta ut en rörbit, såga itu den och rengöra på insid
 
 **Källor:** [Villaägarna – Dags att byta VVS-rör och elldedningar](/wp-content/uploads/2022/Villaägarna - Dags för stambyte.pdf)  
 [AvloppstammarLivsl\_VVSTeknik\_o\_Installation\_April2004](/wp-content/uploads/2017/03/AvloppstammarLivsl_VVSTeknik_o_Installation_April2004.pdf)  
-[  ](http://www.villaagarna.se/Tips-artiklar/Underhallsskolan/Del-11-Dags-att-byta-VVS-ror-och-elldedningar/)  
-<span style="color: #000000;">HSB</span> [Guide – Rörrenovering](http://www.e-magin.se/v5/viewer/files/viewer_s.aspx?gKey=5cp1k69p&gInitPage=26)
+<span style="color: #000000;">HSB</span> [Guide – Rörrenovering](http://www.e-magin.se/v5/viewer/files/viewer_s.aspx?gKey=5cp1k69p&gInitPage=26).
