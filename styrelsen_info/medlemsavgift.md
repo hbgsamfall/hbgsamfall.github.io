@@ -29,7 +29,7 @@ Vi hoppas det här ger de som undrar den information de behöver och om de har f
 
 Mer information finns i presentationen **[190317 Projekt rörförnyelse](/wp-content/uploads/2019/03/190317-Projekt-rörförnyelse.pdf)**
 
-För de som inte var med på årsmötet finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsmötet**](/yearly/arsmote.md)   
+För de som inte var med på årsmötet finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsmötet**]({% link yearly/arsmote.md %})   
 
 **Fakturering av medlemsavgiften**
 
