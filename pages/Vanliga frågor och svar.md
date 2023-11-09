@@ -5,7 +5,7 @@ nav_order: 32
 ---
 # Vanliga frågor och svar 
 
-| **Frågor** |
+| **Vanliga frågor** |
 | -------- |
 | [Ingår kallvattenrören i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-kallvattenr%C3%B6ren-i-samf%C3%A4lligheten) |
 | [Vilka delar av avloppsanläggningen ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-delar-av-avloppsanl%C3%A4ggningen-ing%C3%A5r-i-samf%C3%A4lligheten) |
