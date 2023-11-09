@@ -4,13 +4,14 @@ layout: page
 nav_order: 32
 ---
 # Vanliga frågor och svar 
+<span style="color: #ffffff;"># Blank</span>
 
 | [Ingår kallvattenrören i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-kallvattenr%C3%B6ren-i-samf%C3%A4lligheten)\
 [Vilka delar av avloppsanläggningen ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-delar-av-avloppsanl%C3%A4ggningen-ing%C3%A5r-i-samf%C3%A4lligheten)\
 [Ingår gårdsbrunnar i samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-g%C3%A5rdsbrunnar-i-samf%C3%A4lligheten)\
 [Ingår yttre dränering av dagvatten i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-yttre-dr%C3%A4nering-av-dagvatten-i-samf%C3%A4lligheten)\
 [Vilka elkablar ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-elkablar-ing%C3%A5r-i-samf%C3%A4lligheten)\
-[Ingår elskåpen i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) | ![Blank](/wp-content/uploads/2023/Blank.png) | 
+[Ingår elskåpen i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) | ![Blank](/wp-content/uploads/2023/Blank-r.png) | 
 <br><br>
 
 ### Ingår kallvattenrören i Samfälligheten? 
