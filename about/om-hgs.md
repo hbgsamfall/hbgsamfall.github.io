@@ -23,4 +23,4 @@ Stadgar
 Villaföreningen  
 Årsmöten
 
-Informationen finns även kortfattad samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
+Informationen finns även kortfattad och samland i denna [Samf broschyr 2014]({{ site.baseurl }}/wp-content/uploads/2014/03/Samf-broschyr-2014.pdf)
