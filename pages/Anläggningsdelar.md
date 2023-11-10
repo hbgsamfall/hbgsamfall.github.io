@@ -30,4 +30,4 @@ Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den
 [**Elektriska kablar**]({% link wp-content/uploads/2023/Inkommande elkabel-design.png %})**/säkringsskåp**  
 Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus.  
 
-In [inventering ]({% link pages/gavelelskap.md %})har gjorts för att bedömma elskåpens status. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte. Utbyte är för närvarande planerat att ske 2039.
+In [inventering ]({% link pages/gavelelskap.md %})har gjorts för att bedömma elskåpens status. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte av elkablar och elskåp. Utbyte är för närvarande planerat att ske 2039.
