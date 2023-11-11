@@ -33,7 +33,8 @@ För att möjliggöra en enklare övergång till fastighetens rör är även de 
 
 Den gemensamma avloppsstammen med dess anslutningar till ditt hus förvaltas av samfälligheten och måste vara åtkomlig för underhåll och kommande utbyte. Har rören byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för framtagning och återställning vid underhåll i form av spolning och rensning av rören, filmning och åtgärdande av identifierade problem samt i samband med entreprenad för större reparationer.
 
-| <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |    
+| <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
+
 ## <span style="color: #ffffff;">Ingår gårdsbrunnar i samfälligheten?</span>  
 | ![Ingår](/wp-content/uploads/2022/09/Ingår gårdsbrunnar_317png.png) <br><br> **Svar:** <span style="color: #339966;">**Ja**</span>, gårdsbrunnar, de gemensamma brunnarna för dagvatten från taken, för respektive radhuslänga (markerade med rosa färg) och rör från gårdsbrunnarna till avloppsstammen ingår i samfälligheten. Gårdsbrunnarna har ett gjutjärnslock vars diameter är 286 mm. Se skissen för avloppsanläggningen ovan samt bilden till höger | ![Gårdsbrunn](/wp-content/uploads/2022/09/Gårdsbrunn-framgrävd.jpg) | 
 
