@@ -16,6 +16,7 @@ nav_order: 32
 
 <br><br><br><br><br><br>
 
+[<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  
 ### Ingår kallvattenrören i Samfälligheten? 
 **Svar:** <span style="color: #339966;">**Ja**</span>, i varje radhus ingår vattenrör för kallvatten från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren (rödmarkerade i skissen). Kallvattenrören är monterade nära taket i bottenplanet, se bild och skiss (<span style="color: #ff0000;">i många fall felaktigt inbyggda i efterhand utan öppningsbar slits för åtkomst</span>).  
 ![Vattenmätarkonsol](/wp-content/uploads/2022/09/Vattenmätarkonsoll.jpg).  
@@ -23,6 +24,7 @@ De kallvattenrör som förvaltas av samfälligheten måste vara åtkomliga för 
 
 ![Kallvattenledningen](/wp-content/uploads/2022/09/Kallvattenledning_r2.png).  
 
+[<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  
 ### Vilka delar av avloppsanläggningen ingår i Samfälligheten? 
 **Svar:** Rör för avloppsvatten från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan (<span style="color: #ff0000;">rödmarkerade</span> i skissen nedan) ingår för varje radhus i gemensamhetsanläggningen.  
 För att möjliggöra en enklare övergång till fastighetens rör är även de vertikala "stumparna" (gulmarkerade) upp genom bottenbjälklaget inkluderade vid rörförnyelsen av avloppsstammarna.  
@@ -36,11 +38,13 @@ Den gemensamma avloppsstammen med dess anslutningar till ditt hus förvaltas av 
 
 Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för underhåll och eventuellt kommande utbyte. Har de i efterhand felaktigt byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning vid underhåll i form av rensning eller i samband med en eventuell entreprenad för utbyte av gårdsbrunnen. 
 
+[<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  
 ### Ingår yttre dränering av dagvatten i Samfälligheten? 
 **Svar:** <span style="color: #ff0000;">**Nej**</span>, de regnvattenrör som går i mark längs radhusen från stuprören fram till gårdsbrunn är respektive fastighetsägares ansvar, se skissen och bilderna nedan samt bilden ovan av gårdsbrunnen med det framgrävda tegelröda röret för regnvatten från de övriga stuprören längs längan. <span style="color: #ff0000;">**OBS! Respektive fastighetsägare ansvarar för dränering av dagvatten från tomtmarken**</span>. 
 
 ![Yttre dränering av dagvatten](/wp-content/uploads/2022/09/Regnvatten-r1.png) 
 
+[<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  
 ### Vilka elkablar ingår i Samfälligheten?  
 **Svar:** Elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gaveln av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
 Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt i taket i anslutning till elkablarna sitter även centralen för respektive fastighets huvudsäkringar. Se bilden nedan. Bilden är från ett hus i änden av en länga. För de övriga radhusen fortsätter kabeln vidare till nästa hus efter att ha passerat centralen. <span style="color: #ff0000;">Huvudsäkringscentralen är i många fall felaktigt inbyggd i efterhand utan öppningsbar lucka för åtkomst</span>. 
@@ -49,6 +53,7 @@ Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt
 
 Rören för elkablarna och huvudsäkringscentralen måste vara åtkomliga för underhåll och kommande utbyte. Har de byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning vid underhåll i form av byte av trasig huvudsäkring eller i samband med entreprenad för utbyte av inkommande elkablar och huvudsäkringscentralen. 
 
+[<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  
 ### Ingår elskåpen i Samfälligheten?  
 **Svar:** <span style="color: #339966;">**Ja**</span>, elskåpen som vanligen sitter i gaveln av varje radhuslänga ingår i samfälligheten, se bilden nedan. Vissa elskåp är lite skymda av värmepumpar. 
 
