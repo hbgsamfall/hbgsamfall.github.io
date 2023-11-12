@@ -15,6 +15,7 @@ nav_order: 10
 
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅.
 
+Anläggningsdelar  
 Avgift  
 Bakgrundsinformation  
 Fakta (indelning i områden)  
