@@ -8,13 +8,12 @@ nav_order: 999
 ---
 
 ## Rörförnyelse - framåtskridande  
-På sidan under rubriken ovan finns Preliminär tidplan Etapp 6, 2023. Röranalys kommer under 2023 att genomföra Etapp 6 (som kommer att omfatta alla återstående fastigheter) med preliminär start vecka 33. 
-Detaljerad tidplan kommer att presenteras i god tid innan arbetet börjar.
+På sidan under rubriken ovan finns en uppdaterad tidplan Etapp 6, 2023. Röranalys håller på att genomföra Etapp 6 (som omfattar alla återstående fastigheter) under 2023. 
 
 ## Agerande vid stopp i avlopp
-Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller Röranalys om det omfattas av garanti.
+Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Tänk därför på att inte spola ned något olämpligt i toalett eller avlopp. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller av Röranalys om orsaken till stoppet omfattas av garanti.
 
-Eftersom föreningen endast har ansvar för de gemensamma avloppsrören och dess funktion kan föreningen endast ersätta kostnaden för spolning om orsaken till stoppet ligger i de gemensamma rören.
+Föreningen har endast ansvar för de gemensamma avloppsrören och dess funktion. Därför kan föreningen  endast ersätta kostnaden för spolning om orsaken till stoppet ligger i de gemensamma rören.
 
 ## Egen renovering av avloppsrör
 Planerar fastighetsägare åtgärd på gemensamhetsanläggning måste [tillstånd begäras av samfälligheten]({%link pages/kontakt.md %}). 
