@@ -16,9 +16,7 @@ Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.
 
-Felanmälan ska alltid anmälas via epost till:
-
-![Samfällighetens mejladress](/wp-content/uploads/2016/12/Samfällighetens-mejladress.png)  
+Felanmälan ska alltid anmälas via epost till ![Samfällighetens mejladress](/wp-content/uploads/2016/12/Samfällighetens mejladress.png)  
 
 ## Separat agerande vid stopp i avlopp
 Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller Röranalys om det omfattas av garanti. 
