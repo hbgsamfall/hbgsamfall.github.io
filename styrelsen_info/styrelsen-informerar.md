@@ -11,4 +11,8 @@ has_children: true
 
 **I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.**
 
-I undermenyerna hittar ni information om styrelsens verksamhet, ekonomi och möten.
+I undermenyerna hittar ni till nedan uppräknade sidor med information om styrelsens verksamhet, ekonomi och möten.
+
+Föreningens Styrelse  
+Information från styrelsearbetet  
+Medlemsavgift  
