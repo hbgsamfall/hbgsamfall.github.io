@@ -9,6 +9,5 @@ nav_order: 998
 
 
 Text  
-![Dykare](/wp-content/uploads/2023/Färdigrensat.jpg)
 
-<td><table><tr><td><img src="/wp-content/uploads/2023/Underhållsplanering W237.png" alt="Läckande rör och översvämmning"></td><td>Rad 1<br>Rad 2</td></tr></table></td>
+<td><table><tr><td><img src="/wp-content/uploads/2023/Underhållsplanering W237.png" alt="Läckande rör och översvämmning"></td><td> **Information om förfarande vid:**<br>[Stopp i avloppet](https://markdownlivepreview.com/)<br>[ Läckande kallvattenledning](https://markdownlivepreview.com/) <br>[ Problem med dagvatten](https://markdownlivepreview.com/) <br>[ Elavbrott](https://markdownlivepreview.com/) <br><br><br></td></tr></table></td>
