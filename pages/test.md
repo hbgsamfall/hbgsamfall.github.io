@@ -9,7 +9,7 @@ nav_order: 998
 
 
 Text  
-![Dykare](/hbgsamfall.github.io/wp-content/uploads/2023
+![Dykare](/wp-content/uploads/2023
 /Färdigrensat.jpg)
 
-<td><table><tr><td>![plumber 2](/wp-content/uploads/2023/Underhållsplanering W237.png)</td><td>Rad 1<br>Rad 2</td></tr></table></td>
+<td><table><tr><td> ![plumber](/wp-content/uploads/2023/Underhållsplanering W237.png)</td><td>Rad 1<br>Rad 2</td></tr></table></td>
