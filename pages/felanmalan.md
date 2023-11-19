@@ -25,8 +25,6 @@ Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och ä
 **Telefon Röranalys AB: 08-599 098 00** 
 **E-post Röranalys AB: info@roranalys.nu**
 
-[Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten)
-
 ## Kallvattenledningar
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en **Felanmälan** till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan. Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
