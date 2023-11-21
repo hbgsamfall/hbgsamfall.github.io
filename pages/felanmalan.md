@@ -13,7 +13,7 @@ nav_order: 36
 
 ##### Information om förfarande vid:  
 
-[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>&nbsp;&nbsp;[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp;&nbsp;[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>&nbsp; &nbsp[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)<br>&nbsp;&nbsp;<br><br><br><br><br>   
+[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>&nbsp;&nbsp;[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp;&nbsp;[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>&nbsp;&nbsp;[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)<br>&nbsp;&nbsp;<br><br><br><br><br>   
 
 ###### <span style="color: #ffffff;">Permalink till början av texten</span>  
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
