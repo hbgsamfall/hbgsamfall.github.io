@@ -9,7 +9,7 @@ nav_order: 36
 ---
 
 ## Felanmälan  
-<table><tr><td><p float="left"><img src="/wp-content/uploads/2023/Underhållsplanering W237.png" width="100%"/></p> </td><td width="70%"> <span style="color: #000000; font-size: 18px; font-family: Segoe UI; font-weight: bold;">Information om förfarande vid:</span> <br><a href=”#stopp-i-avloppet---separat-agerande”>Stopp i avloppet - Separat agerande></a><br><a href="#kallvattenledningar">Läckande kallvattenledning></a> <br> <a href="#elavbrott”>Elavbrott></a><br><a href="#r%C3%B6r-f%C3%B6r-dagvatten">Problem med dagvatten><br><br><br><br><br></a></td></tr></table> 
+<table><tr><td><p float="left"><img src="/wp-content/uploads/2023/Underhållsplanering W237.png" width="100%"/></p> </td><td width="70%"> <span style="color: #000000; font-size: 18px; font-family: Segoe UI; font-weight: bold;">Information om förfarande vid:</span> <br><a href=”#stopp-i-avloppet---separat-agerande”>Stopp i avloppet - Separat agerande></a><br><a href="#kallvattenledningar">Läckande kallvattenledning></a> <br><a href="#el-avbrott”>El avbrott></a><br><a href="#r%C3%B6r-f%C3%B6r-dagvatten">Problem med dagvatten><br><br><br><br><br></a></td></tr></table> 
 
 ###### <span style="color: #ffffff;">Permalink till början av texten</span>  
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
@@ -30,7 +30,7 @@ Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan eftersom den då saknar isolering.  
 <img src="/wp-content/uploads/2023/Important.png" alt="OBS">  Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
-## Elavbrott  
+## El avbrott  
 Beroende på var felet ligger är det skillnad på vem som har ansvaret.
 
 Börja med att kontrollera om det saknas el i en del eller i hela ditt hus när du får elavbrott. 
