@@ -9,11 +9,11 @@ nav_order: 36
 ---
 
 ## Felanmälan  
-<img align="left" width="200" src="/wp-content/uploads/2023/Underhållsplanering W237.png" />
+<img align="left" width="300" src="/wp-content/uploads/2023/Underhållsplanering W237.png" />
 
-### Information om förfarande vid:  
+#### Information om förfarande vid:  
 
-[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)<br><br><br><br><br><br><br>   
+&nbsp&nbsp[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>&nbsp&nbsp[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp&nbsp[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>&nbsp&nbsp[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)&nbsp&nbsp<br><br><br><br><br><br>   
 
 ###### <span style="color: #ffffff;">Permalink till början av texten</span>  
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
