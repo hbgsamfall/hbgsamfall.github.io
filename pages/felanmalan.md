@@ -9,7 +9,7 @@ nav_order: 36
 ---
 
 ## Felanmälan  
-| <img src="/wp-content/uploads/2023/Underhållsplanering W237.png" alt="Läckande rör och översvämmning"> | <br>__Information om förfarande vid:__ <br>[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten) |
+<table><tr><td><img src="/wp-content/uploads/2023/Underhållsplanering W237.png"alt="Läckande rör och översvämmning"></td><td><span style="color: #000000; font-size: 18px; font-family: Segoe UI; font-weight: bold;">Information om förfarande vid:</span><br><a href="https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande">Stopp i avloppet - Separat agerande</a><br><a href="https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning">Läckande Kallvattenledning</a><br><a href="https://hbgsamfall.win/pages/felanmalan.html#elavbrott">Elavbrott</a><br><a href="https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten">Rör för dagvatten</a></td></tr><table> 
 
 ###### <span style="color: #ffffff;">Permalink till början av texten</span>  
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
