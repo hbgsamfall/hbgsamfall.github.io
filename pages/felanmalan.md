@@ -9,7 +9,7 @@ nav_order: 36
 ---
 
 ## Felanmälan  
-| <img src="/wp-content/uploads/2023/Underhållsplanering W237.png" alt="Läckande rör och översvämmning"> | <span style="color: #000000; font-size: 18px; font-family: Segoe UI; font-weight: bold;">Information om förfarande vid:<span style="color: #ffffff;"># Blank blank</span></span> <br> [Stopp i avloppet](https://markdownlivepreview.com/) <br> [ Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#kallvattenledningar) <br> [ Problem med dagvatten](https://markdownlivepreview.com/) <br> [ Elavbrott](https://markdownlivepreview.com/) <br><br><br><br><br> |
+| <img src="/wp-content/uploads/2023/Underhållsplanering W237.png" alt="Läckande rör och översvämmning"> | <span style="color: #000000; font-size: 18px; font-family: Segoe UI; font-weight: bold;">Information om förfarande vid: <br> [Stopp i avloppet]([https://markdownlivepreview.com/](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande) <br> [ Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#kallvattenledningar) <br> [ Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott) <br> [ Problem med dagvatten]((https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten))  <br><br><br><br><br> |
 
 ###### <span style="color: #ffffff;">Permalink till början av texten</span>  
 Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
@@ -20,8 +20,8 @@ Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 ## Stopp i avloppet - Separat agerande  
 Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning får endast Svensk Röranalys AB anlitas för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller Röranalys om det omfattas av garanti. 
 
-**Beställning av spolning**
-Om akut - **Telefon Röranalys AB: 08-599 098 00** 
+**Beställning av spolning**  
+Om akut - **Telefon Röranalys AB: 08-599 098 00**, 
 **E-post Röranalys AB: info@roranalys.nu**
 
 Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) via epost till hbgsamfall@gmail.com.
