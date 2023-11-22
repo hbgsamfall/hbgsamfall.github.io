@@ -8,7 +8,7 @@ parent: Om HGS
 
 Samfällighetsföreningen svarar för underhåll och reparation av följande gemensamma anläggningsdelar:  
 
-[**Vattenrör för kallvatten**]({% link wp-content/uploads/2023/Kallvattenledning - med bilder.png %})  
+[**Vattenrör för kallvatten**]({% link wp-content/uploads/2023/Exempelritning dagvattenanslutning.png %})  
 med avstängningsventiler från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren i varje radhus.  
 
 Inventering har utförts och vattenrören för kallvatten planeras att bytas ut under åren 2026 -2030. För närvarande håller styrelsen på med att ta fram upphandlingsunderlag.  
