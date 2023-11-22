@@ -8,7 +8,7 @@ parent: Om HGS
 
 Samfällighetsföreningen svarar för underhåll och reparation av följande gemensamma anläggningsdelar:  
 
-[**Vattenrör för kallvatten**]({% link wp-content/uploads/2023/Exempelritning dagvattenanslutning.png %})  
+[**Vattenrör för kallvatten**]({% link wp-content/uploads/2023/Kallvattenledning - med bilder.png %})  
 med avstängningsventiler från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren i varje radhus.  
 
 Inventering har utförts och vattenrören för kallvatten planeras att bytas ut under åren 2026 -2030. För närvarande håller styrelsen på med att ta fram upphandlingsunderlag.  
@@ -19,7 +19,7 @@ från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälk
 Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
 Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågående rörförnyelsen
 
-[**Rör för dagvatten**]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen.png %}) <span style="color: #7253ED;"> **inklusive gårdsbrunnar**</span>  
+[**Rör för dagvatten**]({% link wp-content/uploads/2023/Exempelritning dagvattenanslutning.png %}) <span style="color: #7253ED;"> **inklusive gårdsbrunnar**</span>  
 från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga (markerade med rosa färg). 
 
 Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %}) 
