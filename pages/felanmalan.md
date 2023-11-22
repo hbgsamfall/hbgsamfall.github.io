@@ -11,12 +11,12 @@ nav_order: 36
 ## Felanmälan  
 <img align="left" width="240" src="/wp-content/uploads/2023/Underhållsplanering W237.png" />
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information om förfarande vid:  
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information om förfarande vid:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>   
 
 ###### <span style="color: #ffffff;">Permalink till början av texten</span>  
-Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
+Felanmälan - Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.
 Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
@@ -49,6 +49,6 @@ Börja med att kontrollera om det saknas el i en del eller i hela ditt hus när 
 Om vatten inte rinner undan i [cementrören]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen.png %}) dit stuprören leder ned vattnet från taken eller om vatten tränger in genom väggen på rum under mark så är det mest troligt att det är cementrören eller dagvattenledningen från cementrören till gårdsbrunnen som blivit igensatta. 
 Det kan dock vara en igensatt gårdsbrunn eller grenledning från gårdsbrunnen till avloppsstammen som satts igen. 
 
-Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) om stoppet verkar vara i gårdsbrunnen eller i grenledningen från gårdsbrunnen till avloppsstammen.
+Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#information-om-f%C3%B6rfarande-vid) om stoppet verkar vara i gårdsbrunnen eller i grenledningen från gårdsbrunnen till avloppsstammen.
 
 
