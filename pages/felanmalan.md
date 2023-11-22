@@ -9,7 +9,7 @@ nav_order: 36
 ---
 
 ## Felanmälan  
-<img align="left" width="240" src="/wp-content/uploads/2023/Underhållsplanering W237.png" />
+<img align="left" width="30%" src="/wp-content/uploads/2023/Underhållsplanering W237.png" />
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information om förfarande vid:  
 
@@ -49,6 +49,4 @@ Börja med att kontrollera om det saknas el i en del eller i hela ditt hus när 
 Om vatten inte rinner undan i [cementrören]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen.png %}) dit stuprören leder ned vattnet från taken eller om vatten tränger in genom väggen på rum under mark så är det mest troligt att det är cementrören eller dagvattenledningen från cementrören till gårdsbrunnen som blivit igensatta. 
 Det kan dock vara en igensatt gårdsbrunn eller grenledning från gårdsbrunnen till avloppsstammen som satts igen. 
 
-Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#information-om-f%C3%B6rfarande-vid) om stoppet verkar vara i gårdsbrunnen eller i grenledningen från gårdsbrunnen till avloppsstammen.
-
-
+Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) om stoppet verkar vara i gårdsbrunnen eller i grenledningen från gårdsbrunnen till avloppsstammen.
