@@ -31,7 +31,7 @@ Om akut - **Telefon Röranalys AB: 08-599 098 00**,
 Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) via epost till hbgsamfall@gmail.com.
 
 ## Läckande kallvattenledning  
-Med tanke på förebyggande underhåll ser vi gärna att ni gör en [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan eftersom den då saknar isolering.  
+Med tanke på förebyggande underhåll ser vi gärna att ni gör en [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från [det inkommande kallvattenröret]({% link wp-content/uploads/2023/Kallvattenledning - med bilder.png %}). Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan eftersom den då saknar isolering.  
 <img src="/wp-content/uploads/2023/Important.png" alt="OBS">  Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
 
 ## Elavbrott  
