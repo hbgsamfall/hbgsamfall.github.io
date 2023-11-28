@@ -7,12 +7,12 @@ nav_order: 32
 
 | **Vanliga frågor** <span style="color: #00B050; font-size: 11px; font-family: Arial; font-weight: italic;">- *klicka på frågan för att komma till svaret*</span> |
 | -------- |
-| [**Ingår kallvattenrören i Samfälligheten?**](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-kallvattenr%C3%B6ren-i-samf%C3%A4lligheten) |
-| [**Vilka delar av avloppsanläggningen ingår i Samfälligheten?**](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-delar-av-avloppsanl%C3%A4ggningen-ing%C3%A5r-i-samf%C3%A4lligheten) |
-| [**Ingår gårdsbrunnar i samfälligheten?**](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-g%C3%A5rdsbrunnar-i-samf%C3%A4lligheten) |
+| [Ingår kallvattenrören i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-kallvattenr%C3%B6ren-i-samf%C3%A4lligheten) |
+| [**Vilka delar av avloppsanläggningen ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-delar-av-avloppsanl%C3%A4ggningen-ing%C3%A5r-i-samf%C3%A4lligheten) |
+| [Ingår gårdsbrunnar i samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-g%C3%A5rdsbrunnar-i-samf%C3%A4lligheten) |
 | [Ingår yttre dränering av dagvatten i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-yttre-dr%C3%A4nering-av-dagvatten-i-samf%C3%A4lligheten) |
-| [**Vilka elkablar ingår i Samfälligheten?**](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-elkablar-ing%C3%A5r-i-samf%C3%A4lligheten) |
-| [**Ingår elskåpen i Samfälligheten?**](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) |
+| [Vilka elkablar ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-elkablar-ing%C3%A5r-i-samf%C3%A4lligheten) |
+| [Ingår elskåpen i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) |
 
 <br><br><br><br><br><br>
 
@@ -26,7 +26,7 @@ De kallvattenrör som förvaltas av samfälligheten måste vara åtkomliga för 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |    
  
 ### Vilka delar av avloppsanläggningen ingår i Samfälligheten?  
-**Svar:** Rör för avloppsvatten från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan (<span style="color: #ff0000;">rödmarkerade</span> i skissen nedan) ingår för varje radhus i gemensamhetsanläggningen.  
+**Svar:** <span style="color: #339966;">**Ja**</span>, rör för avloppsvatten från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan (<span style="color: #ff0000;">rödmarkerade</span> i skissen nedan) ingår för varje radhus i gemensamhetsanläggningen.  
 För att möjliggöra en enklare övergång till fastighetens rör är även de vertikala "stumparna" (gulmarkerade) upp genom bottenbjälklaget inkluderade vid rörförnyelsen av avloppsstammarna.  
 #### Exempel på en radhuslänga med tre hus och angivna delar som ingår i avloppsanläggningen.  
 ![Exempelritning med bilder](/wp-content/uploads/2022/09/Exempelritning med bilder-r1.png).
@@ -51,7 +51,7 @@ Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för un
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |   
 
 ### Vilka elkablar ingår i Samfälligheten?  
-**Svar:** Elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gaveln av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
+**Svar:** <span style="color: #339966;">**Ja**</span>, elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gaveln av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
 Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt i taket i anslutning till elkablarna sitter även centralen för respektive fastighets huvudsäkringar. Se bilden nedan. Bilden är från ett hus i änden av en länga. För de övriga radhusen fortsätter kabeln vidare till nästa hus efter att ha passerat centralen. <span style="color: #ff0000;">Huvudsäkringscentralen är i många fall felaktigt inbyggd i efterhand utan öppningsbar lucka för åtkomst</span>. 
 
 ![Huvudsäkringar](/wp-content/uploads/2022/09/Huvudsäkringscentral.jpg).  
