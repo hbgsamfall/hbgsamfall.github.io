@@ -26,7 +26,7 @@ Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och ä
 
 **Beställning av spolning**  
 Om akut - **Telefon Röranalys AB: 08-599 098 00**, 
-**E-post Röranalys AB: info@roranalys.nu**
+**E-post Röranalys AB: info@roranalys.nu**. Informera samtidigt via via epost till hbgsamfall@gmail.com om att Svensk Röranalys AB har kontaktats. 
 
 Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) via epost till hbgsamfall@gmail.com.
 
