@@ -1,4 +1,4 @@
----
+<f---
 id: 1721
 title: 'rörförnyelse framåtskridande'
 date: '2017-12-27T16:03:36+01:00'
@@ -22,7 +22,6 @@ I god tid innan arbetet ska utföras i en länga gör Röranalys en avisering oc
 Det ges dessutom information om tillval som fastighetsägaren kan göra efter rörinfodringen.
 
 [INFORMATION FRÅN ENTREPRENÖREN](/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)  
-[AVISERINGAR]({% link pages/aviseringar.md %})  
 [TILLVAL SOM BOKAS VID BESIKTNING](/wp-content/uploads/2022/Beställningsavi.pdf) 
 
 [Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)
