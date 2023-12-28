@@ -29,7 +29,7 @@ För att de som väntar på rörförnyelse under sina längor ska kunna bilda si
 
 **[Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)  
 [Info om RÖRANALYS och Stamrenovering](/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)   
-[Aviseringar]({% link pages/aviseringar.md %})  
+<!---[Aviseringar]({% link pages/aviseringar.md %})  -->
 [Tillval som bokas vid besiktning](/wp-content/uploads/2022/Beställningsavi.pdf)** 
 
 På de sidor man kommer till via underrubrikerna till **"Rörförnyelse"** i sidomenyn finns information om pågående och redan utförd rörförnyelse. Det finns även information om vad vi medlemmar behöver tänka på för att ge åtkomst vid entreprenörens utförande av Samfällighetens renovering av de gemensamma avloppsrören.
