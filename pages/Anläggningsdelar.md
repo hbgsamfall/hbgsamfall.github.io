@@ -21,7 +21,7 @@ från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälk
 Rörförnyelsen är avslutad och för närvarande håller styrelsen på med upphandling av regelbunden stamspolning samt åtgärdande av då upptäckta akuta problem i föreningens spillvattensystem.  
 
 [**Rör för dagvatten**]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen_r1.png %}) <span style="color: #7253ED;"> **inklusive gårdsbrunnar**</span>  
-från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga (markerade med rosa färg). Akuta problem åtgärdas löpande allteftersom de upptäcks.
+från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga (markerade med rosa färg). Dessa delar har inventerats i samband med rörförnyelsen, åtkomliga delar har relinats och en del gårdsbrunnar har bytts ut. Kommande akuta problem åtgärdas löpande allteftersom de upptäcks.
 
 [**Elektriska kablar**]({% link wp-content/uploads/2023/Inkommande dragning elkabel.png %})<span style="color: #7253ED;">**/säkringsskåp**</span>  
 Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus.  
