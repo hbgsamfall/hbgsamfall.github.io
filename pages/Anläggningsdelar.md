@@ -18,14 +18,10 @@ Inventering har utförts och vattenrören för kallvatten planeras att bytas ut 
 [**Rör för avloppsvatten**](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf)   
 från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan i varje radhus (rödmarkerade).  
 
-Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
-Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågående rörförnyelsen
+Rörförnyelsen är avslutad och för närvarande håller styrelsen på med upphandling av regelbunden stamspolning samt åtgärdande av då upptäckta akuta problem i föreningens spillvattensystem.  
 
 [**Rör för dagvatten**]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen_r1.png %}) <span style="color: #7253ED;"> **inklusive gårdsbrunnar**</span>  
 från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga (markerade med rosa färg).  
-
-Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
-Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågående rörförnyelsen inklusive reparation eller utbyte av gårdsbrunnar som havererat.
 
 [**Elektriska kablar**]({% link wp-content/uploads/2023/Inkommande dragning elkabel.png %})<span style="color: #7253ED;">**/säkringsskåp**</span>  
 Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus.  
