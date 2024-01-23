@@ -7,9 +7,6 @@ layout: page
 nav_order: 999
 ---
 
-## Rörförnyelse - framåtskridande  
-På sidan under rubriken ovan finns en uppdaterad tidplan Etapp 6, 2023. Röranalys håller på att genomföra Etapp 6 (som omfattar alla återstående fastigheter) under 2023. 
-
 ## Agerande vid stopp i avlopp
 Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Tänk därför på att inte spola ned något olämpligt i toalett eller avlopp. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller av Röranalys om orsaken till stoppet omfattas av garanti.
 
