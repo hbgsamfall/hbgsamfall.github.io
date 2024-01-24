@@ -5,7 +5,7 @@ layout: post
 categories:
 - nyheter
 ---
-### Regler för spolning-av-avloppsrören  
+### Regler för spolning av avloppsrören  
 <BR>  
 Spolning av [rör för avloppsvatten]({% link wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf %}) – Enbart Svensk Röranalys AB får [anlitas för spolning]({% link relining/bestallning-av-spolning.md %}) av de avloppsstammar som förvaltas av Samfällighetsföreningen.  
 
