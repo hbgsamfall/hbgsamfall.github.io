@@ -5,7 +5,7 @@ layout: page
 has_children: true
 nav_order: 140
 ---
-## ** Krav på tillgänglighet till gemensamhetsanläggningarna**  
+## Krav på tillgänglighet till gemensamhetsanläggningarna  
 
 Gemensamhetsanläggningarna som förvaltas av samfällighetsföreningen måste vara åtkomliga för underhåll och kommande utbyte.
 
