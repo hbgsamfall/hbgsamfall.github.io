@@ -20,7 +20,7 @@ Tillträde för undersökning, installation och underhåll.
 
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information om berörda delar av gemensamhetsanläggningarna. Att det finns undermenyer är indikerat med ˅.
 
-[Rensluckor till och på avloppsrören]({% link management/rensluckor-till-och-på-avloppsrören. md %})  
+[Rensluckor till och på avloppsrören]({% link management/rensluckor-till-och-på-avloppsrören.md %})  
 
 Gårdsbrunnar
 
