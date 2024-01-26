@@ -27,7 +27,7 @@ parent: Årsmöte
 
 [Årsmötesprotokoll 2014](/wp-content/uploads/2014/03/Årsmötesprotokoll-2014.pdf)  
 [Årsmötesprotokoll 2015](/wp-content/uploads/2016/02/Årsmötesprotokoll-2015.pdf)  
-[Protokoll från extrastämma](/wp-content/uploads/2015/02/Sammanställning-av-underhålls-och-förnyelseplanen.pdf)som refereras till i protokollet)  
+[Protokoll från extrastämma](/wp-content/uploads/2015/02/Sammanställning-av-underhålls-och-förnyelseplanen.pdf) som refereras till i protokollet)  
 [Årsmötesprotokoll 2016  ](/wp-content/uploads/2017/03/Årsmötesprotokoll-2017.pdf)  
 [Årsmötesprotokoll 2017](wp-content/uploads/2017/03/Årsmötesprotokoll-2017.pdf)  
 [Årsmötesprotokoll 2018](/wp-content/uploads/2018/05/Protokoll-årsmöte-2018.pdf)  
