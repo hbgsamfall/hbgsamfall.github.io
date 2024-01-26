@@ -1,6 +1,6 @@
 ---
 id: 130
-title: 'ÅRSMÖTE  2022'
+title: 'Föregående årsmöte'
 date: '2014-03-15T12:29:52+01:00'
 author: hbgsamfall
 layout: page
