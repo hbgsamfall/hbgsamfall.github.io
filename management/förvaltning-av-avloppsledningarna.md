@@ -16,4 +16,3 @@ Stamspolningen görs dels för att minska risken för stopp i avloppet under de 
 Identifierade problem i föreningens spillvattenssystem åtgärdas omgående och efter avslutat arbete lämnar entreprenören fyra års garanti för stopp i stammar och påstick orsakade av igenslamning. 
 
 Styrelsen har fått in avtalsförslag som gåtts igenom av vår byggledare. Styrelsen har gjort en genomgång och ska skicka frågor och kalla entreprenören till en genomgång. Därefter fattar styrelsen beslut om det är värt att teckna avtal om regelbunden stamspolning.
-
