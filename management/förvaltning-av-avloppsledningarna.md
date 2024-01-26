@@ -5,8 +5,9 @@ layout: page
 parent: Förvaltning
 ---
 
-## Förvaltning av avloppsledningarna  
+### Förvaltning av avloppsledningarna  
 
+<BR>
 Den fortsatta förvaltningen av avloppsledningarna planeras att i huvudsak skötas genom att underhållsavtal tecknas med en entreprenör som vart 5:e år utför stamspolning av samfällighetens avloppsledningar samt utför filmning och åtgärdande av identifierade fel. 
 
 <img align="left" width="30%" src="/wp-content/uploads/2023/Färdigrensat-315x341.gif" />
