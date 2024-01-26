@@ -28,6 +28,7 @@ Inkommande kallvattenledning
 
 Fastighetens elskåp
 
-Längans elskåp
+[Fastighetens elskåp]({% link management/fastighetens-elskåp.md %})
 
-Inkommande elkablar
+[Längans elskåp]({% link management/längans-elskåp.md %})
+
