@@ -1,4 +1,3 @@
-krav-på-tillgänglighet. md
 ---
 title: Krav på tillgänglighet
 author: hbgsamfall
