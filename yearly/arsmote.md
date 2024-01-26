@@ -21,5 +21,6 @@ has_children: true
 I hemsidans meny finns undermeny till nedan nämnda sidor med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
 Att det finns undermenyer är indikerat med ˅.  
 
-Föregående årsmöten – Protokoll och övriga handlingar
-ÅRSMÖTE 2022
+[Föregående årsmöte]({% link yearly/föregående-årsmöte.md %})
+
+[Föregående årsmöten – Protokoll och övriga handlingar]({% link yearly/foregaende-ars-arsmoten.md %})
