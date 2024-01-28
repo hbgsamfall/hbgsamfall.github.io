@@ -1,6 +1,6 @@
 ---
 id: 1747
-title: 'Historik över tidigare utförd rörförnyelse'
+title: 'Tidigare utförd rörförnyelse'
 date: '2017-12-29T14:10:00+01:00'
 author: hbgsamfall
 layout: page
