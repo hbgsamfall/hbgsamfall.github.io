@@ -10,12 +10,12 @@ nav_order: 140
 <BR>
 Gemensamhetsanläggningarna som förvaltas av samfällighetsföreningen måste vara åtkomliga för underhåll och kommande utbyte.
 
-Lag (2006:412) om allmänna vattentjänster 
+En viktig skyldighet är därmed att du som medlem/fastighetsägare inte får skada eller göra sådant som uppenbart hindrar eller fördyrar utövandet av samfällighetens rätt. Exempelvis är det är inte tillåtet att uppföra byggnader och plantera träd över föreningens ledningar.
 
-Tillträde för undersökning, installation och underhåll.  
+Det stöds bland annat av avsnittet - Tillträde för undersökning, installation och underhåll i Lag (2006:412) om allmänna vattentjänster: 
 
 41 §   Huvudmannen _(läs Samfälligheten)_ har rätt till det tillträde på en fastighet som behövs för att
-   1. undersöka en va-installation och dess användning innan va- installationen kopplas till den allmänna va-anläggningen eller när det annars behövs för att huvudmannen skall kunna fullgöra sina skyldigheter
+   1. undersöka en va-installation och dess användning innan va- installationen kopplas till den allmänna va-anläggningen eller när det annars behövs för att huvudmannen skall kunna fullgöra sina skyldigheter.
 <BR>
 
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information om berörda delar av gemensamhetsanläggningarna. Att det finns undermenyer är indikerat med ˅.
