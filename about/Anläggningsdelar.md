@@ -16,8 +16,7 @@ Inventering har utförts och vattenrören för kallvatten planeras att bytas ut 
 [**Rör för avloppsvatten**](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf)  
 från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan i varje radhus (rödmarkerade).  
 
-Rörförnyelse pågår. Se [Rörförnyelse – Framåtskridande]({% link relining/rorfornyelse-framatskridande.md %})  
-Den nuvarande medlemsavgiften är baserad på den uppskattade kostnaden för den pågående rörförnyelsen
+Rörförnyelse Etapp 6 avslutades 13/12 2023, och slutbesiktning gjordes den 9/1 2024. Det innebär att alla avloppsledningar som förvaltas av samfällighetsföreningen nu är relinade.
 
 [**Rör för dagvatten**]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen_r1.png %}) <span style="color: #7253ED;"> **inklusive gårdsbrunnar**</span>  
 från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga (markerade med rosa färg). 
