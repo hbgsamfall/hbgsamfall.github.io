@@ -20,4 +20,7 @@ Kostnaden för underhållsåtgärderna ska täckas av den medlemsavgift som utta
 <BR>
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information om bakgrund och historik samt HGS Underhållsplanering. Att det finns undermenyer är indikerat med ˅.
 
+[Bakgrund & Historik]({% link maintenance/historik.md %})
+
+[HGS Underhållsplanering]({% link maintenance/underhållsplanen.md %})
 
