@@ -34,7 +34,7 @@ Styrelsen rekommenderar att medlemmarna i första hand vänder sig till vår byg
 
 Detaljerad information om försynen, tidplan, mm. finns i det “Informations-kit till boende” som överlämnades.
 
-[Sacpipe Connection System](https://www.youtube.com/watch?v=uaEJUW-YzTs) har en film som visar hur rörförnyelsen går till. Den metod som visas i filmen är mycket lik den metod som Aarsleff använder. Mer information om rörförnyelse finns på hemsidan under denna flik [RÖRFÖRNYELSE-RELINING]({% link relining/rorrenovering-relining.md %})
+[Sacpipe Connection System](https://www.youtube.com/watch?v=uaEJUW-YzTs) har en film som visar hur rörförnyelsen går till. Den metod som visas i filmen är mycket lik den metod som Aarsleff använder. Mer information om rörförnyelse finns på hemsidan under denna flik RÖRFÖRNYELSE-RELINING
 
 Nedan finns länk till den utdelade informationen samt länkar till de ritningar som Aarsleff använt som underlag vid planeringen av sitt arbete.
 
