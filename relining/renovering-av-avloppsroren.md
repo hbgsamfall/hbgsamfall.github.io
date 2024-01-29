@@ -6,7 +6,6 @@ author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1470'
 nav_order: 100
-has_children: true
 ---
 
 ### Rörförnyelse  
