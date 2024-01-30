@@ -14,7 +14,7 @@ Samfällighetsföreningen ansvarar för förvaltningen av den inkommande kallvat
 
 <img align="left" width="30%" src="/wp-content/uploads/2023/Läckage - Dags att byta rören 320x341.gif" />
 
-### Dags att byta rören !
+### Dags att byta rören ?
 
 Eftersom det med tiden har blivit allt fler akuta reparationer av kallvattenrören så har styrelsen börjat planera för utbyte av de kallvattenledningar i föreningens fastigheter som samhällsföreningen ansvarar för. Ursprungligen var utbytet planerat till 2034 men är nu framflyttat till perioden 2026–2030 vilket informerats om i underhållsplanen för 2022. Under 2022 anlitade styrelsen en rörentreprenör som gjorde en förstudie där kallvattenrören och skicket inventerades. 
 
