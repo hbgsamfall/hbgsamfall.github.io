@@ -8,12 +8,10 @@ nav_order: 130
 
 #### **Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar**
 
-I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅.
+I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
 
-Förvaltning av avloppsledningarna
+[Förvaltning av avloppsledningarna]({% link management/förvaltning-av-avloppsledningarna.md %})  
 
-Utbyte kallvattenrör
+[Utbyte av kallvattenrören]({% link management/utbyte-av-kallvattenror.md %})  
 
-Utbyte Elkablar & Elskåp
-
-Utbyte Gavelskåp
+[Utbyte Elkablar & Elskåp]({% link management/utbyte-elkablar-och-elskap.md %})  
