@@ -11,31 +11,17 @@ nav_order: 100
 
 ### Rörförnyelse  
 
-Rörförnyelsen initierades av att våra avlopp som är gjorda i gjutjärn installerades för ca 60 år sedan. Det resulterade i att stopp har uppstått här och var i våra avlopp på grund av rörförskjutningar, jord som rasat in genom sönderrostade avloppsledningar och avloppsvatten som läckt ut i marken under husen. 
+Rörförnyelsen initierades av att våra avlopp som är gjorda i gjutjärn installerades för ca 60 år sedan. Det resulterade i att stopp hade uppstått här och var i våra avlopp på grund av rörförskjutningar, jord som rasat in genom sönderrostade avloppsledningar och avloppsvatten som läckt ut i marken under husen.  
 ![Samlade rörproblem](/wp-content/uploads/2023/Samlade rörproblem.png) 
 
 Enligt vedertagen praxis är livslängden 30-60 år för spillvattenledningar av gjutjärn. HSB m.fl. följer denna praxis för att avgöra när stambyten ska göras. På grund av att akutinsatser hade blivit vanliga tog styrelsen till årsmötet 2015 fram en plan för rörförnyelse genom så kallad relining. Mötet godtog planen. 
 
-Sedan dess har ett antal entreprenader upphandlats, den senaste vanns av Röranalys AB. Genom dessa entreprenader har rörförnyelse succesivt gjorts av större delen av avloppsstammarna och Röranalys kommer under 2023 att avsluta rörförnyelsen genom att färdigställa avloppsstammarna för de sista 65 fastigheterna. 
+Sedan dess har ett antal entreprenader upphandlats, se sidan [Bakgrund och redan utförd verksamhet]({% link relining/Bakgrund-och-redan-utförd-verksamhet.md %}), den senaste upphandlingen vanns av Svensk Röranalys AB. Genom dessa entreprenader har rörförnyelse succesivt gjorts av avloppsstammarna. Den senaste etappen avslutades 13/12 2023, och slutbesiktning gjordes den 9/1 2024.  Därmed är nu alla avloppsledningar som förvaltas av samfällighetsföreningen relinade.
 
 Relining
 ![Rörinfodring](/wp-content/uploads/2023/Rörinfodring.PNG) 
-är ett samlingsnamn för metoder att renovera avloppsrör. Efter noggrann rengöring av de ursprungliga rören utför man antingen en invändig ”målning”/beläggning, så kallad coating med plastmaterial eller så utför man rörinfodring med en s.k. strumpa som är impregnerad med plastmaterial. I båda fallen bildas ett nytt plaströr inuti det gamla röret. Nästan all relinging under rörförnyelsen är utförd med ” strumpa”. 
+är ett samlingsnamn för metoder att renovera avloppsrör. Efter noggrann rengöring av de ursprungliga rören utför man antingen en invändig ”målning”/beläggning, så kallad coating med plastmaterial eller så utför man rörinfodring med en s.k. strumpa som är impregnerad med plastmaterial. I båda fallen bildas ett nytt plaströr inuti det gamla röret. Nästan all relinging under rörförnyelsen är utförd med ” strumpa”.  
 
+I hemsidans meny finns undermeny till sidan Bakgrund och redan utförd verksamhet med mer information om hur rörförnyelsen framskred. Att det finns undermenyer är indikerat med ˅. 
 
-I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅. 
-
-För att de som väntar på rörförnyelse under sina längor ska kunna bilda sig en viss uppfattning om hur det kommer att bli kan man få information via följande länkar:
-
-**[Information till boende](/wp-content/uploads/2022/03/Etapp-5-Information-till-boende.pdf)  
-[Info om RÖRANALYS och Stamrenovering](/wp-content/uploads/2018/06/stamrenoveringhässelbygårds-samfällighetsförening-folder.pdf)   
-[Tillval som bokas vid besiktning](/wp-content/uploads/2022/Beställningsavi.pdf)** 
-
-På de sidor man kommer till via underrubrikerna till **"Rörförnyelse"** i sidomenyn finns information om pågående och redan utförd rörförnyelse. Det finns även information om vad vi medlemmar behöver tänka på för att ge åtkomst vid entreprenörens utförande av Samfällighetens renovering av de gemensamma avloppsrören.
-
-Ifall det skulle bli stopp i avloppet finns även information om hur man ska beställa spolning.
-
-Slutligen finns en underrubrik "Information om avloppsstammar och relining" med dess egna underrubriker:
-- information om avloppsstammars livsländ
-- inspektion före och efter relining
-- relining.
+[Bakgrund och redan utförd verksamhet]({% link relining/Bakgrund-och-redan-utförd-verksamhet.md %})
