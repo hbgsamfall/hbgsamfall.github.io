@@ -21,7 +21,7 @@ Rörförnyelse Etapp 6 avslutades 13/12 2023, och slutbesiktning gjordes den 9/1
 [**Rör för dagvatten**]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen_r1.png %}) <span style="color: #7253ED;"> **inklusive gårdsbrunnar**</span>  
 från anslutning till allmänna nätet till den gemensamma dagbrunnen för respektive radhuslänga (markerade med rosa färg). 
 
-Rörförnyelse Etapp 6 avslutades 13/12 2023, och slutbesiktning gjordes den 9/1 2024. Det innebär att alla avloppsledningar som förvaltas av samfällighetsföreningen nu är relinade.
+Rörförnyelse Etapp 6 avslutades 13/12 2023, och slutbesiktning gjordes den 9/1 2024. Det innebär att alla åtkomliga delar har relinats och att trasiga gårdsbrunnar har bytts ut. Kommande akuta problem åtgärdas löpande allteftersom de upptäcks.
 
 [**Elektriska kablar**]({% link wp-content/uploads/2023/Inkommande dragning elkabel.png %})<span style="color: #7253ED;">**/säkringsskåp**</span>  
 Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus. 
