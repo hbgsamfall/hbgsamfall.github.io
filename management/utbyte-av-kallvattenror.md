@@ -12,7 +12,7 @@ Inkommande kallvattenledning är den ledning som går från huvudledningen i gat
 
 Samfällighetsföreningen ansvarar för förvaltningen av den inkommande kallvattenledningen från förbindelsepunkten fram till och med avstängningsventilen före vattenmätaren i varje radhus. 
 
-### Dags att byta rören !
+### Dags att byta rören
 
 <img align="left" width="30%" src="/wp-content/uploads/2023/Läckage - Dags att byta rören 320x341.gif" />
 
