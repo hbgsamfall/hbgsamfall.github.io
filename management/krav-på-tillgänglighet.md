@@ -13,8 +13,7 @@ Gemensamhetsanläggningarna som förvaltas av samfällighetsföreningen måste v
 En viktig skyldighet är därmed att du som medlem/fastighetsägare inte får skada eller göra sådant som uppenbart hindrar eller fördyrar utövandet av samfällighetens rätt. Exempelvis är det är inte tillåtet att uppföra byggnader och plantera träd över föreningens ledningar.
 
 Det stöds bland annat av avsnittet - Tillträde för undersökning, installation och underhåll i Lag (2006:412) om allmänna vattentjänster: 
-
-41 §   Huvudmannen _(läs Samfälligheten)_ har rätt till det tillträde på en fastighet som behövs för att
+   41 §   Huvudmannen _(läs Samfälligheten)_ har rätt till det tillträde på en fastighet som behövs för att
    1. undersöka en va-installation och dess användning innan va- installationen kopplas till den allmänna va-anläggningen eller när det annars behövs för att huvudmannen skall kunna fullgöra sina skyldigheter.
 <BR>
 
@@ -26,9 +25,8 @@ Gårdsbrunnar
 
 Inkommande kallvattenledning
 
-Fastighetens elskåp
-
 [Fastighetens elskåp]({% link management/fastighetens-elskåp.md %})
 
 [Längans elskåp]({% link management/längans-elskåp.md %})
 
+Inkommande Elkablar
