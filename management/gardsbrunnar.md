@@ -2,7 +2,7 @@
 title: Gårdsbrunnar
 author: hbgsamfall
 layout: page
-parent: Förvaltning
+parent: Krav på tillgänglighet
 ---
 
 ## Gårdsbrunnar och dränering  
