@@ -26,4 +26,4 @@ från anslutning till allmänna nätet till den gemensamma dagbrunnen för respe
 [**Elektriska kablar**]({% link wp-content/uploads/2023/Inkommande dragning elkabel.png %})<span style="color: #7253ED;">**/säkringsskåp**</span>  
 Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus.  
 
-In [inventering ](/wp-content/uploads/2015/02/Besiktning-av-elskåp.pdf) har gjorts för att bedömma elskåpens status. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte av elkablar och elskåp. Utbyte är för närvarande planerat att ske 2039.
+In [inventering ](/wp-content/uploads/2024/Besiktning av elskåp - med bilder.pdf) har gjorts för att bedömma elskåpens status. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte av elkablar och elskåp. Utbyte är för närvarande planerat att ske 2039.
