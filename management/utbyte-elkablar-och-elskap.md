@@ -14,7 +14,7 @@ Gavelskåp (säkringsskåp) med säkringar för den inkommande elen till varje l
 
 Fastighetens elskåp (centralen för respektive fastighets huvudsäkringar) sitter vanligen uppsatt i taket i anslutning till de inkommande elkablarna. Se fotomontaget i bilden nedan. Bilden är från ett hus i änden av en länga. För de övriga radhusen fortsätter kabeln vidare från centralen till nästa hus efter att ha passerat centralen. Huvudsäkringscentralen är gammal och säkringshållare med mera har med tiden blivit slitna och kommer att bytas tillsammans med de inkommande elkablarna och gavelskåpen.
 
-<img align="left" width="30%" src="/wp-content/uploads/2023/Dags att byta elskåpet.png" />
+<img align="left" width="30%" src="/wp-content/uploads/2023/Dags att byta elskåpet-ram.png" />
 
 ### Dags att byta elskåpet?
 
