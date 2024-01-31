@@ -11,8 +11,9 @@ nav_order: 10
 
 **HGS**
 
-#### **Allmän information om Hässelby Gårds Samfällighetsförening**
+#### **Allmän information om Hässelby Gårds Samfällighetsförening**  
 
+<BR>
 **Vad är en samfällighetsförening?**  
 [Läs på lantmäteriets hemsida](https://www.lantmateriet.se/sv/fastigheter/samfalligheter/#anchor-0)
 
