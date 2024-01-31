@@ -13,7 +13,11 @@ nav_order: 10
 
 #### **Allmän information om Hässelby Gårds Samfällighetsförening**
 
-I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅.
+**Vad är en samfällighetsförening?**  
+[Läs på lantmäteriets hemsida](https://www.lantmateriet.se/sv/fastigheter/samfalligheter/#anchor-0)
+
+<BR>
+I hemsidans meny finns undermeny till nedan uppräknade sidor med information om bland annat samfällighetsföreningens bakgrund, syfte och ansvar. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.
 
 Anläggningsdelar  
 Avgift  
