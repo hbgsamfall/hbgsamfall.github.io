@@ -13,6 +13,7 @@ nav_order: 32
 | [Ingår yttre dränering av dagvatten i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-yttre-dr%C3%A4nering-av-dagvatten-i-samf%C3%A4lligheten) |
 | [Vilka elkablar ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-elkablar-ing%C3%A5r-i-samf%C3%A4lligheten) |
 | [Ingår elskåpen i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) |
+| [Är det fritt fram att renovera badrum?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#%C3%A4r-det-fritt-fram-att-renovera-badrum) |
 
 <br><br><br><br><br><br>
 
@@ -78,3 +79,4 @@ Arbetet ska utföras av Svensk Röranalys AB för att garantin för det relinade
 
 Notera att de relinade rören ingår i den [gemensamhetsanläggning]({% link wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf %}) som [förvaltas av samfälligheten](https://hbgsamfall.win/about/foreningens-syfte-och-ansvar.html).
 
+| <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  | 
