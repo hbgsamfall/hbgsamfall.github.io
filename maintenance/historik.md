@@ -5,6 +5,7 @@ date: '2014-03-15T10:17:24+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=96'
+parent: Förvaltning
 ---
 
 **Vad är en samfällighetsförening?**  
