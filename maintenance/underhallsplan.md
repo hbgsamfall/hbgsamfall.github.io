@@ -18,7 +18,6 @@ Hässelby Gårds Samfällighetsförening ansvarar för ett antal gemensamhetsanl
 Kostnaden för underhållsåtgärderna ska täckas av den medlemsavgift som uttaxeras av medlemmarna. För att få en jämn fördelning av kostnaden tas i kalkylen även hänsyn till att kontinuerliga avsättningar ska göras till framtida underhåll. Detta för att längre fram kunna undvika en plötslig höjning av medlemsavgiften.
 
 <BR>
-I hemsidans meny finns undermeny till nedan uppräknade sidor med information om bakgrund och historik samt HGS Underhållsplanering. Att det finns undermenyer är indikerat med ˅.
+I hemsidans meny finns undermeny till nedan uppräknade sidor med information om bakgrund och historik samt HGS Underhållsplanering. Att det finns undermenyer är indikerat med ˅.  
 
 [HGS Underhållsplanering]({% link maintenance/underhållsplanen.md %})
-
