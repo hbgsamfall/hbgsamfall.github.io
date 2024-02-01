@@ -10,7 +10,7 @@ nav_order: 100
 <BR>
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
 
-Underhållsplan
+[Underhållsplan]({% link maintenance/historik.html %})
 
 [Förvaltning av avloppsledningarna]({% link management/förvaltning-av-avloppsledningarna.md %})  
 
