@@ -5,7 +5,7 @@ date: '2018-05-31T19:25:46+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1878'
-nav_order: 87
+parent: Om HGS
 ---
 
 Här finns de ritningar som entreprenören har haft som underlag för sitt anbud och planeringen av sitt arbete.
