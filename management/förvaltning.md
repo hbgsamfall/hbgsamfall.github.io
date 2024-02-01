@@ -7,8 +7,10 @@ nav_order: 130
 ---
 
 #### **Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar**
-
+<BR>
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
+
+Underhållsplan
 
 [Förvaltning av avloppsledningarna]({% link management/förvaltning-av-avloppsledningarna.md %})  
 
