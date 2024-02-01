@@ -72,11 +72,11 @@ Exempel på elskåp
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  | 
 
 ### Är det fritt fram att renovera badrum?
-**Svar:** <span style="color: #339966;">**Ja**</span>, men när ni renoverar avlopp i badrum eller kök, KONTAKTA STYRELSEN INNAN NI RÖR AVLOPPSRÖR UNDER BOTTENBJÄLKLAGET. 
+**Svar:** <span style="color: #339966;">**Ja**</span>, men när ni renoverar avlopp i badrum eller kök, <mark>KONTAKTA STYRELSEN INNAN NI RÖR AVLOPPSRÖR UNDER BOTTENBJÄLKLAGET</mark>. 
 
-Detta eftersom anslutning till de relinade avloppsrören ska ske med [Repier Connection]({% link wp-content/uploads/2024/Installationsmanual för relinade avlopsrör.pdf %}).  
-Arbetet ska utföras av Svensk Röranalys AB för att garantin för det relinade avloppsröret fortsatt ska gälla. Alternativt kan en annan utförare göra anslutning om Svensk Röranalys AB kontaktas i förväg så att de i samband med arbetets utförande kan undersöka och godkänna installationen för fortsatt garanti.
+Detta eftersom anslutning till de relinade avloppsrören ska ske med [Repiper Connection]({% link wp-content/uploads/2024/Installationsmanual för relinade avlopsrör.pdf %}).  
+För att den garanti som samfällighetsföreningen fått på det relinade avloppsröret fortsatt ska gälla ska arbetet antingen utföras av Svensk Röranalys AB eller av en annan utförare om Svensk Röranalys AB kontaktats i förväg så att de i samband med arbetets utförande kan undersöka och godkänna installationen för fortsatt garanti..
 
-Notera att de relinade rören ingår i den [gemensamhetsanläggning]({% link wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf %}) som [förvaltas av samfälligheten](https://hbgsamfall.win/about/foreningens-syfte-och-ansvar.html).
+Notera att de relinade rören från bottenplattan till avloppsstammen ingår i de [gemensamhetsanläggningar]({% link wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf %}) som [förvaltas av samfälligheten](https://hbgsamfall.win/about/foreningens-syfte-och-ansvar.html).
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  | 
