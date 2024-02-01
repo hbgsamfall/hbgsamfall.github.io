@@ -3,6 +3,7 @@ title: Förvaltning
 author: hbgsamfall
 layout: page
 has_children: true
+has_grandchildren: true
 nav_order: 130
 ---
 
