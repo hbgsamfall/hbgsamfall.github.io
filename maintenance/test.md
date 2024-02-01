@@ -3,6 +3,7 @@ title: Vad är en underhållsplan
 author: hbgsamfall
 layout: page
 parent: Underhållsplan
+grandparent: Förvaltning
 ---
 
 ## Vad är en underhållsplan?
