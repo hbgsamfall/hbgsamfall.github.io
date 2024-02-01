@@ -6,7 +6,6 @@ author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=403'
 nav_order: 130
-parent: Förvaltning
 has_children: true
 ---
 
@@ -20,8 +19,6 @@ Kostnaden för underhållsåtgärderna ska täckas av den medlemsavgift som utta
 
 <BR>
 I hemsidans meny finns undermeny till nedan uppräknade sidor med information om bakgrund och historik samt HGS Underhållsplanering. Att det finns undermenyer är indikerat med ˅.
-
-[Test]({% link maintenance/test.md %})
 
 [HGS Underhållsplanering]({% link maintenance/underhållsplanen.md %})
 
