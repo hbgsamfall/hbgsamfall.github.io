@@ -2,7 +2,6 @@
 title: HGS Underhållsplanering
 author: hbgsamfall
 layout: page
-parent: Underhållsplan
 ---
 
 ## Vad är en underhållsplan?  
