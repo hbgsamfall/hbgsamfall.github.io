@@ -6,6 +6,7 @@ author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=403'
 nav_order: 90
+parent: Förvaltning
 has_children: true
 ---
 
