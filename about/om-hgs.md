@@ -26,6 +26,7 @@ Bakgrundsinformation
 Fakta (indelning i områden)  
 Föreningens syfte och ansvar  
 Stadgar  
+VA-ritningar för våra fastigheter 
 Villaföreningen  
 Årsmöten
 
