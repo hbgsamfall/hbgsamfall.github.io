@@ -5,7 +5,7 @@ date: '2017-12-27T15:51:36+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1718'
-nav_order: 120
+nav_order: 80
 ---
 
 ## Särskilt förfarande vid renovering av avloppsrör i badrum
