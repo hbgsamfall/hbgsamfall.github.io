@@ -1,6 +1,6 @@
 ---
 id: 25
-title: Årsmöte
+title: Årsstämma
 date: '2014-03-11T12:18:53+01:00'
 author: hbgsamfall
 layout: page
@@ -10,17 +10,17 @@ nav_order: 150
 has_children: true
 ---
 
-## Årsmöte  
+## Årsstämma  
 
 
-**2023 Årsmöte – Mars**  
+**2023 Årsstämma – Mars**  
 [Kallelse, handlingar](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023_Komplett.pdf)
 
-**[Årsmötesprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)**
+**[Årsstämmeprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)**
 
 I hemsidans meny finns undermeny till nedan nämnda sidor med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
 Att det finns undermenyer är indikerat med ˅.  
 
-[Föregående årsmöte]({% link yearly/föregående-årsmöte.md %})
+[Föregående årsstämma]({% link yearly/föregående-årsmöte.md %})
 
-[Föregående årsmöten – Protokoll och övriga handlingar]({% link yearly/foregaende-ars-arsmoten.md %})
+[Föregående årsstämmor – Protokoll och övriga handlingar]({% link yearly/foregaende-ars-arsmoten.md %})
