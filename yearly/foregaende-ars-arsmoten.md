@@ -1,14 +1,14 @@
 ---
 id: 264
-title: 'Föregående årsmöten &#8211; Protokoll och övriga handlingar'
+title: 'Föregående årsmstämmor &#8211; Protokoll och övriga handlingar'
 date: '2014-03-16T13:47:16+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=264'
-parent: Årsmöte
+parent: Årsstämma
 ---
 
-### Här finns information från de senaste årens årsmöten.
+### Här finns information från de senaste årens årsstämmor.
 
 #### Kallelser
 
