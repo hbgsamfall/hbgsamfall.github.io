@@ -1,20 +1,20 @@
 ---
 id: 130
-title: 'Föregående årsmöte'
+title: 'Föregående årsstämma'
 date: '2014-03-15T12:29:52+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=130'
-parent: Årsmöte
+parent: Årsstämma
 ---
 
 ####  **ÅRSMÖTE 2022**
 
-**[Kallelse till Årsmöte 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)**  
+**[Kallelse till Årsstämma 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)**  
 Tid : Tisdag 22/3 – Kl. 18.30 – 21.00  
 Plats : Prisma, Hässelby Gård
 
-[<span style="color: #339966;">**<span style="text-decoration: underline;">Utskickade handlingar inför årsmötet</span>**</span>](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
+[<span style="color: #339966;">**<span style="text-decoration: underline;">Utskickade handlingar inför årsstämman</span>**</span>](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
 – Bilaga 1: Verksamhetsberättelse för år 2021  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
@@ -26,4 +26,4 @@ Plats : Prisma, Hässelby Gård
 – Bilaga 7: Valberedningens förslag till årsmötet 2022  
 – Fullmakt
 
-#### [Årsmötesprotololl 2022](/wp-content/uploads/2022/04/Protokoll-HGS-arsstamma-2022.pdf)
+#### [Årsstämmeprotokolll 2022](/wp-content/uploads/2022/04/Protokoll-HGS-arsstamma-2022.pdf)
