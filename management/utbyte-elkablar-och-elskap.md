@@ -18,7 +18,7 @@ Fastighetens elskåp (centralen för respektive fastighets huvudsäkringar) sitt
 
 ### Dags att byta elskåpet?
 
-Elskåpen och de anslutna kablarna börjar bli slitna på grund av ålder, påverkan av väder och vind och sättningar i marken. Framöver kommer de att behöva bytas ut. Med anledning av detta har styrelsen gjort en inventering genom här beskriven [Besiktning av elskåpen](/wp-content/uploads/2024/Besiktning av elskåp - med bilder.pdf) och de anslutna kablarna.
+Elskåpen och de anslutna kablarna börjar bli slitna på grund av ålder, påverkan av väder och vind och sättningar i marken. Framöver kommer de att behöva bytas ut. Med anledning av detta har styrelsen gjort en inventering genom här beskriven [Besiktning av elskåpen](/wp-content/uploads/2024/Besiktning av elskåp - Med bilder.pdf) och de anslutna kablarna.
 
  Inventeringen ligger till grund för planeringen av underhållsbehovet samt tidpunkten för kommande utbyte. För närvarande görs enbart akut underhåll. Enligt nuvarande plan avsätts från 2020 ”öronmärkta” medel för utbyte av elkablar och elskåp. Utbyte är för närvarande planerat att ske 2039.
 
