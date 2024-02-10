@@ -13,6 +13,9 @@ has_children: true
 
 I undermenyerna hittar ni till nedan uppräknade sidor med information om styrelsens verksamhet, ekonomi och möten.
 
-Föreningens Styrelse  
-Information från styrelsearbetet  
-Medlemsavgift  
+[Föreningens Styrelse]({% link styrelsen_info/foreningens-styrelse.md %})  
+
+[Information från styrelsearbetet]({% link pages/information-fran-styrelsearbetet.md %})  
+
+[Medlemsavgift]({% link styrelsen_info/medlemsavgift.md %})
+
