@@ -16,6 +16,6 @@ Till Hässelby Gårds Samfällighetsförening är 487 radhus anslutna. Fastighet
 
 [Område 10](/wp-content/uploads/2014/04/Område-10.pdf) (145 hus) Spireabågen, Grönbetesvägen och Porsvägen.
 
-Dessa områden är skilda åt ekonomiskt, varför årsavgiften kan variera, beroende på de reparation- och underhållsåtgärder som har utförts.
+Dessa områden är skilda åt ekonomiskt, varför reparationsfondernas tillväxt/reduktion kan variera individuellt, beroende på de reparation- och underhållsåtgärder som har utförts. Reparations och underhållskostnader bokförs för de eller det område där åtgärderna faktiskt utförts. 
 
 Områdets titel är länkad till en karta över respektive område där samfällighetens delar grovt angivits med färgerna <span style="color: #ff0000;">Rött för avlopp</span>, <span style="color: #0000ff;">Blått för kallvatten</span> och <span style="color: #339966;">Grönt för el</span>.
