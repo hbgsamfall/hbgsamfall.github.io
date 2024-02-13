@@ -9,7 +9,7 @@ parent: Underhållsplan
 
 En underhållsplan är ett viktigt dokument för samfällighetsföreningen. Styrelsen behöver underhållsplanen för att planera underhållsåtgärder och planera budgeten för framtiden.
 
-Underhållsplanen beskriver gemensamhetsanläggningarnas underhållsbehov och gör det möjligt för styrelsen att upprätta en budget som bygger på framtida behov. Utan underhållsplan finns det ingen långsiktig plan att luta sig emot, vilket ofta leder till oväntat stra oplanerade och akuta underhållskostnader. 
+Underhållsplanen beskriver gemensamhetsanläggningarnas underhållsbehov och gör det möjligt för styrelsen att upprätta en budget som bygger på framtida behov. Utan underhållsplan finns det ingen långsiktig plan att luta sig emot, vilket ofta leder till oväntat stora oplanerade och akuta underhållskostnader. 
 
 När en underhållsplan upprättas så bygger den oftast på en fullständig statusbesiktning av gemensamhetsanläggningarna. Detta ger tillsammans med underhållsplanen kontroll över fastighetens akuta och framtida underhållsbehov.
 
