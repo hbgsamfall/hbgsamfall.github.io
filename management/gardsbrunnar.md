@@ -19,4 +19,10 @@ Informera om dina planer via epost till: Samfällighetens mejladress
 
 Gårdsbrunnarna måste vara åtkomliga för underhåll och eventuellt kommande utbyte. Har de fyllts över eller skymts av någon fast installation, då åligger det fastighetsägaren att se till att gårdsbrunnen är åtkomlig eller betala för rivning och återställning vid underhåll i form av inspektion och rensning eller i samband med entreprenad för utbyte av gårdsbrunnen.
 
+Kravet på tillgänglighet gäller även spolbrunnar, en sådan visas på bilden nedan med layout för placering av gårdsbrunnar.
+
 ![Gårdsbrunnar](/wp-content/uploads/2023/Rör för dagvatten - sammanslagen_r1.png)
+
+Bilden nedan är en layout för en länga med fyra hus. Det finns många varianter och den här layouten visar hur gårdsbrunnar vanligen är placerade i förhållande till husen.  
+
+![Gårdsbrynnar - layout](/wp-content/uploads/2024/Gårdsbrunnar-Typisk layout.png)
