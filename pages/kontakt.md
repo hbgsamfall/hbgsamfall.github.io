@@ -11,10 +11,18 @@ nav_order: 20
 #### Om ni vill ha kontakt med medlemmar i styrelsen;  
 ring eller mejla
 
-[![Ordförande](/wp-content/uploads/2016/12/Ordförande.png)](/wp-content/uploads/2016/12/Ordförande.png)
+## Ordförande:	Ove Jönsson
+## Telefon:	070-712 88 01
+## E-post:	hbgsamfall@gmail.com
 
 eller i andra hand ring eller mejla
 
-[![](/wp-content/uploads/2020/04/Kassör-2020.png)](/wp-content/uploads/2020/04/Kassör-2020.png)
+## Kassör:	Katrina Lång
+## Telefon:	070-444 77 04
+## E-post:	katrina.lang73@gmail.com
+
+## Sekreterare:	Thomas Graffman
+## Telefon:	070-994 50 22
+## E-post:	thomas.graffman@gmail.com
 
 Kontaktuppgifter till övriga medlemmar i styrelsen hittar ni genom att klicka här: [Styrelsen informerar/Föreningens styrelse]({% link styrelsen_info/styrelsen-informerar.md %})
