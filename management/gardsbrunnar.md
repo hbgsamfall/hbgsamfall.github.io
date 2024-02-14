@@ -15,7 +15,7 @@ Eftersom Samfällighetsföreningen ansvarar för förvaltningen av gårdsbrunnar
 
 En sådan samordning kommer att reducera vår gemensamma kostnad för samfällighetens underhåll av gårdsbrunnarna.  
 
-Informera om dina planer via epost till: Samfällighetens mejladress
+Informera om dina planer via epost till: hbgsamfall@gmail.com 
 
 Gårdsbrunnarna måste vara åtkomliga för underhåll och eventuellt kommande utbyte. Har de fyllts över eller skymts av någon fast installation, då åligger det fastighetsägaren att se till att gårdsbrunnen är åtkomlig eller betala för rivning och återställning vid underhåll i form av inspektion och rensning eller i samband med entreprenad för utbyte av gårdsbrunnen.
 
