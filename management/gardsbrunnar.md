@@ -25,4 +25,4 @@ Kravet på tillgänglighet gäller även spolbrunnar, en sådan visas på bilden
 
 Bilden nedan är en layout för en länga med fyra hus. Det finns många varianter och den här layouten visar hur gårdsbrunnar vanligen är placerade i förhållande till husen.  
 
-![Gårdsbrynnar - layout](/wp-content/uploads/2024/Gårdsbrunnar-Typisk layout.png)
+![Gårdsbrynnar - layout](/wp-content/uploads/2024/Gårdsbrunnar-typisk layout.png)
