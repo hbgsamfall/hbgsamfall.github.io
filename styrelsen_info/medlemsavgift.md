@@ -8,7 +8,7 @@ guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=23'
 parent: Styrelsen Informerar
 ---
 
-#### Nuvarande medlemsavgift  
+**#### Nuvarande medlemsavgift**  
 
 <BR>
 Medlemsavgiften beslutas varje år av årsstämman. Se längst ned på sidan beträffande fakturering av medlemsavgiften
