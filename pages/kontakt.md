@@ -11,18 +11,18 @@ nav_order: 20
 #### Om ni vill ha kontakt med medlemmar i styrelsen;  
 ring eller mejla
 
-## Ordförande:	Ove Jönsson
-## Telefon:	070-712 88 01
-## E-post:	hbgsamfall@gmail.com
-
+**Ordförande:	Ove Jönsson**
+**Telefon:	070-712 88 01**
+**E-post:	hbgsamfall@gmail.com**
+<BR>
 eller i andra hand ring eller mejla
 
-## Kassör:	Katrina Lång
-## Telefon:	070-444 77 04
-## E-post:	katrina.lang73@gmail.com
+**Kassör:	Katrina Lång**
+**Telefon:	070-444 77 04**
+**E-post:	katrina.lang73@gmail.com**
 
-## Sekreterare:	Thomas Graffman
-## Telefon:	070-994 50 22
-## E-post:	thomas.graffman@gmail.com
-
+**Sekreterare:	Thomas Graffman**
+**Telefon:	070-994 50 22**
+**E-post:	thomas.graffman@gmail.com**
+<BR>
 Kontaktuppgifter till övriga medlemmar i styrelsen hittar ni genom att klicka här: [Styrelsen informerar/Föreningens styrelse]({% link styrelsen_info/styrelsen-informerar.md %})
