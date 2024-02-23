@@ -14,6 +14,8 @@ I hemsidans meny finns undermeny till nedan uppräknade sidor med information. A
 
 [Förvaltning av avloppsledningarna]({% link management/förvaltning-av-avloppsledningarna.md %})  
 
+[Förvaltning av gårdsbrunnar och dränering]({% link management/förvaltning-av-gårdsbrunnar.md %})  
+
 [Utbyte av kallvattenrören]({% link management/utbyte-av-kallvattenror.md %})  
 
 [Utbyte Elkablar & Elskåp]({% link management/utbyte-elkablar-och-elskap.md %})  
