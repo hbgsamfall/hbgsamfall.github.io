@@ -8,7 +8,7 @@ nav_order: 100
 
 #### **Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar**
 <BR>
-I hemsidans meny finns undermeny till nedan uppräknade sidor med information. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
+I hemsidans meny finns undermeny till nedan uppräknade sidor med information om sanfällighetsföreningens förvaltning av gemensamhetsanläggningarna. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
 
 [Bakgrund & Historik]({% link maintenance/historik.md %})
 
