@@ -9,9 +9,16 @@ nav_order: 50
 has_children: true
 ---
 
-**I hemsidans meny finns undermeny till sidor med mer information. Att det finns undermenyer är indikerat med ˅.**
+**I hemsidans meny finns undermeny till sidor med mer information om samfälligheten och den verksamhet som styrelsens arbete resulterat i. Att det finns undermenyer är indikerat med ˅.**
 
-I undermenyerna hittar ni till nedan uppräknade sidor med information om styrelsens verksamhet, ekonomi och möten.
+Främst hittar ni information om de planer och den verksamhet som styrelsens arbete resulterat under rubrikerna Förvaltning och underhållsplan.  
+<BR>  
+
+## Styrelsen informerar  
+
+Här finns information om vilka som är medlemmar i nuvarande styrelse samt kortfattad information om beslut som tagits vid styrelsemöten och hur styrelsen kommit fram till storleken på föreningens medlemsavgift. Informationen finns på nedan uppräknade sidor.  
+
+Från undermenyer i hemsidans meny kan ni även gå direkt till sidorna med denna information.  
 
 [Föreningens Styrelse]({% link styrelsen_info/foreningens-styrelse.md %})  
 
