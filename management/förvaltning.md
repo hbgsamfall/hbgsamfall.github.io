@@ -8,7 +8,17 @@ nav_order: 100
 
 #### **Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar**
 <BR>
-I hemsidans meny finns undermeny till nedan uppräknade sidor med information om samfällighetsföreningens förvaltning av gemensamhetsanläggningarna. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
+Samfällighetsföreningen ska förvalta de gemensamhetsanläggningar för vilken den bildats och som vid bildandet angivits i anläggningsbeslutet.  
+
+Samfällighetens styrelse tar fram och framlägger planer för hur gemensamhetsanläggningarna ska förvaltas. De grundläggande förvaltningsbesluten fattas av medlemmarna (fastighetsägarna) genom majoritetsbeslut vid de årliga föreningsstämmorna.  
+
+Samfällighetsföreningens styrelse ansvarar sedan för att verkställa besluten. Styrelsen ansvarar också för den löpande förvaltningen.  
+
+På nedan uppräknade sidor finns information om samfällighetsföreningens planer och verksamhet för förvaltning av gemensamhetsanläggningarna.  
+
+Information om den obligatoriska [underhållsplanen]({% link maintenance/underhallsplan.md %}) finns under en egen rubrik på hemsidan.  
+
+Från undermenyer i hemsidans meny kan ni även gå direkt till sidorna med denna information. Att det finns undermenyer är indikerat med ˅ i hemsidans meny.  
 
 [Bakgrund & Historik]({% link maintenance/historik.md %})
 
