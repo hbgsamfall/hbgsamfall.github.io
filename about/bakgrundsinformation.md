@@ -26,3 +26,5 @@ Samfällighetsföreningens styrelse ansvarar för att föreningens verksamhet dr
 Inledningsvis sköttes gemensamhetsanläggningarna genom akuta spolningar och reparationer men med tiden växte underhållsbehovet alltmer.
 Vid årsmötet 2014 påtalade medlemmarna det akuta behovet av renovering av samfällighetens avloppssystem och efterfrågade en riktig underhållsplan på 5 eller 10 år. Styrelsen tog först fram en förnyelseplan som lades fram vid årsmötet 2015 för diskussion och beslut. 
 Mötet godtog planen, se protokoll och övriga handlingar för [årsmötet 2015]({% link yearly/foregaende-ars-arsmoten.md %}).
+
+Den fortsatta utvecklingen av samfällighetens förvaltning av gemensamhetsanläggningarna framgår av de [årsstämmor]({% link yearly/arsmote.md %}) som har hållits sedan dess.  
