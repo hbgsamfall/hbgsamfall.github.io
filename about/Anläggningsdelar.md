@@ -25,7 +25,7 @@ från anslutning till allmänna nätet till den gemensamma dagbrunnen för respe
 
 Rörförnyelse Etapp 6 avslutades 13/12 2023, och slutbesiktning gjordes den 9/1 2024. Det innebär att alla åtkomliga delar har relinats och att trasiga gårdsbrunnar har bytts ut. Kommande akuta problem åtgärdas löpande allteftersom de upptäcks.  
 
-Det som återstår att se över och eventuellt renovera är tre längor i område 10 där det finns separata dagvattenrör under längorna. De kommer att ses över under våren 2024.  
+Det som återstår att se över och eventuellt renovera är tre längor i område 10 där det finns separata dagvattenrör under längorna. De kommer att ses över under 2024.  
 
 [**Elektriska kablar**]({% link wp-content/uploads/2023/Inkommande dragning elkabel.png %})<span style="color: #7253ED;">**/säkringsskåp**</span>  
 Elektriska kablar/säkringsskåp/säkringar från anslutning till allmänna elnätet fram till elmätaren i varje radhus. 
