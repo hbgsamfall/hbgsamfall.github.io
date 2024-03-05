@@ -13,9 +13,9 @@ Underhållsplanen beskriver gemensamhetsanläggningarnas underhållsbehov och g�
 
 När en underhållsplan upprättas så bygger den oftast på en fullständig statusbesiktning av gemensamhetsanläggningarna. Detta ger tillsammans med underhållsplanen kontroll över fastighetens akuta och framtida underhållsbehov.
 
-För varje år fastslås den uppdaterade underhålls- och förnyelseplanen av årsmötet.
+För varje år fastslås den uppdaterade underhålls- och förnyelseplanen av årsstämman.
 
-Genom att följa länkarna nedan kommer ni till de underhållsplaner med tillhörande kalkyler som fastslagits vid våra årsmöten.
+Genom att följa länkarna nedan kommer ni till de underhållsplaner med tillhörande kalkyler som fastslagits vid våra årsstämmor.
 
 [HGS Underhållsplan 2023]({% link wp-content/uploads/2023/HGS Underhållsplan_2023.pdf %})
 
