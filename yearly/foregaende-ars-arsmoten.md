@@ -20,8 +20,8 @@ parent: Årsstämma
 [Kallelse Årsmöte 2018](/wp-content/uploads/2018/03/HGS-Kallelse-till-årsstämma-2018.pdf)  
 [Kallelse Årsmöte 2019](/wp-content/uploads/2019/03/Kallelse-till-årsstämma-HGS-2019-1.pdf)  
 [Kallelse Årsmöte 2020](/wp-content/uploads/2020/03/Kallelse-Årsmöte-2020.pdf)  
-[Kallelse Årsmöte 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)  
-[Kallelse Årsmöte 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)
+[Kallelse Årsstämma 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)  
+[Kallelse Årsstämma 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)
 
 #### Årsmötesprotokoll
 
@@ -33,12 +33,12 @@ parent: Årsstämma
 [Årsmötesprotokoll 2018](/wp-content/uploads/2018/05/Protokoll-årsmöte-2018.pdf)  
 [Årsmötesprotokoll 2019](/wp-content/uploads/2019/04/Protokoll-Årsmöte-2019.pdf)  
 [Årsmötesprotokoll 2020](/wp-content/uploads/2020/04/HGS-Protokoll-årsmöte-2020.pdf)  
-[Årsmötesprotokoll 2021](/wp-content/uploads/2021/03/HGS_Arsmote2021.pdf)  
-[Årsmötesprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)
+[Årsstämmeprotokoll 2021](/wp-content/uploads/2021/03/HGS_Arsmote2021.pdf)  
+[Årsstämmeprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)
 
 ####  Övriga handlingar
-[**Handlingar årsmöte 2022**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
-Handlingar årsmöte 2022  
+[**Handlingar årsstämma 2022**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
+Handlingar årsstämma 2022  
 – Bilaga 1: Verksamhetsberättelse för år 2021  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
@@ -50,7 +50,7 @@ Handlingar årsmöte 2022
 – Bilaga 7: Valberedningens förslag till årsmötet 2022  
 – Fullmakt
 
-[**Handlingar årsmöte 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021-Komplett_R1.pdf)  
+[**Handlingar årsstämma 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021-Komplett_R1.pdf)  
 – Bilaga 1: Verksamhetsberättelse för år 2020  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
