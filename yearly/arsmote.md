@@ -32,7 +32,7 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 **Årsstämmeprotokoll 2024** (publiceras efter årsmötet)
 <BR>  
 
-I hemsidans meny finns undermeny till nedan nämnda sidor med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
+I hemsidans meny finns undermeny till nedan nämnda sida med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
 Att det finns undermenyer är indikerat med ˅.  
 
 [Föregående årsstämmor – Protokoll och övriga handlingar]({% link yearly/foregaende-ars-arsmoten.md %})
