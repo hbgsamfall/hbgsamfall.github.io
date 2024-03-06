@@ -11,16 +11,28 @@ has_children: true
 ---
 
 ## Årsstämma  
+<BR>  
 
+**[Kallelse till Årsstämma 2024](/wp-content/uploads/2024/Kallelse till årsstämma 2024.pdf)**  
+Tid : Tisdag 26/3 – Kl. 18.30 – 21.00  
+Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159  
 
-**2023 Årsstämma – Mars**  
-[Kallelse, handlingar](/wp-content/uploads/2022/09/Kallelse till årsstämma 2023_Komplett.pdf)
+**[Utskickade handlingar inför årsstämman](/wp-content/uploads/2024/Handlingar årsstämma 2023.pdf)**  
+– Bilaga 1: Verksamhetsberättelse för år 2023  
+– Bilaga 2: Resultatrapport  
+– Bilaga 2: Balansrapport  
+– Bilaga 3: Revisionsberättelse  
+– Bilaga 4: Underhålls- och förnyelseplan för år 2024  
+– Bilaga 4: Kalkyl – Underhållsplan 2024  
+– Bilaga 5: Utgifts- Inkomststat 2024 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2024  
+– Bilaga 7: Förslag till stadgeändring  
+– Fullmakt  
 
-**[Årsstämmeprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)**
+**Årsstämmeprotokoll 2024** (publiceras efter årsmötet)
+<BR>  
 
 I hemsidans meny finns undermeny till nedan nämnda sidor med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
 Att det finns undermenyer är indikerat med ˅.  
-
-[Föregående årsstämma]({% link yearly/föregående-årsmöte.md %})
 
 [Föregående årsstämmor – Protokoll och övriga handlingar]({% link yearly/foregaende-ars-arsmoten.md %})
