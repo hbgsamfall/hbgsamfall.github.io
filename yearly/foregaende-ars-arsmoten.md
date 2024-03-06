@@ -39,7 +39,7 @@ parent: Årsstämma
 [Årsstämmeprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)  
 
 ####  Övriga handlingar  
-[**Handlingar årsstämma 2023**]({% link wp-content/uploads/2023/Handlingar årsstämma 2023.pdf %}  
+[**Handlingar årsstämma 2023**]({% link wp-content/uploads/2023/Handlingar årsstämma 2023.pdf %})  
 
 – Bilaga 1: Verksamhetsberättelse för år 2022  
 – Bilaga 2: Resultatrapport  
