@@ -21,7 +21,8 @@ parent: Årsstämma
 [Kallelse Årsmöte 2019](/wp-content/uploads/2019/03/Kallelse-till-årsstämma-HGS-2019-1.pdf)  
 [Kallelse Årsmöte 2020](/wp-content/uploads/2020/03/Kallelse-Årsmöte-2020.pdf)  
 [Kallelse Årsstämma 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)  
-[Kallelse Årsstämma 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)
+[Kallelse Årsstämma 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)  
+[Kallelse Årsstämma 2023](/wp-content/uploads/2023/Kallelse till årsstämma 2023.pdf)  
 
 #### Årsmötesprotokoll
 
@@ -34,11 +35,11 @@ parent: Årsstämma
 [Årsmötesprotokoll 2019](/wp-content/uploads/2019/04/Protokoll-Årsmöte-2019.pdf)  
 [Årsmötesprotokoll 2020](/wp-content/uploads/2020/04/HGS-Protokoll-årsmöte-2020.pdf)  
 [Årsstämmeprotokoll 2021](/wp-content/uploads/2021/03/HGS_Arsmote2021.pdf)  
-[Årsstämmeprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)
+[Årsstämmeprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)  
+[Årsstämmeprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)  
 
 ####  Övriga handlingar
 [**Handlingar årsstämma 2022**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
-Handlingar årsstämma 2022  
 – Bilaga 1: Verksamhetsberättelse för år 2021  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
@@ -49,6 +50,18 @@ Handlingar årsstämma 2022
 – Bilaga 6: Uttaxering av årsavgiften för 2022  
 – Bilaga 7: Valberedningens förslag till årsmötet 2022  
 – Fullmakt
+
+[**Handlingar årsstämma 2023**](/wp-content/uploads/2023/Handlingar årsstämma 2023.pdf)
+– Bilaga 1: Verksamhetsberättelse för år 2022
+– Bilaga 2: Resultatrapport
+– Bilaga 2: Balansrapport
+– Bilaga 3: Revisionsberättelse
+– Bilaga 4: Underhålls- och förnyelseplan för år 2023
+– Bilaga 4: Kalkyl – Underhållsplan 2023
+– Bilaga 5: Utgifts- Inkomststat 2023 (Budget)
+– Bilaga 6: Uttaxering av årsavgiften för 2023
+– Bilaga 7: Valberedningens förslag till årsmötet 2023
+– Fullmakt  
 
 [**Handlingar årsstämma 2021**](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021-Komplett_R1.pdf)  
 – Bilaga 1: Verksamhetsberättelse för år 2020  
