@@ -28,7 +28,7 @@ För att initialt täcka ovan nämnda kostnader för anläggningens drift finns 
 “***Uttaxering av bidrag m.m.***  
 *40 § Om samfällighetsförenings medelsbehov ej täckes på annat sätt, skall bidrag i pengar uttaxeras av medlemmarna*“.
 
-Reparationsfondernas storlek framgår under avsnittet *EGET KAPITAL OCH SKULDER* i den [Balansräkning ](/wp-content/uploads/2017/04/Resultaträkning-och-Balansräkning-2016.pdf)som varje räkenskapsår delges medlemmarna i samband med årsmötet.
+Reparationsfondernas storlek framgår under avsnittet *EGET KAPITAL OCH SKULDER* i den [Balansrapport ](/wp-content/uploads/2023/Resultatrapport och Balansrapport.pdf)som varje räkenskapsår delges medlemmarna i samband med årsmötet.
 
 Ytterligare information om vad som menas med en samfällighetsförening hittar ni här:  
 [Samfällighetsförening](http://fjallbostrand.se/Samfallighetsforening%202011.pdf)
