@@ -41,15 +41,15 @@ parent: Årsstämma
 ####  Övriga handlingar  
 [**Handlingar årsstämma 2023**]({% link wp-content/uploads/2023/Handlingar årsstämma 2023.pdf %}  
 
-– Bilaga 1: Verksamhetsberättelse för år 2022
-– Bilaga 2: Resultatrapport
-– Bilaga 2: Balansrapport
-– Bilaga 3: Revisionsberättelse
-– Bilaga 4: Underhålls- och förnyelseplan för år 2023
-– Bilaga 4: Kalkyl – Underhållsplan 2023
-– Bilaga 5: Utgifts- Inkomststat 2023 (Budget)
-– Bilaga 6: Uttaxering av årsavgiften för 2023
-– Bilaga 7: Valberedningens förslag till årsmötet 2023
+– Bilaga 1: Verksamhetsberättelse för år 2022  
+– Bilaga 2: Resultatrapport  
+– Bilaga 2: Balansrapport  
+– Bilaga 3: Revisionsberättelse  
+– Bilaga 4: Underhålls- och förnyelseplan för år 2023  
+– Bilaga 4: Kalkyl – Underhållsplan 2023  
+– Bilaga 5: Utgifts- Inkomststat 2023 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2023  
+– Bilaga 7: Valberedningens förslag till årsmötet 2023  
 – Fullmakt  
 
 [**Handlingar årsstämma 2022**](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022-Komplett.pdf)  
