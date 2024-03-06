@@ -20,4 +20,6 @@ Våra avlopp som är gjorda i gjutjärn var mer än 50 år gamla och en kostsam 
 
 Kom till föreningens årsstämmor och bidra till och ge stöd för planläggningen av den nödvändiga förvaltningen av gemensamhetsanläggningarna.
 
-Att komma till årsstämman är också ett sätt att få ta del av erfarenheter från äldre boende. En del har faktiskt varit med från begynnelsen och byggt sina hus själva. Även ett sätt att umgås som skapar samhörighet.
+Att komma till årsstämman är också ett sätt att få ta del av erfarenheter från äldre boende. En del har faktiskt varit med från begynnelsen och byggt sina hus själva. Även ett sätt att umgås som skapar samhörighet.  
+
+Under sidorubriken [Årsstämma]({% link yearly/arsmote.md %}) hittar ni kallelse till årsstämma, utskickade handlingar inför årsstämmor och årsstämmeprotokoll, både för aktuell årsstämma och för de senaste årens årsstämmor.  
