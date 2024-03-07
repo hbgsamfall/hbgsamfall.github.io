@@ -26,9 +26,9 @@ Dessa protokoll från Fastighetsbildningsmyndighetens anläggningsförrättning 
 
 För att initialt täcka ovan nämnda kostnader för anläggningens drift finns medel avsatta i en reparationsfond för vart och ett av de tre områdena. Utöver dessa fonder har samfällighetens styrelse rätt till uttaxering av medel enligt Lag (1973:1150) om förvaltning av samfälligheter:  
 “***Uttaxering av bidrag m.m.***  
-*40 § Om samfällighetsförenings medelsbehov ej täckes på annat sätt, skall bidrag i pengar uttaxeras av medlemmarna*“.
+*40 § Om samfällighetsförenings medelsbehov ej täckes på annat sätt, skall bidrag i pengar uttaxeras av medlemmarna*“.  
 
-Reparationsfondernas storlek framgår under avsnittet *EGET KAPITAL OCH SKULDER* i den [Balansrapport ](/wp-content/uploads/2023/Resultatrapport och Balansrapport.pdf)som varje räkenskapsår delges medlemmarna i samband med årsmötet.
+Reparationsfondernas storlek framgår under avsnittet *EGET KAPITAL OCH SKULDER* i den [Balansrapport](https://hbgsamfall.win/yearly/foregaende-ars-arsmoten.html#%C3%B6vriga-handlingar)som varje räkenskapsår delges medlemmarna i samband med de handlingar som distribueras inför årsstämman.  
 
 Ytterligare information om vad som menas med en samfällighetsförening hittar ni här:  
 [Samfällighetsförening](http://fjallbostrand.se/Samfallighetsforening%202011.pdf)
