@@ -9,4 +9,4 @@ parent: Styrelsen Informerar
 ---
 
 ### HGS Samf Styrelse 2023 
-![Styrelsen 2023](/wp-content/uploads/2023/HGS Samf Styrelse_2023.jpg)
+![Styrelsen 2023](/wp-content/uploads/2024/HGS Samf Styrelse 2024.png)
