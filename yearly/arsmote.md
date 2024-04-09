@@ -29,7 +29,7 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 – Bilaga 7: Förslag till stadgeändring  
 – Fullmakt  
 
-[_Årsstämmeprotokoll 2024_](/wp-content/uploads/2024/Årsstämma 2024_HGS.pdf)
+[__Årsstämmeprotokoll 2024__](/wp-content/uploads/2024/Årsstämma 2024_HGS.pdf)
 <BR>  
 
 I hemsidans meny finns undermeny till nedan nämnda sida med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
