@@ -12,7 +12,7 @@ Här kommer information från styrelsearbetet att presenteras löpande i form av
 
 ###### Styrelsemöten
 
-[Styrelsemöte 3 2024](/wp-content/uploads/2024/Beslutsprotokoll 3 2024.pdf)  
+[Styrelsemöte 5 2024](/wp-content/uploads/2024/Beslutsprotokoll 3 2024.pdf)  
 [Styrelsemöte 2 2024](/wp-content/uploads/2024/Beslutsprotokoll 2 2024.pdf)  
 [Styrelsemöte 3 2024](/wp-content/uploads/2024/Beslutsprotokoll 1-2024.pdf)  
 [Styrelsemöte 7 2023](/wp-content/uploads/2023/Beslutsprotokoll 4_2023.pdf)  
