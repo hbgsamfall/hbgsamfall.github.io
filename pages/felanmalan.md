@@ -22,7 +22,7 @@ Arbeten som berör föreningens anläggningar får bestämmas och beställas enb
 Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 
 ## Stopp i avloppet - Separat agerande  
-Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning får endast Svensk Röranalys AB anlitas för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller Röranalys om det omfattas av garanti. 
+Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning får endast Svensk Röranalys AB anlitas för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att **stoppet beror på att [otillåtna saker]({% link pages/Vad får du spola ner i toaletten.md %}) spolats ned i avloppet ska fastighetsägaren själv betala kostnaden för spolningen**. Beror stoppet på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller av Röranalys om det omfattas av garanti. 
 
 **Beställning av spolning**  
 Om akut - **Telefon Röranalys AB: 08-599 098 00**, 
