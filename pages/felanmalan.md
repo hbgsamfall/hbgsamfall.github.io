@@ -24,7 +24,7 @@ Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 ## Stopp i avloppet - Separat agerande  
 <u>Kostnader för spolning</u>: Kostnaden för att spola bort ett stopp ska enligt nedan, betalas av fastighetsägaren, även för stopp som uppstått i de delar av avloppssystemet som ingår i gemensamhetsanläggningen. 
 
-<u>[Otillåtna föremål]({% link pages/Vad får du spola ner i toaletten.md %})</u>: Om stoppet orsakas av att otillåtna saker har spolats ned i avloppet (t.ex. föremål eller skräp som inte ska vara där), måste fastighetsägaren stå för kostnaden för spolningen.
+[<u>Otillåtna föremål</u>]({% link pages/Vad får du spola ner i toaletten.md %}): Om stoppet orsakas av att otillåtna saker har spolats ned i avloppet (t.ex. föremål eller skräp som inte ska vara där), måste fastighetsägaren stå för kostnaden för spolningen.
 
 <u>Defekter i avloppssystemet</u>: Om stoppet beror på fel eller brister i själva avloppssystemets samlingsledning som ingår i gemensamhetsanläggningen, täcks kostnaden av samfällighetsföreningen om inte skadan orsakats av fastighetsägaren.
 Om problemet omfattas av garanti från Röranalys, står de för kostnaden.
