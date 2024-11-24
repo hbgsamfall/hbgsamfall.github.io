@@ -22,7 +22,14 @@ Arbeten som berör föreningens anläggningar får bestämmas och beställas enb
 Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 
 ## Stopp i avloppet - Separat agerande  
-Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning får endast Svensk Röranalys AB anlitas för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Om det vid rensning konstateras att **stoppet beror på att [otillåtna saker]({% link pages/Vad får du spola ner i toaletten.md %}) spolats ned i avloppet ska fastighetsägaren själv betala kostnaden för spolningen**. Beror stoppet på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller av Röranalys om det omfattas av garanti. 
+ _Kostnader för spolning:_ Kostnaden för att spola bort ett stopp ska enligt nedan, betalas av fastighetsägaren, även för stopp som uppstått i de delar av avloppssystemet som ingår i gemensamhetsanläggningen. 
+
+_[Otillåtna föremål]_({% link pages/Vad får du spola ner i toaletten.md %}): Om stoppet orsakas av att otillåtna saker har spolats ned i avloppet (t.ex. föremål eller skräp som inte ska vara där), måste fastighetsägaren stå för kostnaden för spolningen.
+
+_Defekter i avloppssystemet:_ Om stoppet beror på fel eller brister i själva avloppssystemets samlingsledning som ingår i gemensamhetsanläggningen, täcks kostnaden av samfällighetsföreningen om inte skadan orsakats av fastighetsägaren.
+Om problemet omfattas av garanti från Röranalys, står de för kostnaden.
+
+_Sammanfattningsvis:_ Fastighetsägaren är ansvarig för att betala rensning av stopp, om inte problemet beror på systemfel eller täcks av den funktionsgaranti som Svensk Röranalys AB har gett.  
 
 **Beställning av spolning**  
 Om akut - **Telefon Röranalys AB: 08-599 098 00**, 
