@@ -22,14 +22,14 @@ Arbeten som berör föreningens anläggningar får bestämmas och beställas enb
 Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 
 ## Stopp i avloppet - Separat agerande  
- _Kostnader för spolning:_ Kostnaden för att spola bort ett stopp ska enligt nedan, betalas av fastighetsägaren, även för stopp som uppstått i de delar av avloppssystemet som ingår i gemensamhetsanläggningen. 
+<u>Kostnader för spolning</u>: Kostnaden för att spola bort ett stopp ska enligt nedan, betalas av fastighetsägaren, även för stopp som uppstått i de delar av avloppssystemet som ingår i gemensamhetsanläggningen. 
 
-_[Otillåtna föremål]_({% link pages/Vad får du spola ner i toaletten.md %}): Om stoppet orsakas av att otillåtna saker har spolats ned i avloppet (t.ex. föremål eller skräp som inte ska vara där), måste fastighetsägaren stå för kostnaden för spolningen.
+<u>[Otillåtna föremål]({% link pages/Vad får du spola ner i toaletten.md %})</u>: Om stoppet orsakas av att otillåtna saker har spolats ned i avloppet (t.ex. föremål eller skräp som inte ska vara där), måste fastighetsägaren stå för kostnaden för spolningen.
 
-_Defekter i avloppssystemet:_ Om stoppet beror på fel eller brister i själva avloppssystemets samlingsledning som ingår i gemensamhetsanläggningen, täcks kostnaden av samfällighetsföreningen om inte skadan orsakats av fastighetsägaren.
+<u>Defekter i avloppssystemet</u>: Om stoppet beror på fel eller brister i själva avloppssystemets samlingsledning som ingår i gemensamhetsanläggningen, täcks kostnaden av samfällighetsföreningen om inte skadan orsakats av fastighetsägaren.
 Om problemet omfattas av garanti från Röranalys, står de för kostnaden.
 
-_Sammanfattningsvis:_ Fastighetsägaren är ansvarig för att betala rensning av stopp, om inte problemet beror på systemfel eller täcks av den funktionsgaranti som Svensk Röranalys AB har gett.  
+<u>Sammanfattningsvis</u>: Fastighetsägaren är ansvarig för att betala rensning av stopp, om inte problemet beror på systemfel eller täcks av den funktionsgaranti som Svensk Röranalys AB har gett.  
 
 **Beställning av spolning**  
 Om akut - **Telefon Röranalys AB: 08-599 098 00**, 
