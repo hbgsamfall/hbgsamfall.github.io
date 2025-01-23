@@ -14,7 +14,7 @@ parent: Styrelsen Informerar
 Medlemsavgiften beslutas varje år av årsstämman. Se längst ned på sidan beträffande fakturering av medlemsavgiften
 
 Den nuvarande medlemsavgiften är 14 400 kr. Den tas ut genom en uttaxering av 3600 kronor per kvartal.
-Enligt nuvarande underhållsplan kommer avgiften från 2025 och framåt att kunna sänkas till 5000 kronor per år.  
+Enligt nuvarande underhållsplan kommer avgiften från andra kvartalet 2025 och framåt att kunna sänkas till 5000 kronor per år.  
 
 #### **Bakgrund till nuvarande medlemsavgift**
 
