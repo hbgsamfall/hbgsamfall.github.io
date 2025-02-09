@@ -1,7 +1,9 @@
+---
 title: 'Stamspolning 2025'
 author: hbgsamfall
 layout: post
-categories: nyheter
+categories:
+- nyheter
 ---
 ### Underhåll av avloppsrören genom regelbunden spolning  
   
