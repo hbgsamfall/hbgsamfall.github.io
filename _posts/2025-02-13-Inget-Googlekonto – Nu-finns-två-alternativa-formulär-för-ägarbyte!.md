@@ -1,5 +1,5 @@
 ---
-title: Formulär för ägarbyte
+title: Inget Googlekonto – Nu finns två alternativa formulär för ägarbyte!
 author: hbgsamfall
 layout: post
 categories:
