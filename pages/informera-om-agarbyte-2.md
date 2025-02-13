@@ -14,4 +14,6 @@ De som inte har Googlekonto kan via den andra länken, hämta, fylla i den infor
 
 [**Formulär för ägarbyte**](https://drive.google.com/open?id=18Goob2W3E8hGthVvIGM53WmRepJTFPogsWhvh-mnGy0)
 
-**[Formulär som kan fyllas i och mejlas](/wp-content/uploads/2025/Ägarbyte-att bifoga mejl_Skyddad.docx)** (Formuläret går att ladda ner)
+**[Formulär i format .odt som kan fyllas i och mejlas](/wp-content/uploads/2025/Ägarbyte-att bifoga mejl_Skyddad.docx)** (Formuläret går att ladda ner)  
+
+**[Formulär i format .docx som kan fyllas i och mejlas](/wp-content/uploads/2025/Ägarbyte-att bifoga mejl_Skyddad.docx)** (Formuläret går att ladda ner)
