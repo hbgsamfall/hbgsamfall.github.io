@@ -23,6 +23,7 @@ parent: Årsstämma
 [Kallelse Årsstämma 2021](/wp-content/uploads/2021/03/Kallelse-till-arsstamma-2021_R1.pdf)  
 [Kallelse Årsstämma 2022](/wp-content/uploads/2022/03/Kallelse-till-arsstamma-2022.pdf)  
 [Kallelse Årsstämma 2023](/wp-content/uploads/2023/Kallelse till årsstämma 2023.pdf)  
+[Kallelse Årsstämma 2024](/wp-content/uploads/2024/Kallelse till årsstämma 2024.pdf)  
 
 #### Årsmötesprotokoll
 
@@ -39,8 +40,18 @@ parent: Årsstämma
 [Årsstämmeprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)  
 
 ####  Övriga handlingar  
-[**Handlingar årsstämma 2023**]({% link wp-content/uploads/2023/Handlingar årsstämma 2023.pdf %})  
+[**Handlingar årsstämma 2024**]({% link wp-content/uploads/2024/Handlingar årsstämma 2023.pdf %})  
+– Bilaga 1: Verksamhetsberättelse för år 2022  
+– Bilaga 2: Resultatrapport  
+– Bilaga 2: Balansrapport  
+– Bilaga 3: Revisionsberättelse  
+– Bilaga 4: Underhålls- och förnyelseplan för år 2023  
+– Bilaga 4: Kalkyl – Underhållsplan 2023  
+– Bilaga 5: Utgifts- Inkomststat 2023 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2023   
+– Fullmakt  
 
+[**Handlingar årsstämma 2023**]({% link wp-content/uploads/2023/Handlingar årsstämma 2023.pdf %})  
 – Bilaga 1: Verksamhetsberättelse för år 2022  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
