@@ -13,7 +13,7 @@ has_children: true
 ## Årsstämma  
 <BR>  
 
-**[Kallelse till Årsstämma 2024](wp-content/uploads/2025/Kallelse till årsstämma 2025.pdf)**  
+**[Kallelse till Årsstämma 2025](wp-content/uploads/2025/Kallelse till årsstämma 2025.pdf)**  
 Tid : Onsdag 19/3 – Kl. 18.30 – 21.00  
 Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159  
 
