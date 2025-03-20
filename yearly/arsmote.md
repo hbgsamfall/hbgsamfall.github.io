@@ -28,7 +28,7 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 – Bilaga 6: Uttaxering av årsavgiften för 2024  
 – Fullmakt  
 
-[__Årsstämmeprotokoll 2024__](/wp-content/uploads/2024/Årsstämma 2024_HGS.pdf)
+__Årsstämmeprotokoll 2025__  
 <BR>  
 
 I hemsidans meny finns undermeny till nedan nämnda sida med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
