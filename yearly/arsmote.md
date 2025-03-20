@@ -13,11 +13,11 @@ has_children: true
 ## Årsstämma  
 <BR>  
 
-**[Kallelse till Årsstämma 2024](/wp-content/uploads/2024/Kallelse till årsstämma 2024.pdf)**  
-Tid : Tisdag 26/3 – Kl. 18.30 – 21.00  
+**[Kallelse till Årsstämma 2024](wp-content/uploads/2025/Kallelse till årsstämma 2025.pdf)**  
+Tid : Onsdag 19/3 – Kl. 18.30 – 21.00  
 Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159  
 
-**[Utskickade handlingar inför årsstämman](/wp-content/uploads/2024/Handlingar årsstämma 2023.pdf)**  
+**[Utskickade handlingar inför årsstämman](wp-content/uploads/2025/Utskickade handlingar inför årsstämman.pdf)**  
 – Bilaga 1: Verksamhetsberättelse för år 2023  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
@@ -26,7 +26,6 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 – Bilaga 4: Kalkyl – Underhållsplan 2024  
 – Bilaga 5: Utgifts- Inkomststat 2024 (Budget)  
 – Bilaga 6: Uttaxering av årsavgiften för 2024  
-– Bilaga 7: Förslag till stadgeändring  
 – Fullmakt  
 
 [__Årsstämmeprotokoll 2024__](/wp-content/uploads/2024/Årsstämma 2024_HGS.pdf)
