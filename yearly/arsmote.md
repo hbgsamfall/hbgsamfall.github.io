@@ -18,14 +18,14 @@ Tid : Onsdag 19/3 – Kl. 18.30 – 21.00
 Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159  
 
 **[Utskickade handlingar inför årsstämman](/wp-content/uploads/2025/Utskickade handlingar inför årsstämman.pdf)**  
-– Bilaga 1: Verksamhetsberättelse för år 2023  
+– Bilaga 1: Verksamhetsberättelse för år 2024  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
 – Bilaga 3: Revisionsberättelse  
-– Bilaga 4: Underhålls- och förnyelseplan för år 2024  
-– Bilaga 4: Kalkyl – Underhållsplan 2024  
-– Bilaga 5: Utgifts- Inkomststat 2024 (Budget)  
-– Bilaga 6: Uttaxering av årsavgiften för 2024  
+– Bilaga 4: Underhålls- och förnyelseplan för år 2025  
+– Bilaga 4: Kalkyl – Underhållsplan 2025  
+– Bilaga 5: Utgifts- Inkomststat 2025 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2025  
 – Fullmakt  
 
 __Årsstämmeprotokoll 2025__  
