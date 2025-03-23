@@ -1,6 +1,6 @@
 ---
 id: 264
-title: 'Föregående årsmstämmor &#8211; Protokoll och övriga handlingar'
+title: 'Föregående årsstämmor &#8211; Protokoll och övriga handlingar'
 date: '2014-03-16T13:47:16+01:00'
 author: hbgsamfall
 layout: page
