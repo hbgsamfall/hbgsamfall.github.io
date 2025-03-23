@@ -19,9 +19,7 @@ Genom att följa länkarna nedan kommer ni till de underhållsplaner med tillhö
 
 [HGS Underhållsplan 2025]({% link wp-content/uploads/2025/HGS Underhållsplan 2025.pdf %})  
 [HGS Underhållsplan 2024]({% link wp-content/uploads/2024/Underhållsplan 2024.pdf %})  
-
 [Kalkyl - underhållsplan 2024](/wp-content/uploads/2024/Kalkyl - underhållsplan 2024.pdf)  
-
 [HGS Underhållsplan 2023]({% link wp-content/uploads/2023/HGS Underhållsplan_2023.pdf %})  
 [Kalkyl - Underhållsplan 2023-2029]({% link wp-content/uploads/2023/Kalkyl - Underhållsplan 2023-2029.pdf %})  
 [HGS Underhållsplan 2022](/wp-content/uploads/2022/05/HGS-Maintenance-Plan-2022.pdf)  
