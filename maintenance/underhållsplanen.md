@@ -17,6 +17,7 @@ För varje år fastslås den uppdaterade underhålls- och förnyelseplanen av å
 
 Genom att följa länkarna nedan kommer ni till de underhållsplaner med tillhörande kalkyler som fastslagits vid våra årsstämmor.
 
+[HGS Underhållsplan 2025]({% link wp-content/uploads/2025/HGS Underhållsplan 2025.pdf %})  
 [HGS Underhållsplan 2024]({% link wp-content/uploads/2024/Underhållsplan 2024.pdf %})  
 
 [Kalkyl - underhållsplan 2024](/wp-content/uploads/2024/Kalkyl - underhållsplan 2024.pdf)  
