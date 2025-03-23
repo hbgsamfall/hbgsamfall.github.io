@@ -7,6 +7,7 @@ layout: page
 guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=14'
 parent: Styrelsen Informerar
 ---
-<br><br>
-### HGS Samf Styrelse 
-![Styrelsen](/wp-content/uploads/2024/HGS Samf Styrelse 2024.png)
+<br>
+### HGS Samfällighetsförenings Styrelse
+![Styrelsen](/wp-content/uploads/2025/Föreningens styrelse 2025.png)   
+
