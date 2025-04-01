@@ -10,7 +10,7 @@ guid: 'http://hbgsamfall.info.tm/?page_id=80'
 
 #### Stadgar för Hässelby Gårds Samfällighetsförening
 
-[jo2010SamfStadgaLantmBest](/wp-content/uploads/2018/02/jo2010SamfStadgaLantmBest.pdf)
+[jo2010SamfStadgaLantmBest_2025](/wp-content/uploads/2025/jo2010SamfStadgaLantmBest_2025.pdf)  
 
 #### Bakomliggande Lag (1973:1150)
 
