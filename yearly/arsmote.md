@@ -28,7 +28,7 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 – Bilaga 6: Uttaxering av årsavgiften för 2025  
 – Fullmakt  
 
-__Årsstämmeprotokoll 2025__  
+**[Årsstämmeprotokoll 2025](/wp-content/uploads/2025/Årsstämma 2025_HGS_Protokoll_sign.pdf)**   
 <BR>  
 
 I hemsidans meny finns undermeny till nedan nämnda sida med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
