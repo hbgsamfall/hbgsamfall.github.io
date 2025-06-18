@@ -10,6 +10,9 @@ nav_order: 70
 
 ## Här hittar ni de informationsblad som styrelsen delat ut till medlemmarna.
 
+**2025**  
+[**HGS Info-blad 1 2025**](/wp-content/uploads/2025/HGS Info-blad 1 2025.pdf)  
+
 **2024**  
 [**HGS Info-blad 1 2024**](/wp-content/uploads/2024/HGS Info-blad 1 2024.pdf)  
 [**HGS Info-blad 2 2024**](/wp-content/uploads/2024/HGS Info-blad 2 2024.pdf)  
