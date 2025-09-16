@@ -6,7 +6,7 @@ categories:
 - nyheter
 ---
 ## Information inför kommande utbyte av Kallvattenledningar  
-
+<BR>
 **Utbyte Kallvattenledningar – [Krav på tillgänglighet]({% link management/krav-på-tillgänglighet.md %})**  
 
 **Bakgrund**  
