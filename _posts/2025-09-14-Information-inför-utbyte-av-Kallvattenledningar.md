@@ -5,7 +5,7 @@ layout: post
 categories:
 - nyheter
 ---
-<u>## Information inför kommande utbyte av Kallvattenledningar</u>  
+## Information inför kommande utbyte av Kallvattenledningar  
 
 **Utbyte Kallvattenledningar – [Krav på tillgänglighet]({% link management/krav-på-tillgänglighet.md %})**  
 
