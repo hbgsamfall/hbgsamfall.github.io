@@ -1,11 +1,11 @@
 ---
-title: Information inför kommande utbyte av Kallvattenledningar
+title: 'Information inför kommande utbyte av Kallvattenledningar'
 author: hbgsamfall
 layout: post
 categories:
 - nyheter
 ---
-##Information inför kommande utbyte av Kallvattenledningar##  
+##Information inför kommande utbyte av Kallvattenledningar 
 
 **Utbyte Kallvattenledningar – [Krav på tillgänglighet]({% link management/krav-på-tillgänglighet.md %})**  
 
