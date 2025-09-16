@@ -37,6 +37,7 @@ Entreprenören kommer, i god tid före byggstart, att genomföra en syn tillsamm
 **Fortsatt information**  
 Styrelsen kommer att informera löpande under upphandlingens gång och inför entreprenadstart.  
 Därefter, vid byggstart i **område 8**, kommer entreprenören att överta all informationsgivning som berör arbetets genomförande.  
+
 **Exempel och ritningar**  
 
 För att underlätta förståelsen bifogas exempel på planritning samt illustrationer av hur befintliga installationer kan se ut.  
