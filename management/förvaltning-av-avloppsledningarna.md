@@ -16,4 +16,11 @@ Stamspolningen görs dels för att minska risken för stopp i avloppet under de 
 
 Identifierade problem i föreningens spillvattenssystem åtgärdas omgående och efter avslutat arbete lämnar entreprenören fyra års garanti för stopp i stammar och påstick orsakade av igenslamning. 
 
-Styrelsen har fått in avtalsförslag som gåtts igenom av vår byggledare. Styrelsen har gjort en genomgång och ska skicka frågor och kalla entreprenören till en genomgång. Därefter fattar styrelsen beslut om det är värt att teckna avtal om regelbunden stamspolning.
+Styrelsen har fått in sju avtalsförslag, ett för de akuta åtgärder som vidtogs genom relining under de första åren samt sex avtalsförslag för de etapper under vilka Röranalys utförde relining av avloppsstammarna i de återstående 420 fastigheterna.  
+
+Avtalen har gåtts igenom av vår byggledare, styrelsen har gjort en genomgång och frågor har skickats ut för klarställande.
+Efter att ha fått svar på de frågor som vi hade på avtalsförslagen har styrelsen haft en genomgång med entreprenören och funnit att de slutliga avtalsförslagen är acceptabla för att teckna avtal om regelbunden stamspolning.  
+
+De fyra första avtalen är underskrivna och stamspolning har redan utförts enligt de tre första avtalen.
+Återstår att underteckna de återstående tre avtalen.
+
