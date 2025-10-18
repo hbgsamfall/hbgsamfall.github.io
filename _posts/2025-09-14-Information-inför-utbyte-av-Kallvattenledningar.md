@@ -42,7 +42,7 @@ Därefter, vid byggstart i **område 8**, kommer entreprenören att överta all 
 
 För att underlätta förståelsen bifogas exempel på planritning samt illustrationer av hur befintliga installationer kan se ut.  
 **Exempel där kallvattenledningen inte är inbyggd.**  
-![Kallvattenledning](/wp-content/uploads/2023/Kallvattenledning - med bilder.png)  
+![Kallvattenledning](/wp-content/uploads/2025/Kallvattenledning _ med bild.png)  
 
 **Exempel där kallvattenledningen varit inbyggd och har måst göras åtkomlig.** De öppningar som gjorts för att komma åt rören ska vid återställning utföras **(tillgängliga)** med öppningsbara luckor så att rören är åtkomliga för framtida behov av underhåll.  
 ![ Inbyggd Kallvattenledning](/wp-content/uploads/2025/Exempel på inbyggd kallvattenledning.png)  
