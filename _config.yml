@@ -29,8 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
-# Remote theme is locked due to dependency hell, update after a local run works
-remote_theme: just-the-docs/just-the-docs@v0.6.1
+# Remote theme - updated to latest version (v0.10.1, January 2025)
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
   - jekyll-feed
 
