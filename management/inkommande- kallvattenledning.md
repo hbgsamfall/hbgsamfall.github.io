@@ -13,5 +13,5 @@ Samfällighetsföreningen ansvarar för förvaltningen av den inkommande kallvat
 
 Rören för den inkommande kallvattenledningen måste vara åtkomliga för underhåll och kommande utbyte. Har de eller vattenmätarkonsolen byggts in eller är skymda av någon fast installation åligger det fastighetsägaren att i samband med entreprenad för utbyte av den inkommande kallvattenledningen se till att de är åtkomliga eller betala för rivning och återställning.
 
-![Kallvattenledning](/wp-content/uploads/2023/Kallvattenledning - med bilder.png)
+![Kallvattenledning](/wp-content/uploads/2023/Kallvattenledning _ med bilder.png)
 
