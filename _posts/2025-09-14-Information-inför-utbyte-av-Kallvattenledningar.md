@@ -44,5 +44,5 @@ För att underlätta förståelsen bifogas exempel på planritning samt illustra
 **Exempel där kallvattenledningen inte är inbyggd.**  
 ![Kallvattenledning](/wp-content/uploads/2025/Kallvattenledning _ med bilder_r2.png)  
 
-**Exempel där kallvattenledningen varit inbyggd och har måst göras åtkomlig för utbyte av rören.** DEfter utbytet av rören förutses inget behov av inspektion eller service på många år eftersom de nya rören bör ha en hållbarhet på 50–100 år. Vi utesluter ändå inte att samfälligheten när som helst kan komma att behöva kräva åtkomst av rören vilket fastighetsägaren måste vara medveten om; framför allt om **du** tänker täcka över rören efter att de bytts ut. **Kostnaderna för detta ersätts inte av samfälligheten.**  
+**Exempel där kallvattenledningen varit inbyggd och har måst göras åtkomlig för utbyte av rören.** Efter utbytet av rören förutses inget behov av inspektion eller service på många år eftersom de nya rören bör ha en hållbarhet på 50–100 år. Vi utesluter ändå inte att samfälligheten när som helst kan komma att behöva kräva åtkomst av rören vilket fastighetsägaren måste vara medveten om; framför allt om **du** tänker täcka över rören efter att de bytts ut. **Kostnaderna för detta ersätts inte av samfälligheten.**  
 ![ Inbyggd Kallvattenledning](/wp-content/uploads/2025/Exempel på inbyggd kallvattenledning.png)  
