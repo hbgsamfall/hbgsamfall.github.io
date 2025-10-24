@@ -4,14 +4,10 @@ updates:
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
-      interval: "weekly"
-      day: "friday"
+      interval: "monthly"
       time: "22:15"
       timezone: "Europe/Stockholm"
     open-pull-requests-limit: 5
-    labels:
-      - "dependencies"
-      - "ruby"
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -32,9 +28,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
-    labels:
-      - "dependencies"
-      - "github-actions"
     commit-message:
       prefix: "chore"
 
