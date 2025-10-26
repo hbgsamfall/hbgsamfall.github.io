@@ -24,6 +24,4 @@ Relining
 ![Rörinfodring](/wp-content/uploads/2023/Rörinfodring.PNG) 
 är ett samlingsnamn för metoder att renovera avloppsrör. Efter noggrann rengöring av de ursprungliga rören utför man antingen en invändig ”målning”/beläggning, så kallad coating med plastmaterial eller så utför man rörinfodring med en s.k. strumpa som är impregnerad med plastmaterial. I båda fallen bildas ett nytt plaströr inuti det gamla röret. Nästan all relinging under rörförnyelsen är utförd med ” strumpa”.  
 
-I hemsidans meny finns undermeny till sidan Bakgrund och redan utförd verksamhet med mer information om hur rörförnyelsen framskred. Att det finns undermenyer är indikerat med ˅. 
-
-[Bakgrund och redan utförd verksamhet]({% link relining/Bakgrund-och-redan-utförd-verksamhet.md %})
+I hemsidans meny finns undermeny till sidan Bakgrund och redan utförd verksamhet med mer information om hur rörförnyelsen framskred. Att det finns undermenyer är indikerat med ˅.
