@@ -18,6 +18,4 @@ Styrelsen är ansvarig för att en underhållsplan upprättas som beskriver geme
 Kostnaden för underhållsåtgärderna ska täckas av den medlemsavgift som uttaxeras av medlemmarna. För att få en stabil och förutsägbar nivå på medlemsavgiften tas i kalkylen även hänsyn till att kontinuerliga avsättningar ska göras till framtida underhåll. Detta för att längre fram kunna undvika en plötslig chockhöjning av medlemsavgiften.
 
 <BR>
-I hemsidans meny finns undermeny till information om HGS Underhållsplanering. Att det finns undermeny är indikerat med ˅.  
-
-[HGS Underhållsplanering]({% link maintenance/underhållsplanen.md %})
+I hemsidans meny finns undermeny till information om HGS Underhållsplanering. Att det finns undermeny är indikerat med ˅.

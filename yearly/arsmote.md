@@ -31,7 +31,5 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 **[Årsstämmeprotokoll 2025](/wp-content/uploads/2025/Årsstämma 2025_HGS_Protokoll_sign.pdf)**   
 <BR>  
 
-I hemsidans meny finns undermeny till nedan nämnda sida med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor. 
-Att det finns undermenyer är indikerat med ˅.  
-
-[Föregående årsstämmor – Protokoll och övriga handlingar]({% link yearly/foregaende-ars-arsmoten.md %})
+I hemsidans meny finns undermeny till sida med information om Hässelby Gårds Samfällighetsförenings tidigare årsstämmor.
+Att det finns undermenyer är indikerat med ˅.

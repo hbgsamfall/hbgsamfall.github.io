@@ -16,13 +16,7 @@ Information om de planer och den verksamhet som styrelsens arbete resulterat i h
 
 ## Styrelsen informerar  
 
-Här finns information om vilka som är medlemmar i nuvarande styrelse och kortfattad information om beslut som tagits vid styrelsemöten samt hur styrelsen kommit fram till storleken på föreningens medlemsavgift. Informationen finns på nedan uppräknade sidor.  
+Här finns information om vilka som är medlemmar i nuvarande styrelse och kortfattad information om beslut som tagits vid styrelsemöten samt hur styrelsen kommit fram till storleken på föreningens medlemsavgift.
 
-Från undermenyer i hemsidans meny kan ni även gå direkt till sidorna med denna information.  
-
-[Föreningens Styrelse]({% link styrelsen_info/foreningens-styrelse.md %})  
-
-[Information från styrelsearbetet]({% link pages/information-fran-styrelsearbetet.md %})  
-
-[Medlemsavgift]({% link styrelsen_info/medlemsavgift.md %})
+Från undermenyer i hemsidans meny kan ni gå direkt till sidorna med denna information.
 
