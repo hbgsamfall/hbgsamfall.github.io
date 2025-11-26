@@ -5,7 +5,7 @@ layout: post
 categories:
 - nyheter
 ---
-<span style='font-size:24px;'>&#127775;</span> <big>**Vi behöver dig! – var med och påverka vår samfällighet!**</big>  
+<span style='font-size:24px;'>&#127775;</span> <big><big>**Vi behöver dig! – var med och påverka vår samfällighet!**</big></big>  
 Som fastighetsägare i Hässelby Gårds Samfällighetsförening är du en viktig del av vår gemenskap. Nu söker vi nya engagerade personer som vill vara med och forma föreningens framtid genom att sitta i styrelsen eller i valberedningen.  
 
 <span style='font-size:20px;'>&#128165;</span> **Varför behövs du?**  
