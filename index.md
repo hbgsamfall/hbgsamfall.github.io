@@ -11,9 +11,9 @@ guid: 'http://hbgsamfall.info.tm/?page_id=202'
 [![logo](/wp-content/uploads/2022/09/hgs_logo_small.png)](/wp-content/uploads/2022/09/hgs_logo_small.png)
 
 | [![Info om spolning](/wp-content/uploads/2024/Info om spolning.gif)] <span style="color: #ffffff;"># Blank blank</span> | [![NYHETER](/wp-content/uploads/2025/NYHETER_5.gif)]({% link pages/nyheter.md %}) |  
-<br>  
+<br>
 | [**NYHET: Vi behöver dig – var med och påverka vår samfällighet**]({% link _posts/2025-11-26-Vi-behöver-dig-var-med-och-påverka-vår-samfällighet.md %}) |  
-<br>  
+<br>
 <span style="color: #000000; font-size: 30px; font-family: Georgia, Arial, Times, serif; font-weight: normal;">Välkommen till Hässelby Gårds Samfällighetsförening</span>
 
 ### <span style="color: #000000;">*Här har styrelsen lagt upp en hemsida*</span>
