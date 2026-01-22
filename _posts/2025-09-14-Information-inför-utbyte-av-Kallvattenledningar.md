@@ -14,16 +14,17 @@ Kallvattenledningarna har börjat nå slutet av sin livslängd och måste bytas 
 Samfällighetsföreningen ansvarar för förvaltningen av den inkommande kallvattenledningen från förbindelsepunkten 0,5 m utanför tomtgränsen fram till och med avstängningsventilen före vattenmätaren i varje radhus.  
 
 **Upphandling**  
-Styrelsen har begärt in anbud för upphandlingen av entreprenör. Tre anbud har inkommit och vår konsult, Projektledarna, arbetar nu med en sammanställning och jämförelse för att identifiera eventuella kompletterande frågor innan val av entreprenör görs.  
+Styrelsen har tecknat avtal med entreprenör för den första etappen med rätt till avrop i form av optioner för de återstående fyra etapperna.  
 
 **Tidplan för genomförande**  
-Utbytet planeras ske etappvis enligt följande:
-* 2026 hela område 8
-* 2027 81 fastigheter i Område 9
-* 2028 109 fastigheter i Område 9
-* 2029 hela område 10  
+Utbytet planeras ske etappvis enligt följande:  
+1.	2026 102 fastigheter i område 8 (Huvuddel)  
+2.	2027 50 fastigheter i Område 8 och 42 fastigheter i Område 9 (Option 1)  
+3.	2028 109 fastigheter i Område 9 (Option 2)  
+4.	2029 28 fastigheter i Område 9 och 69 fastigheter i Område 10 (Option3)  
+5.	2030 11 fastigheter i Område 9 och 76 fastigheter i Område 10 (Option 4)  
 
-Mer detaljerad information kommer att ges allteftersom upphandlingen fortskrider.
+Mer detaljerad information kommer att ges allteftersom projektet fortskrider.  
 
 **Krav på tillgänglighet**  
 För att utbytet ska kunna genomföras måste [kallvattenledningen]({% link management/inkommande- kallvattenledning.md %}) vara fullt åtkomlig inom fastigheten, från skarven mellan utifrån inkommande kopparrör till det galvade röret och fram till och med avstängningsventil före vattenmätaren.
@@ -35,7 +36,7 @@ För att utbytet ska kunna genomföras måste [kallvattenledningen]({% link mana
 Entreprenören kommer, i god tid före byggstart, att genomföra en syn tillsammans med respektive fastighetsägare. Vid detta tillfälle görs en överenskommelse om åtkomstförhållanden och eventuella åtgärder som krävs.
 
 **Fortsatt information**  
-Styrelsen kommer att informera löpande under upphandlingens gång och inför entreprenadstart.  
+Styrelsen kommer att informera löpande inför entreprenadstart och under projektets gång.  
 Därefter, vid byggstart i **område 8**, kommer entreprenören att överta all informationsgivning som berör arbetets genomförande.  
 
 **Exempel och ritningar**  
