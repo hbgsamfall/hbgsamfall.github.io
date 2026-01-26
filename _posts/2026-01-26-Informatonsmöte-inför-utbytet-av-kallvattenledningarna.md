@@ -8,18 +8,20 @@ categories:
 **INFORMATIONSMÖTE INFÖR UTBYTET AV KALLVATTENLEDNINGARNA**  
 
 Via informationsblad som laggs i brevlådorna samt denna information bjuder styrelsen in alla medlemmar till ett informationsmöte 17/2 2026, kl. 18.00 Plats: Hässelby Villastads Folkets hus där vi, tillsammans med den kommande entreprenören, berättar mer om:  
-•	Projektets genomförande 
-•	Vad som gäller för varje fastighet 
-•	Hur du kan förbereda dig  
+*	Projektets genomförande 
+*	Vad som gäller för varje fastighet 
+*	Hur du kan förbereda dig  
 
 **Kompletterade information till den information som lämnas i informationsbladet**  
+
 **Övergripande tidplan och omfattning**  
+
 Utbytet planeras ske etappvis enligt följande:  
-**2026 Etapp 1** Huvudanbudet [gemensamhetsanläggningar]({% link wp-content/uploads/2026/Omfattning av Huvudanbudet_För hemsidan - Copy.pdf %}) omfattar de 102 fastigheter i Område 8 som visas i den lista som länken leder till.  
-**2027 Etapp 2** (Option 1) [gemensamhetsanläggningar]({% link wp-content/uploads/2026/Omfattning av Option 1_För hemsidan - Copy.pdf %}) omfattar de 50 fastigheter i Område 8 och de 42 fastigheter i Område 9 som visas i den lista som länken leder till.  
-**2028 Etapp 3** (Option 2) [gemensamhetsanläggningar]({% link wp-content/uploads/2026/Omfattning av Option 2_För hemsidan - Copy.pdf %}) omfattar de 109 fastigheter i Område 9 som visas i den lista som länken leder till.  
-**2029 Etapp 4** (Option 3) [gemensamhetsanläggningar]({% link wp-content/uploads/2026/Omfattning av Option 3_För hemsidan - Copy.pdf %}) omfattar de 69 fastigheter som avgränsats med blå linje för Option 3 Del 1 i Situationsplan område 10 och de 28 fastigheter som avgränsats med bred blå linje för Option 3 Del 2 i Situationsplan område 9.  
-**2030 Etapp 5** (Option 4) [gemensamhetsanläggningar]({% link wp-content/uploads/2026/Omfattning av Option 4_För hemsidan - Copy.pdf %}) omfattar de 76 fastigheter som avgränsats med rödlila linje för Option 4 Del 1 i Situationsplan område 10 och de 11 fastigheter som avgränsats med bred rödlila linje för Option 4 Del 2 i Situationsplan område 9.  
+**2026 Etapp 1** [Huvudanbudet]({% link wp-content/uploads/2026/Omfattning av Huvudanbudet_För hemsidan - Copy.pdf %}) omfattar de 102 fastigheter i Område 8 som visas i den lista som länken leder till.  
+**2027 Etapp 2** [(Option 1)]({% link wp-content/uploads/2026/Omfattning av Option 1_För hemsidan - Copy.pdf %}) omfattar de 50 fastigheter i Område 8 och de 42 fastigheter i Område 9 som visas i den lista som länken leder till.  
+**2028 Etapp 3** [(Option 2)]({% link wp-content/uploads/2026/Omfattning av Option 2_För hemsidan - Copy.pdf %}) omfattar de 109 fastigheter i Område 9 som visas i den lista som länken leder till.  
+**2029 Etapp 4** [(Option 3)]({% link wp-content/uploads/2026/Omfattning av Option 3_För hemsidan - Copy.pdf %}) omfattar de 69 fastigheter som avgränsats med blå linje för Option 3 Del 1 i Situationsplan område 10 och de 28 fastigheter som avgränsats med bred blå linje för Option 3 Del 2 i Situationsplan område 9.  
+**2030 Etapp 5** [(Option 4)]({% link wp-content/uploads/2026/Omfattning av Option 4_För hemsidan - Copy.pdf %}) omfattar de 76 fastigheter som avgränsats med rödlila linje för Option 4 Del 1 i Situationsplan område 10 och de 11 fastigheter som avgränsats med bred rödlila linje för Option 4 Del 2 i Situationsplan område 9.  
 En detaljerad produktionstidplan får ni god tid innan arbetet på plats börjar.  
 
 **Arbetstider**  
@@ -36,7 +38,8 @@ För spolning av toaletten sparar de boende lämpligen vatten i hinkar.
 
 **Nyckelhantering**  
 Entreprenören använder med fördel källarentrén på de hus som har källare.
-Ni kommer att behöva lämna ut en nyckel till entreprenören så att de kan komma in för att utföra sitt arbete enligt tidplanen. Förbered därför en nyckel som entreprenören kan kvittera ut i god tid innan arbetet börjar i den länga där ni bor.
+Ni kommer att behöva lämna ut en nyckel till entreprenören så att de kan komma in för att utföra sitt arbete enligt tidplanen. Förbered därför en nyckel som entreprenören kan kvittera ut i god tid innan arbetet börjar i den länga där ni bor.  
+
 **Frågor kan ställas vid mötet eller till styrelsen via samfällighetens E-postadress: hbgsamfall@gmail.com**  
 Se även tidigare [NYHETER]({% link _posts/2025-09-14-Information-inför-utbyte-av-Kallvattenledningar.md %}) på hemsidan från 14 Sep 2025.  
 
