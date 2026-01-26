@@ -33,7 +33,7 @@ Inget arbete mellan V28-31 2026.
 **Tillgång till vatten under byggtiden**  
 Avloppen kommer att fungera helt normalt men i berörda sammankopplade längor kommer vattnet att vara avstängt från 07.00 till 17.00 varje dag som arbete pågår.  
 På grund av det arbete som gjorts och de tryckförändringar som uppstår när vattnet stängs av och slås på kommer vattnet att bli brunfärgat vilket innebär att man vid användning av vattnet, efter att vattnet återkommit, behöver spola bort det bruna vattnet.  
-Övriga tider fungerar allt som vanligt men de som behöver ha tillgång till vatten medan arbetet pågår måste de boende spara vatten i lämpliga dunkar för t.ex. matlagning och personlig hygien.  
+Övriga tider fungerar allt som vanligt men för de som behöver ha tillgång till vatten medan arbetet pågår måste de boende spara vatten i lämpliga dunkar för t.ex. matlagning och personlig hygien.  
 För spolning av toaletten sparar de boende lämpligen vatten i hinkar.  
 
 **Nyckelhantering**  
