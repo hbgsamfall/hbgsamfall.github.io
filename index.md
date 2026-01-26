@@ -10,7 +10,7 @@ guid: 'http://hbgsamfall.info.tm/?page_id=202'
 
 [![logo](/wp-content/uploads/2022/09/hgs_logo_small.png)](/wp-content/uploads/2022/09/hgs_logo_small.png)
 
-| [![Info om spolning](/wp-content/uploads/2024/Info om spolning.gif)] <span style="color: #ffffff;"># Blank blank</span> | [![NYHETER](/wp-content/uploads/2025/NYHETER_5.gif)]({% link pages/nyheter.md %}) |  
+| [![Info om spolning](/wp-content/uploads/2026/Info om spolning_slow.gif)] <span style="color: #ffffff;"># Blank blank</span> | [![NYHETER](/wp-content/uploads/2025/NYHETER_5.gif)]({% link pages/nyheter.md %}) |  
 <br>
 | [<span style='font-size:24px;'>&#127775;</span> **NYHET: Vi behöver dig – var med och påverka vår samfällighet** <span style='font-size:24px;'>&#127775;</span>]({% link _posts/2025-11-26-Vi-behöver-dig-var-med-och-påverka-vår-samfällighet.md %}) |  
 <br>
