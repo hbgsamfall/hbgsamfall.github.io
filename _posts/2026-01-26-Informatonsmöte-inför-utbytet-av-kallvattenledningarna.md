@@ -7,7 +7,7 @@ categories:
 ---
 **INFORMATIONSMÖTE INFÖR UTBYTET AV KALLVATTENLEDNINGARNA**  
 
-Via informationsblad som laggs i brevlådorna samt denna information bjuder styrelsen in alla medlemmar till ett informationsmöte 17/2 2026, kl. 18.00 Plats: Hässelby Villastads Folkets hus där vi, tillsammans med den kommande entreprenören, berättar mer om:  
+Via informationsblad som läggs i brevlådorna samt denna information bjuder styrelsen in alla medlemmar till ett informationsmöte 17/2 2026, kl. 18.00 Plats: Hässelby Villastads Folkets hus där vi, tillsammans med den kommande entreprenören, berättar mer om:  
 *	Projektets genomförande 
 *	Vad som gäller för varje fastighet 
 *	Hur du kan förbereda dig  
