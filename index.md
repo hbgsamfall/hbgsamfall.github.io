@@ -8,7 +8,7 @@ nav_exclude: true
 guid: 'http://hbgsamfall.info.tm/?page_id=202'
 ---
 
-[![logo](/wp-content/uploads/2022/09/hgs_logo_small.png)](/wp-content/uploads/2026/START Logo.png)
+[![logo](/wp-content/uploads/2022/09/hgs_logo_small.png)](/wp-content/uploads/2022/09/hgs_logo_small.png)
 
 | [![Info om spolning](/wp-content/uploads/2024/Info om spolning.gif)] <span style="color: #ffffff;"># Blank blank</span> | [![NYHETER](/wp-content/uploads/2025/NYHETER_5.gif)]({% link pages/nyheter.md %}) |  
 <br>
