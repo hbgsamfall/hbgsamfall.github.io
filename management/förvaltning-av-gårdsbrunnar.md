@@ -15,6 +15,6 @@ De separata dagvattenrören inklusive gårdsbrunnar återstår att inventera och
 **Sektion med avloppsledningar, dagvattenanslutning och gårdsbrunnar**   
 ![Gårdsbrunnar](/wp-content/uploads/2023/Rör för dagvatten - sammanslagen_r1.png)  
 
-**Layouter för de te längorna med separat dagvattenledning**  
+**Layouter för de tre längorna med separat dagvattenledning**  
 ![Dagvattenledning Spireabågen](/wp-content/uploads/2024/Spireabågen - separat dagvattenledning.png)  
 ![Dagvattenledning Grönbetevägen](/wp-content/uploads/2024/Grönbetevägen - separat dagvattenledning.png)  
