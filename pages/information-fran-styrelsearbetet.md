@@ -12,6 +12,8 @@ Här kommer information från styrelsearbetet att presenteras löpande i form av
 
 ###### Styrelsemöten
 
+[Styrelsemöte 4 2025](/wp-content/uploads/2025/Beslutsprotokoll 1 25-05-21.pdf)  
+[Styrelsemöte 7 2025](/wp-content/uploads/2025/Beslutsprotokoll 2 25-10-15.pdf)  
 [Styrelsemöte 10 2024](/wp-content/uploads/2024/Beslutsprotokoll 5-2024.pdf)  
 [Styrelsemöte 7 2024](/wp-content/uploads/2024/Beslutsprotokoll 4-2024.pdf)  
 [Styrelsemöte 5 2024](/wp-content/uploads/2024/Beslutsprotokoll 3 2024.pdf)  
