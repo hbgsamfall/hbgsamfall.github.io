@@ -16,8 +16,10 @@ Via informationsblad som läggs i brevlådorna samt denna information bjuder sty
 
 **Övergripande tidplan och omfattning**  
 
+Länkarna efter Etapp 5 leder till områdeskartor där de olika etapperna för utbytet av kallvattenrören är inritade.  
+
 Utbytet planeras ske etappvis enligt följande:  
-**2026 Etapp 1** [Huvudanbudet]({% link wp-content/uploads/2026/Omfattning av Huvudanbudet_För hemsidan - Copy.pdf %}) omfattar de 102 fastigheter i Område 8 som visas i den lista som länken leder till.  
+**2026 Etapp 1** [Huvudanbudet]({% link wp-content/uploads/2026/Omfattning av Huvudanbudet-För hemsidan.pdf %}) omfattar de 102 fastigheter i Område 8 som visas i den lista som länken leder till.  
 **2027 Etapp 2** [(Option 1)]({% link wp-content/uploads/2026/Omfattning av Option 1_För hemsidan - Copy.pdf %}) omfattar de 50 fastigheter i Område 8 och de 42 fastigheter i Område 9 som visas i den lista som länken leder till.  
 **2028 Etapp 3** [(Option 2)]({% link wp-content/uploads/2026/Omfattning av Option 2_För hemsidan - Copy.pdf %}) omfattar de 109 fastigheter i Område 9 som visas i den lista som länken leder till.  
 **2029 Etapp 4** [(Option 3)]({% link wp-content/uploads/2026/Omfattning av Option 3_För hemsidan - Copy.pdf %}) omfattar de 69 fastigheter som avgränsats med blå linje för Option 3 Del 1 i Situationsplan område 10 och de 28 fastigheter som avgränsats med bred blå linje för Option 3 Del 2 i Situationsplan område 9.  
@@ -43,6 +45,6 @@ Ni kommer att behöva lämna ut en nyckel till entreprenören så att de kan kom
 **Frågor kan ställas vid mötet eller till styrelsen via samfällighetens E-postadress: hbgsamfall@gmail.com**  
 Se även tidigare [NYHETER]({% link _posts/2025-09-14-Information-inför-utbyte-av-Kallvattenledningar.md %}) på hemsidan från 14 Sep 2025.  
 
-[Situationsplan område 8]({% link wp-content/uploads/2026/Situationsplan område 8 -Grund och Option 1.1 - Copy.pdf %})  
+[Situationsplan område 8]({% link wp-content/uploads/2026/Situationsplan område 8_Grund och Option 1.1.pdf.pdf %})  
 [Situationsplan område 9]({% link wp-content/uploads/2026/Situationsplan område 9-Option 1-2-3.2-4.2 - Copy.pdf %})  
 [Situationsplan område 10]({% link wp-content/uploads/2026/Situationsplan område 10-Option 3.1-4.1 - Copy.pdf %})  
