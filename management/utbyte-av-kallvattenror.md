@@ -18,6 +18,6 @@ Samfällighetsföreningen ansvarar för förvaltningen av den inkommande kallvat
 
 Eftersom det med tiden har blivit allt fler akuta reparationer av kallvattenrören så har styrelsen börjat planera för utbyte av de kallvattenledningar i föreningens fastigheter som samfällighetsföreningen ansvarar för. Ursprungligen var utbytet planerat till 2034 men är nu framflyttat till perioden 2026–2030 vilket informerats om i underhållsplanen för 2022. Under 2022 anlitade styrelsen en rörentreprenör som gjorde en förstudie där kallvattenrören och skicket inventerades. 
 
-Styrelsen har utifrån denna information påbörjat arbetet med att planera och att ta fram upphandlingsdokument inför utbytet. Upphandlingsdokumenten är nu på granskning av vår byggledare.
+Styrelsen har utifrån denna information tagit fram upphandlingsdokument för utbytet och gjort en upphandlig av entreprenör (Hellströms Rör AB) för utbytet. Avtalet undertecknades i Januari 2026 och byggstart är planerad till tidigast v 15 2026.
 
 ![Kallvattenledning](/wp-content/uploads/2023/Kallvattenledning - med bilder.png)
