@@ -9,8 +9,18 @@ has_children: true
 Styrelsen har med hjälp av Projektledarna Bygg & Fastighet i Sverige AB gjort en upphandling och tecknat avtal med Håkan Hellström Rör Aktiebolag för utbyte av de kallvattenrör som ingår i gemensamhetsanläggningarna.  
 Utbytet är planerat att göras under en femårsperiod med början 2026; start tidigast v. 15.  
 
-Genomförandet från och med det inledande informationsmötet fram till avslutad entreprenad beskrivs översiktligt i den information som ges under de länkar som finns längst ned på sidan.
-Ni kan även komma till den informationen från hemsidans meny.  
+Information om genomförandet gavs vid ett informationsmöte och består i huvudsak av följande moment:  
+* Förbesiktning (inklädnader)  
+* Ev. rivningsarbete av inklädnader (avtalas separat mellan respektive fastighetsägare och entreprenören)  
+* Byte av kallvattenrör  
+* Isolering  
+* Efterbesiktning  
+* Ev återställande av inklädnader (avtalas separat mellan respektive fastighetsägare och entreprenören)  
+
+De länkar som finns längst ned på sidan leder till information från Informationsmötet, Sammanställning av frågor och svar, Övergripande etappindelning, Detaljerad tidplan  2026, Arbetsbeskrivning och Asbestsanering.  
+Information som ännu inte är klar läggs upp efterhand.  
+
+Ni kan även gå till nämnda information från hemsidans meny.  
 
 Se även tidigare information:  
 •	[Utdelat informationsblad]({% link wp-content/uploads/2026/HGS Info-blad 1 2026_Kallvattenledning.pdf %}).  
