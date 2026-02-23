@@ -1,5 +1,5 @@
 ---
-title: ’Informationsmöte’
+title: Informationsmöte
 author: hbgsamfall
 layout: page
 parent: Utbyte av Kallvattenrören - Genomförande
@@ -13,4 +13,4 @@ parent: Utbyte av Kallvattenrören - Genomförande
 
 Under mötet fick medlemmarna ställa frågor. De frågor som togs upp och de svar gavs på informationsmötet har sammanställts under länken nedan.  
 
-*	 **Sammanställning av frågor och svar ** läggs snart upp här.  
+*	Sammanställning av frågor och svar läggs snart upp här.  
