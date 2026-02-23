@@ -4,7 +4,7 @@ layout: page
 nav_order: 31
 has_children: true
 ---
-# Utbyte av Kallvattenrören - Genomförande
+## Utbyte av Kallvattenrören - Genomförande
 
 Styrelsen har med hjälp av Projektledarna Bygg & Fastighet i Sverige AB gjort en upphandling och tecknat avtal med Håkan Hellström Rör Aktiebolag för utbyte av de kallvattenrör som ingår i gemensamhetsanläggningarna.  
 Utbytet är planerat att göras under en femårsperiod med början 2026; start tidigast v. 15.  
