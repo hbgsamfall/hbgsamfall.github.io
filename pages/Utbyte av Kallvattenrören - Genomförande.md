@@ -17,7 +17,7 @@ Information om genomförandet gavs vid ett informationsmöte och består i huvud
 * Efterbesiktning  
 * Ev återställande av inklädnader (avtalas separat mellan respektive fastighetsägare och entreprenören)  
 
-De länkar som finns längst ned på sidan leder till information från Informationsmötet, Sammanställning av frågor och svar, Övergripande etappindelning, Detaljerad tidplan  2026, Arbetsbeskrivning, Asbestsanering och Kommunikation.  
+De länkar som finns längst ned på sidan leder till information från Informationsmötet inklusive sammanställning av frågor och svar, Övergripande etappindelning, Detaljerad tidplan  2026, Arbetsbeskrivning, Asbestsanering och Kommunikation.  
 Information som ännu inte är klar läggs upp efterhand.  
 
 Ni kan även gå till nämnda information från hemsidans meny.  
