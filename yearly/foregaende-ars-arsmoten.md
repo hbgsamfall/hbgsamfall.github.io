@@ -39,6 +39,8 @@ parent: Årsstämma
 [Årsstämmeprotokoll 2021](/wp-content/uploads/2021/03/HGS_Arsmote2021.pdf)  
 [Årsstämmeprotokoll 2022](/wp-content/uploads/2022/09/Årsstämma 2022_HGS_Protokoll.pdf)  
 [Årsstämmeprotokoll 2023](/wp-content/uploads/2022/09/Årsmöte HGS 2023-Skannad.pdf)  
+[Årsstämmeprotokoll 2024](/wp-content/uploads/2024/Årsstämma 2024_HGS.pdf)  
+[Årsstämmeprotokoll 2025](/wp-content/uploads/2024/Årsstämma 2024_HGS.pdf)  
 
 ####  Övriga handlingar  
 [**Handlingar årsstämma 2025**]({% link wp-content/uploads/2025/Utskickade handlingar inför årsstämman.pdf %})  
