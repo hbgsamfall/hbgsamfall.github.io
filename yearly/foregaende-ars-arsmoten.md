@@ -44,25 +44,25 @@ parent: Årsstämma
 
 ####  Övriga handlingar  
 [**Handlingar årsstämma 2025**]({% link wp-content/uploads/2025/Utskickade handlingar inför årsstämman.pdf %})  
-– Bilaga 1: Verksamhetsberättelse för år 2022  
+– Bilaga 1: Verksamhetsberättelse för år 2024  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
 – Bilaga 3: Revisionsberättelse  
-– Bilaga 4: Underhålls- och förnyelseplan för år 2023  
-– Bilaga 4: Kalkyl – Underhållsplan 2023  
-– Bilaga 5: Utgifts- Inkomststat 2023 (Budget)  
-– Bilaga 6: Uttaxering av årsavgiften för 2023   
+– Bilaga 4: Underhålls- och förnyelseplan för år 2025  
+– Bilaga 4: Kalkyl – Underhållsplan 2025  
+– Bilaga 5: Utgifts- Inkomststat 2025 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2025   
 – Fullmakt  
 
 [**Handlingar årsstämma 2024**]({% link wp-content/uploads/2024/Handlingar årsstämma 2023.pdf %})  
-– Bilaga 1: Verksamhetsberättelse för år 2022  
+– Bilaga 1: Verksamhetsberättelse för år 2023  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
 – Bilaga 3: Revisionsberättelse  
-– Bilaga 4: Underhålls- och förnyelseplan för år 2023  
-– Bilaga 4: Kalkyl – Underhållsplan 2023  
-– Bilaga 5: Utgifts- Inkomststat 2023 (Budget)  
-– Bilaga 6: Uttaxering av årsavgiften för 2023   
+– Bilaga 4: Underhålls- och förnyelseplan för år 2024  
+– Bilaga 4: Kalkyl – Underhållsplan 2024  
+– Bilaga 5: Utgifts- Inkomststat 2024 (Budget)  
+– Bilaga 6: Uttaxering av årsavgiften för 2024   
 – Fullmakt  
 
 [**Handlingar årsstämma 2023**]({% link wp-content/uploads/2023/Handlingar årsstämma 2023.pdf %})  
