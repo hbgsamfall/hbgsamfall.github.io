@@ -17,7 +17,7 @@ has_children: true
 Tid : Onsdag 18/3 – Kl. 18.30 – 21.00  
 Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159  
 
-**[Utskickade handlingar inför årsstämman](/wp-content/uploads/2026/Handlingar årsstämma 2026-Komplett.pdf)**  
+**[Utskickade handlingar inför årsstämman](/wp-content/uploads/2026/Handlingar årsstämma 2026_Komplett.pdf)**  
 – Bilaga 1: Verksamhetsberättelse för år 2025  
 – Bilaga 2: Resultatrapport  
 – Bilaga 2: Balansrapport  
