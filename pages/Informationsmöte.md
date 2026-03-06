@@ -11,7 +11,7 @@ parent: Utbyte av Kallvattenrören - Genomförande
 
 *	[**Presentation**]({% link wp-content/uploads/2026/Kallvatten-projektet_Hemsidan.pdf %})  
 
-Under mötet fick medlemmarna ställa frågor. De frågor som togs upp och de svar gavs på informationsmötet har sammanställts under länken nedan.  
+Under mötet fick medlemmarna ställa frågor. De frågor som togs upp och de svar som gavs på informationsmötet har sammanställts under länken nedan.  
 
 * [**Sammanställning av frågor och svar**]({% link wp-content/uploads/2026/Fråga Svar Infomöte 20260224.pdf %})  
  
