@@ -21,5 +21,5 @@ parent: Utbyte av Kallvattenrören - Genomförande
 
 * Entreprenören har ingen jourverksamhet och kommer inte ut på kvällar och nätter. Om något akut inträffar utanför arbetstid skall ni använda föreningens normala jourrutin.  
 * Om det skulle inträffa en vattenskada eller om något går sönder på grund av arbetet skall ni direkt anmäla detta till ert försäkringsbolag. Entreprenören anmäler i sin tur till sitt försäkringsbolag och de kommer därefter att dela ut en regress till den part som anses vara vållande till skadan.  
-* Om man misstänker någonting brottsligt i samband med arbetet skall en polisanmälan göras i första hand. Därefter kontaktas försäkringsbolag och berörda parter.  
+* Om man misstänker någonting brottsligt i samband med det pågående arbetet med utbytet av kallvattenrören, då skall en polisanmälan göras i första hand. Därefter kontaktas försäkringsbolag och berörda parter.  
 
