@@ -18,7 +18,7 @@ För närvarande räknar styrelsen med att med denna avgift ska klara nödvändi
 
 Vi hoppas det här ger de som undrar den information de behöver. Om ni har frågor är ni välkomna att kontakta styrelsen.  
 
-För de som inte var med på senaste årsstämman finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsstämman**]({% link yearly/arsmote.md %})   
+För de som inte var med på senaste årsstämman finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsstämman**]({% link wp-content/uploads/2025/Utskickade handlingar inför årsstämman.pdf %})   
 
 **Fakturering av medlemsavgiften**
 
