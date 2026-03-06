@@ -17,7 +17,7 @@ parent: Utbyte av Kallvattenrören - Genomförande
 * Entreprenörens nedan namngivna kontaktpersoner är skyldiga att måndag till fredag 07.00 – 17:00 informera de boende om själva arbetet och dess framskridande i längan, samt eventuella särskilt störande arbetsmoment, avstängningar och andra arbeten och förhållanden som kan vålla besvär.  
 * Om ni vill ha hjälp med frågor om privata åtaganden i er fastighet, till exempel hjälp med att göra inbyggda kallvattenrör åtkomliga, vänd er då till entreprenörens projektledare Kristoffer Erlandsson <kristoffer@hellstromror.se> 072-388 88 74 eller till entreprenörens platschef (namn och kontaktdata läggs in när det har bestämts). Skicka alltid kopia till samfällighetsföreningens styrelse **hbgsamfall@gmail.com**  
 
- ## Olyckor tillbud och oförutsedda händelser  
+## Olyckor, tillbud och oförutsedda händelser  
 
 * Entreprenören har ingen jourverksamhet och kommer inte ut på kvällar och nätter. Om något akut inträffar utanför arbetstid skall ni använda föreningens normala jourrutin.  
 * Om det skulle inträffa en vattenskada eller om något går sönder på grund av arbetet skall ni direkt anmäla detta till ert försäkringsbolag. Entreprenören anmäler i sin tur till sitt försäkringsbolag och de kommer därefter att dela ut en regress till den part som anses vara vållande till skadan.  
