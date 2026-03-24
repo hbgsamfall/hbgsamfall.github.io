@@ -23,8 +23,8 @@ Plats : Hässelby Villastads folkets hus, Riddersviksvägen 159
 – Bilaga 2: Balansrapport  
 – Bilaga 3: Revisionsberättelse  
 – Bilaga 4: Underhålls- och förnyelseplan för år 2026  
-– Bilaga 4: Kalkyl – Underhållsplan 2026  
-– Bilaga 5: Utgifts- Inkomststat 2026 (Budget)  
+– Bilaga 4: Kalkyl – Underhållsplan 2026 (uppdaterad enligt beslut på årsstämman)  
+– Bilaga 5: Utgifts- Inkomststat 2026 (Budget)  (uppdaterad enligt beslut på årsstämman)  
 – Bilaga 6: Uttaxering av årsavgiften för 2026  
 – Fullmakt  
 
