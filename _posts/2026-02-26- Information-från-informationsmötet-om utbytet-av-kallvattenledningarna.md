@@ -14,4 +14,4 @@ Under mötet var det möjligt för medlemmarna att ställa frågor och mötet av
 
 [Presentationen]({% link wp-content/uploads/2026/Kallvatten-projektet_Hemsidan.pdf %}) som visades vid mötet samt kompletterande information som utlovades hittar ni i menyn under rubriken Utbyte av [Utbyte av Kallvattenrören – Genomförande]({% link pages/Utbyte av Kallvattenrören - Genomförande.md %}) som i sin tur har ett flertal underrubriker.  
 
-Medlemmarnas frågor och svaren från styrelsen och entreprenören noterades i [Sammanställning av frågor och svar]({% link wp-content/uploads/2026/Fråga Svar Infomöte 20260224.pdf %}).  
+Medlemmarnas frågor och svaren från styrelsen och entreprenören noterades i [Sammanställning av frågor och svar]({% link wp-content/uploads/2026/Fråga Svar Infomöte 20260324.pdf %}).  
