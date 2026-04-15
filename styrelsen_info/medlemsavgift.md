@@ -18,7 +18,7 @@ För närvarande räknar styrelsen med att med denna avgift klara nödvändig f�
 
 Vi hoppas det här ger de som undrar den information de behöver. Om ni har frågor är ni välkomna att kontakta styrelsen.  
 
-För de som inte var med på senaste årsstämman finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsstämman**]({% link wp-content/uploads/2025/Utskickade handlingar inför årsstämman.pdf %})   
+För de som inte var med på senaste årsstämman finns aktuell information om medlemsavgiften i [**handlingarna från senaste årsstämman**]({% link wp-content/uploads/2026/Handlingar årsstämma 2026_Komplett_Rev2.pdf %})   
 
 **Fakturering av medlemsavgiften**
 
