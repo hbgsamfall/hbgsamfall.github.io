@@ -13,8 +13,8 @@ parent: Styrelsen Informerar
 <BR>
 Medlemsavgiften beslutas varje år av årsstämman. Se längst ned på sidan beträffande fakturering av medlemsavgiften.  
 
-Den nuvarande medlemsavgiften är 5000 kronor per år. Den tas ut genom en uttaxering av 1250 kronor per kvartal. Från 2027 kommer avgiften att räknas upp enligt index. 
-För närvarande räknar styrelsen med att med denna avgift ska klara nödvändig förnyelse av kallvattenrör och elkablar enligt underhållsplanen samt ge utrymme för en avsättning enligt lagkrav för att bygga upp en tillräcklig underhålls- och förnyelsefond inför kommande behov av förnyelse av VA-rören. Det senare för att en framtida ny chockhöjning av avgiften förhoppningsvis kan undvikas.  
+Den nya uttaxering som beslutats för 2026-2027, "medlemsavgiften", är 7500 kronor per år. Den tas ut genom en uttaxering av 1875 kronor per kvartal. Från 2031 kommer avgiften att räknas upp enligt index. 
+För närvarande räknar styrelsen med att med denna avgift klara nödvändig förnyelse av kallvattenrör och elkablar enligt den fastställda underhållsplanen samt efter avslutat utbyte av kallvattenrören ge utrymme för en avsättning enligt lagkrav för att fortsatt bygga upp en tillräcklig underhålls- och förnyelsefond inför kommande behov av förnyelse av VA-rören. Detta för att en framtida ny chockhöjning av avgiften förhoppningsvis ska kunna undvikas.  
 
 Vi hoppas det här ger de som undrar den information de behöver. Om ni har frågor är ni välkomna att kontakta styrelsen.  
 
