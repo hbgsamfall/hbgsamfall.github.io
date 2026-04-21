@@ -8,7 +8,7 @@ parent: Utbyte av Kallvattenrören - Genomförande
 ## Detaljerad tidplan 2026
 
 [**HÄR**]({% link wp-content/uploads/2026/Preliminär tidsplan Hässelby kallvattenbyte inkl. första försyn.pdf %}) finner ni den detaljerade tidplanen för de längor där kallvattenrören kommer att bytas ut under 2026.  
-Den tidplan som är publicerade här på hemsidan gäller så länge som om du inte har fått annan information aviserad av vår byggledare Tommy Fronda, entreprenörens projektledare Kristoffer Erlandsson eller entreprenörens platschef "Bollen" Warrén.  
+Den tidplan som är publicerade här på hemsidan gäller så länge som du inte har fått annan information aviserad av vår byggledare Tommy Fronda, entreprenörens projektledare Kristoffer Erlandsson eller entreprenörens platschef "Bollen" Warrén.  
 
 Oförutsedda störningar kan medföra ändringar i tidplanen men för att hålla den aktuell revideras den minst två gånger per månad om det skulle ha uppstått någon ändring.  
 Entreprenören kallar genom avisering till försyn i respektive fastighet (efter första försynen kan följande kallelser till försyn komma att ske genom sms-avisering).  
