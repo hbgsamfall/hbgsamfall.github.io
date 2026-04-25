@@ -9,5 +9,5 @@ parent: Styrelsen Informerar
 ---
 <br>
 ### HGS Samfällighetsförenings Styrelse
-![Styrelsen](/wp-content/uploads/2025/Föreningens styrelse 2025.png)   
+![Styrelsen](/wp-content/uploads/2026/Föreningens styrelse 2026.png)   
 
