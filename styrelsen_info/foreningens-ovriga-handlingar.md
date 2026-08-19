@@ -8,6 +8,8 @@ guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=2'
 parent: Styrelsen Informerar
 ---
 
+## Övriga handlingar  
+<BR>
 Klicka på önskad rad för att komma till det dokument ni vill titta på:
 
 **Inga för närvarande**
