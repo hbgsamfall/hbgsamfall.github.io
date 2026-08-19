@@ -8,6 +8,8 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1878'
 parent: Om HGS
 ---
 
+## VA-ritningar för våra fastigheter  
+
 Här finns de ritningar som entreprenören har haft som underlag för sitt anbud och planeringen av sitt arbete.
 
 OMRÅDE 8  
