@@ -3,7 +3,7 @@ title: Vanliga frågor och svar
 layout: page
 nav_order: 32
 ---
-# Vanliga frågor och svar 
+## Vanliga frågor och svar   
 
 | **Vanliga frågor** <span style="color: #00B050; font-size: 11px; font-family: Arial; font-weight: italic;">- *klicka på frågan för att komma till svaret*</span> |
 | -------- |
