@@ -8,7 +8,7 @@ parent: Om HGS
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1750'
 ---
 
-### Bakgrundsinformation
+## Bakgrundsinformation  
 
 Radhusen byggdes i längor, i många fall flera sammankopplade längor, som alla är beroende av en gemensam anslutning av: kallvatten, avlopp, dagvatten från gemensamma gårdsbrunnar anslutna till avloppet,  elektricitet. 
 
