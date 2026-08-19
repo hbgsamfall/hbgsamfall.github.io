@@ -8,6 +8,8 @@ parent: Om HGS
 guid: 'http://hbgsamfall.info.tm/?page_id=93'
 ---
 
+## Villaföreningen  
+
 När man flyttar in i området kommer man automatiskt med i samfällighetsföreningen, men vid sidan av den obligatoriska samfällighetsföreningen kan man vara med i [*Villaföreningen*](http://www.villaagarna.se/Lokalt/ABC/Lokalforeningar/Villaforeningen-Hasselby-Gard/ "Villaföreningen Hässelby Gård")
 
 Medlemskap där är ej obligatoriskt.
