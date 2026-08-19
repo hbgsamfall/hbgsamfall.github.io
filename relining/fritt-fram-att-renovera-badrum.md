@@ -8,7 +8,9 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1718'
 nav_order: 80
 ---
 
-## Särskilt förfarande vid renovering av avloppsrör i badrum
+## Fritt fram att renovera badrum, men...  
+
+Särskilt förfarande vid renovering av avloppsrör i badrum
 
  <BR>
 Om ni renoverar avloppsrör i badrum eller kök, <mark>KONTAKTA STYRELSEN INNAN NI RÖR AVLOPPSRÖR UNDER BOTTENBJÄLKLAGET</mark>. Detta eftersom de rören ingår i den [gemensamhetsanläggning ](/wp-content/uploads/2017/12/Gemensametsanläggning-Avlopp.pdf)som [förvaltas av samfälligheten]({% link about/foreningens-syfte-och-ansvar.md %}).
