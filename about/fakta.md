@@ -7,6 +7,7 @@ layout: page
 parent: Om HGS
 guid: 'http://hbgsamfall.info.tm/?page_id=87'
 ---
+## Fakta (indelning i områden)  
 
 Till Hässelby Gårds Samfällighetsförening är 487 radhus anslutna. Fastigheterna är uppdelade i tre geografiska områden, betecknade:
 
