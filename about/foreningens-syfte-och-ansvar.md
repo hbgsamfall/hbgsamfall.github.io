@@ -8,6 +8,8 @@ parent: Om HGS
 guid: 'http://hbgsamfall.info.tm/?page_id=100'
 ---
 
+## Föreningens syfte och ansvar  
+
 **Syfte**  
 Att förvalta och svara för underhåll och reparation av  
 gemensamhetsanläggningarna beträffande vatten, avlopp och el.
