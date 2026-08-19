@@ -16,15 +16,15 @@ guid: 'http://hbgsamfall.info.tm/?page_id=202'
 <br>
 <span style="color: #000000; font-size: 30px; font-family: Georgia, Arial, Times, serif; font-weight: normal;">Välkommen till Hässelby Gårds Samfällighetsförening</span>
 
-### <span style="color: #000000;">*Här har styrelsen lagt upp en hemsida*</span>
+### <span style="color: #000000;">*Här har styrelsen lagt upp en hemsida*</span>  
 
-där styrelsen informerar om nyheter och ger annan information om Hässelby Gårds samfällighetsförening.
+där styrelsen informerar om nyheter och ger annan information om Hässelby Gårds samfällighetsförening.  
 
-[![Ordförande](/wp-content/uploads/2016/12/Ordförande.png)](/wp-content/uploads/2016/12/Ordförande.png)
+[![Ordförande](/wp-content/uploads/2016/12/Ordförande.png)](/wp-content/uploads/2016/12/Ordförande.png)  
 
-I menyerna till vänster (om ni öppnar sidan i mobilen kommer ikon för meny ☰ längst upp) kan ni komma till olika sidor och undermenyer där ni kan hitta information om Hässelby Gårds Samfällighetsförening och dess verksamhet.
+I menyerna till vänster (om ni öppnar sidan i mobilen kommer ikon för meny ☰ längst upp) kan ni komma till olika sidor och undermenyer där ni kan hitta information om Hässelby Gårds Samfällighetsförening och den verksamhet som styrelsens arbete resulterat i.  
 
-[Ljust blåfärgade texter]({% link maintenance/historik.md %}) är “klickbara” länkar till underliggande sidor eller dokument.
+[Ljust blåfärgade texter]({% link maintenance/historik.md %}) är “klickbara” länkar till underliggande sidor eller dokument.  
 
 [![Loviselundsvägen_R](/wp-content/uploads/2014/03/Loviselundsvägen_R.png)](/wp-content/uploads/2014/03/Loviselundsvägen_R.png)
 
