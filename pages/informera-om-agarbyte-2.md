@@ -8,6 +8,8 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1673'
 nav_order: 40
 ---
 
+## Ägarbyte  
+
 Första länken nedan går till ett lösenordsskyddat formulär (Googlekonto krävs) som styrelsen lagt upp för att du (alltså den gamle eller nye ägaren) ska kunna fylla i den information som styrelsen behöver för att veta när fastigheten byter ägare (för din information så är det fastigheten som är medlem, inte fastighetsägaren).
 
 De som inte har Googlekonto kan via någon av de två andra länkarna, hämta, fylla i den information som söks i formuläret och bifoga i mejl till hbgsamfall@gmail.com 
