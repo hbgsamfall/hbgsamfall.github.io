@@ -8,7 +8,9 @@ guid: 'http://hbgsamfall.info.tm/?page_id=1063/index.html'
 nav_order: 20
 ---
 
-#### Om ni vill ha kontakt med medlemmar i styrelsen;  
+## Kontakt  
+
+**Om ni vill ha kontakt med medlemmar i styrelsen;**  
 ring eller mejla  
 
 **Ordförande:	Ove Jönsson**  
