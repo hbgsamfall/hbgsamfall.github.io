@@ -6,5 +6,5 @@ parent: Om HGS
 ---
 
 ## Avgift (uttaxering)  
-<BR>  
+<BR>
 **Information om uttaxeringen från medlemmmarna hittar du här:** **["Medlemsavgift"]({% link styrelsen_info/medlemsavgift.md %})**
