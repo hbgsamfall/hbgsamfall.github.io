@@ -8,6 +8,8 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1360'
 parent: Styrelsen Informerar
 ---
 
+## Information från styrelsearbetet  
+
 Här kommer information från styrelsearbetet att presenteras löpande i form av sammanfattning från styrelsemöten, “månadsbrev”, beslut vid Styrelsemöten, etc.
 
 ###### Styrelsemöten
