@@ -5,7 +5,7 @@ layout: page
 parent: Förvaltning
 ---
 
-### Förvaltning av avloppsledningarna  
+## Förvaltning av avloppsledningarna  
 
 <BR>
 Den fortsatta förvaltningen av avloppsledningarna planeras att i huvudsak skötas genom att ett underhållsavtal som har tecknas med Röranalys AB som vart 5:e år utför stamspolning av samfällighetens avloppsledningar samt utför filmning och åtgärdar identifierade fel.  
