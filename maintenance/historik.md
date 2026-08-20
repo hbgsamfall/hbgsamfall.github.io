@@ -8,7 +8,7 @@ guid: 'http://hbgsamfall.info.tm/?page_id=96'
 parent: Förvaltning
 ---
 
-## Bakgrund & Historik  
+## Bakgrund och Historik  
 
 **Vad är en samfällighetsförening?**  
 [Läs på lantmäteriets hemsida](https://www.lantmateriet.se/sv/fastigheter/samfalligheter/#anchor-0)
