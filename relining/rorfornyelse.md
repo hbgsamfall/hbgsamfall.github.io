@@ -9,7 +9,7 @@ has_children: true
 nav_order: 87
 ---
 
-### Rörförnyelse  
+## Rörförnyelse  
 
 Rörförnyelse Etapp 6 avslutades 13/12 2023, och slutbesiktning gjordes den 9/1 2024. Det innebär att alla åtkomliga delar har relinats och att trasiga gårdsbrunnar har bytts ut under perioden 2014 till 2024. Därmed är rörförnyelsen av denna del av gemensamhetsanläggningen avslutad.
 
