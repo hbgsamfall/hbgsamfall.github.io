@@ -1,6 +1,6 @@
 ---
 id: 23
-title: Medlemsavgift
+title: Medlemsavgift (uttaxering)
 date: '2014-03-11T12:18:44+01:00'
 author: hbgsamfall
 layout: page
@@ -8,11 +8,12 @@ guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=23'
 parent: Styrelsen Informerar
 ---
 
-## Medlemsavgift  
+## Medlemsavgift (uttaxering)  
+Medlemsavgiften (uttaxeringen) ska täcka de tre gemensamhetsanläggningarnas underhållsbehov inklusive avsättning till framtida underhåll samt föreningens allmänna verksamhet. Detta för att längre fram kunna undvika en plötslig chockhöjning av medlemsavgiften.  
 
 **Nuvarande medlemsavgift**  
 
-Medlemsavgiften (uttaxeringen) beslutas varje år av årsstämman. Se längst ned på sidan beträffande fakturering av medlemsavgiften.  
+Medlemsavgiften (uttaxeringen) för det kommande året beslutas varje år av årsstämman. Se längst ned på sidan beträffande fakturering av medlemsavgiften.  
 
 Den nya uttaxering som beslutats för 2026-2027, "medlemsavgiften", är 7500 kronor per år. Den tas ut genom en uttaxering av 1875 kronor per kvartal. Från 2031 kommer avgiften att räknas upp enligt index. 
 För närvarande räknar styrelsen med att med denna avgift klara nödvändig förnyelse av kallvattenrör och elkablar enligt den fastställda underhållsplanen samt efter avslutat utbyte av kallvattenrören ge utrymme för en avsättning enligt lagkrav för att fortsatt bygga upp en tillräcklig underhålls- och förnyelsefond inför kommande behov av förnyelse av VA-rören. Detta för att en framtida ny chockhöjning av avgiften förhoppningsvis ska kunna undvikas.  
