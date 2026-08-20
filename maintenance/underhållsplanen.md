@@ -5,7 +5,9 @@ layout: page
 parent: Underhållsplan
 ---
 
-## Vad är en underhållsplan?  
+## HGS Underhållsplanering  
+
+**Vad är en underhållsplan?**  
 
 En underhållsplan är ett viktigt dokument för samfällighetsföreningen. Styrelsen behöver underhållsplanen för att planera underhållsåtgärder och planera budgeten för framtiden.
 
