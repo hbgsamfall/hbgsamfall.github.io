@@ -9,7 +9,7 @@ nav_order: 130
 has_children: true
 ---
 
-### Underhållsplan  
+## Underhållsplan  
  
 Hässelby Gårds Samfällighetsförening ansvarar för ett antal gemensamhetsanläggningar. För att bibehålla anläggningsdelarnas standard och beständighet behöver dessa delar underhållas.  
 
