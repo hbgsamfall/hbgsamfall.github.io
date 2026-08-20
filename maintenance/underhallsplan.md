@@ -6,7 +6,6 @@ author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=403'
 nav_order: 130
-has_children: true
 ---
 
 ## Underhållsplan  
