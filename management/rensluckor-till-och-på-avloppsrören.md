@@ -8,7 +8,9 @@ guid: 'http://www.hbgsamfall.info.tm/?page_id=1468'
 parent: Krav på tillgänglighet
 ---
 
-#### <span style="color: #ff0000;">**Rensluckor i avloppssystemet ska vara åtkomliga för att kunna användas**</span>
+## Rensluckor till och på avloppsrören
+
+**<span style="color: #ff0000;">**Rensluckor i avloppssystemet ska vara åtkomliga för att kunna användas**</span>**
 
 **Enligt lag (SFS 2006:412) skall ägaren (läs Samfälligheten) ha tillgång till avloppsstammarna (§41)**
 
