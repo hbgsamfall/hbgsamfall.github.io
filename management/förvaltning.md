@@ -6,7 +6,7 @@ has_children: true
 nav_order: 100
 ---
 
-#### **Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar**
+## Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar
 <BR>
 Samfällighetsföreningen ska förvalta de gemensamhetsanläggningar för vilken den bildats och som vid bildandet angivits i anläggningsbeslutet.  
 
