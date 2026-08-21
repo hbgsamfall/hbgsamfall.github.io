@@ -9,7 +9,7 @@ parent: Styrelsen Informerar
 ---
 
 ## Medlemsavgift (uttaxering)  
-Medlemsavgiften (uttaxeringen) ska täcka de tre gemensamhetsanläggningarnas underhållsbehov inklusive avsättning till framtida underhåll samt föreningens allmänna verksamhet. Detta för att längre fram kunna undvika en plötslig chockhöjning av medlemsavgiften.  
+Medlemsavgiften (uttaxeringen) ska långsiktigt täcka de tre gemensamhetsanläggningarnas underhållsbehov inklusive avsättning till framtida underhåll samt föreningens allmänna verksamhet. Detta för att längre fram kunna undvika en plötslig chockhöjning av medlemsavgiften.  
 
 **Nuvarande medlemsavgift**  
 
