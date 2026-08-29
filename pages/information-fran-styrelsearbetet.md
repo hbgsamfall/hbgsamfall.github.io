@@ -14,6 +14,7 @@ Här kommer information från styrelsearbetet att presenteras löpande i form av
 
 ###### Styrelsemöten
 
+[Styrelsemöte 6 2026](/wp-content/uploads/2026/Beslutsprotokoll 4 2026.pdf)  
 [Styrelsemöte 4 2026](/wp-content/uploads/2026/Beslutsprotokoll 3 2026.pdf)  
 [Styrelsemöte 3 2026](/wp-content/uploads/2026/Beslutsprotokoll 2 2026.pdf)  
 [Styrelsemöte 1 2026](/wp-content/uploads/2026/Beslutsprotokoll 1 2026.pdf)  
