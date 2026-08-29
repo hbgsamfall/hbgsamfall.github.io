@@ -18,7 +18,7 @@ Styrelsen är ansvarig för att en underhållsplan upprättas som beskriver geme
 Utan underhållsplan finns det ingen långsiktig plan att luta sig emot, vilket ofta leder till oväntat stora oplanerade och akuta underhållskostnader.
 När en underhållsplan upprättas så bygger den oftast på en fullständig statusbesiktning av gemensamhetsanläggningarna. Den underhålls- och förnyelseplan som upprättats gör därmed att styrelsen får kontroll över fastighetens akuta och framtida underhållsbehov.  
 
-Kostnaden för underhållsåtgärderna ska täckas av den medlemsavgift som uttaxeras av medlemmarna. För att få en stabil och förutsägbar nivå på medlemsavgiften tas i kalkylen även hänsyn till att kontinuerliga avsättningar ska göras till framtida underhåll. Detta för att längre fram kunna undvika en plötslig chockhöjning av medlemsavgiften.
+Kostnaden för underhållsåtgärderna ska täckas av den uttaxering "medlemsavgift" som görs från medlemmarna. För att få en stabil och förutsägbar nivå på uttaxeringen tas i kalkylen även hänsyn till att kontinuerliga avsättningar ska göras till framtida underhåll. Detta för att längre fram kunna undvika en plötslig chockhöjning av uttaxeringen.
 Vid varje årsstämma presenteras en uppdaterad underhålls- och förnyelseplan som fastslås för det kommande året.
 
 <BR>
