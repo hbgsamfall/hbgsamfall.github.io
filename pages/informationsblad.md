@@ -6,6 +6,7 @@ author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1353'
 nav_order: 70
+has_grandchildren
 ---
 
 ## Informationsblad  
