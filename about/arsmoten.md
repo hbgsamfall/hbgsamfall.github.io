@@ -10,7 +10,9 @@ parent: Om HGS
 
 ## Årsstämman
 
-Äger rum en gång om året i mars. Då utses styrelse för Hässelby Gårds Samfällighetsförening och årsavgiften fastställs.
+Årsstämman är samfällighetsföreningens högsta beslutande organ där alla deltagande medlemmar fattar gemensamma beslut om ekonomi, underhåll och ansvarsfördelning.  
+
+Årsstämman äer rum en gång om året i mars. Då utses bland annat styrelse för Hässelby Gårds Samfällighetsförening och årsavgiften fastställs.  
 
 Som fastighetsägare i Hässelby Gårds Samfällighetsförening är du en del av föreningen och det ligger i ditt eget intresse att komma till årsstämmorna och vara med och fatta beslut om den löpande förvaltningen av samfällighetsföreningens gemensamhetsanläggningar.
 
