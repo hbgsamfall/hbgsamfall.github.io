@@ -22,7 +22,7 @@ Vid överlåtelse av en fastighet är både gammal och ny ägare betalningsansva
 **Ägarbytet informeras till styrelsen** genom att kopiera den lista som nedan lagts in mellan de två horisontell linjerna kan du, den gamla eller nye ägaren, klistra in det kopierade i ett mejl och fylla i alla de uppgifter som styrelsen behöver känna till om den nye fastighetsägaren (för din information så är det fastigheten som är medlem, inte fastighetsägaren).  
 Mejlet med den ifyllda listan skickas till hbgsamfall@gmail.com  
 
-<hr style="height: 5px; background-color: black; border: none;">  
+<hr style="height: 3px; background-color: black; border: none;">  
 Email adress:  
 Kundnummer/Medlemsnummer (finns på fakturan):  
 Fullständiga namn och efternamn på gamla ägaren:  
@@ -34,7 +34,7 @@ Mejladress till minst en ny ägare:
 Telefonnummer till minst en ny ägare:  
 
 **Ange avvikande faktureringsadress om sådan finns. Skriv annars ”Ingen”:**
-<hr style="height: 5px; background-color: black; border: none;">  
+<hr style="height: 3px; background-color: black; border: none;">  
 
 Alternativt kan du via någon av de två andra länkarna, hämta, fylla i den information som söks i formuläret och bifoga det ifyllda formuläret i ett mejl till hbgsamfall@gmail.com.  
 **[Formulär i format .docx som kan fyllas i och mejlas](/wp-content/uploads/2026/Ägarbyte-att bifoga mejl_2026.docx)** (Formuläret går att ladda ner)  
