@@ -26,4 +26,4 @@ För de som inte var med på senaste årsstämman finns aktuell information om u
 
 Föreningen sköter faktureringen själva, initialt via brev i postlådan men e-faktura och autogiro är nu möjligt. För att få e-faktura anmäler du det själv via din internetbank. OBS! Den som önskar e-faktura mot kontot måste ha samma namn som namnet som finns angivet på fakturan. Vid frågor, ring kassören: 070 4447704
   
-Om så många som möjligt övergår till e-
+Om så många som möjligt övergår till e-faktura minskar det porto och posthantering för alla oss i föreningen.  
