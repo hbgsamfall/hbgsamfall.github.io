@@ -7,6 +7,9 @@ nav_order: 32
 
 | **Vanliga frågor** <span style="color: #00B050; font-size: 11px; font-family: Arial; font-weight: italic;">- *klicka på frågan för att komma till svaret*</span> |
 | -------- |
+| [Måste man informera om ägarbyte?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-informera-om-%C3%A4garbyte) |
+| Måste man göra felanmälan?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) |
+| [Varför uttaxering, inte medlemsavgift?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#varf%C3%B6r-uttaxering-inte-medlemsavgift) |
 | [Ingår kallvattenrören i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-kallvattenr%C3%B6ren-i-samf%C3%A4lligheten) |
 | [Vilka delar av avloppsanläggningen ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-delar-av-avloppsanl%C3%A4ggningen-ing%C3%A5r-i-samf%C3%A4lligheten) |
 | [Ingår gårdsbrunnar i samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-g%C3%A5rdsbrunnar-i-samf%C3%A4lligheten) |
@@ -17,8 +20,8 @@ nav_order: 32
 
 <br><br><br><br><br><br>
 
-### Måste man informera om ägarbyte?  
-**Svar:** <span style="color: #339966;">**Ja**</span>, **det är viktigt att anmäla ägarbyte till styrelsen**, ägarbyte registreras inte automatiskt.  
+## Måste man informera om ägarbyte?  
+**Svar:** <span style="color: #339966; font-size: 130%;">**Ja**</span>, **det är viktigt att anmäla ägarbyte till styrelsen**, ägarbyte registreras inte automatiskt.  
 Det innebär ett stort extra arbete för styrelsen att hitta nya ägare, och styrelsen måste vid varje kvartal ägna stor tid åt de fastighetsägare som inte betalar uttaxeringen (avgiften) i tid. Därför behöver föreningen veta när fastigheten byter ägare så att vi skickar räkningar till rätt person och låter rätt person rösta vid årsmöten.  
 
 **Styrelsen är enligt lag skyldig att se till att samtliga avgifter betalas av fastighetsägarna.**  
@@ -45,20 +48,22 @@ Telefonnummer till minst en ny ägare:
 <hr style="height: 2px; background-color: red; border: none;">  
 
 Alternativt kan du via någon av de två andra länkarna, hämta, fylla i den information som söks i formuläret och bifoga det ifyllda formuläret i ett mejl till hbgsamfall@gmail.com.  
-
 **[Formulär i format .docx som kan fyllas i och mejlas](/wp-content/uploads/2026/Ägarbyte-att bifoga mejl_2026.docx)** (Formuläret går att ladda ner)  
-
 **[Formulär i format .odt som kan fyllas i och mejlas](/wp-content/uploads/2026/Ägarbyte-att bifoga mejl_2026.odt)** (Formuläret går att ladda ner)  
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
 
-### Måste man göra felanmälan?  
-###### <span style="color: #ffffff;">Permalink till början av texten</span>  
-**Svar:** <span style="color: #339966;">**Ja**</span>, <img align="left" width="30%" src="/wp-content/uploads/2023/Underhållsplanering W237.png" /> Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com. I din felanmälan ska du beskriva felet och ange adressen till radhuset.  
+## Måste man göra felanmälan?  
+###### <span style="color: #ffffff; font-size: 130%;">Permalink till början av texten</span>  
+**Svar:** <span style="color: #339966;">**Ja**</span>, <img align="left" width="30%" src="/wp-content/uploads/2023/Underhållsplanering W237.png" /> Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com.  
+I din <u>felanmälan</u> ska du beskriva felet och ange adressen till radhuset.    
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.  
 Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %}).  
 
+<img align="left" width="30%" src="/wp-content/uploads/2023/Underhållsplanering W237.png" />
+
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information om förfarande vid:  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  
 
 **Stopp i avloppet - Separat agerande**  
@@ -72,8 +77,8 @@ Om problemet omfattas av garanti från Röranalys, står de för kostnaden.
 <u>Sammanfattningsvis</u>: Fastighetsägaren är ansvarig för att betala rensning av stopp, om inte problemet beror på systemfel eller täcks av den funktionsgaranti som Svensk Röranalys AB har gett.  
 
 **Beställning av spolning**  
-Om akut - **Telefon Röranalys AB: 08-599 098 00**,  
-**E-post Röranalys AB: info@roranalys.nu**. Informera samtidigt via via epost till hbgsamfall@gmail.com om att Svensk Röranalys AB har kontaktats.  
+Om akut - **Telefon Röranalys AB: 08-599 098 00**, **E-post Röranalys AB: info@roranalys.nu**.  
+Informera samtidigt via via epost till hbgsamfall@gmail.com om att Svensk Röranalys AB har kontaktats.  
 
 Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) via epost till hbgsamfall@gmail.com.  
 
@@ -100,7 +105,7 @@ Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.w
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
 
-### Varför uttaxering, inte medlemsavgift?  
+## Varför uttaxering, inte medlemsavgift?  
 **Svar:** <span style="color: #339966;"></span>, avgiften i en samfällighetsförening kallas uttaxering eftersom ordet betyder att föreningen "taxerar ut" eller beslutar om vilket ekonomiskt bidrag som medlemmarna solidariskt tvingas betala för att täcka beslutade gemensamma kostnader.  
 Uttaxeringen (avgiften) ska långsiktigt täcka de tre gemensamhetsanläggningarnas underhållsbehov inklusive avsättning till framtida underhåll samt föreningens allmänna verksamhet. Detta för att längre fram kunna undvika en plötslig chockhöjning av medlemsavgiften.  
 
@@ -121,7 +126,7 @@ Om så många som möjligt övergår till e-faktura minskar det porto och postha
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
 
-### Ingår kallvattenrören i Samfälligheten?  
+## Ingår kallvattenrören i Samfälligheten?  
 **Svar:** <span style="color: #339966;">**Ja**</span>, i varje radhus ingår vattenrör för kallvatten från anslutningen till allmänna vattenledningsnätet t.o.m. avstängningsventilen före vattenmätaren (rödmarkerade i skissen). Kallvattenrören är monterade nära taket i bottenplanet, se bild och skiss (<span style="color: #ff0000;">i många fall felaktigt inbyggda i efterhand utan öppningsbar slits för åtkomst</span>).  
 ![Vattenmätarkonsol](/wp-content/uploads/2022/09/Vattenmätarkonsoll.jpg).  
 De kallvattenrör som förvaltas av samfälligheten måste vara åtkomliga för underhåll och kommande utbyte. Har rören byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller att betala för rivning och återställning vid underhåll i form av reparationer samt i samband med entreprenaden för utbytet av de inkommande kallvattenrören.  
@@ -130,7 +135,7 @@ De kallvattenrör som förvaltas av samfälligheten måste vara åtkomliga för 
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |    
  
-### Vilka delar av avloppsanläggningen ingår i Samfälligheten?  
+## Vilka delar av avloppsanläggningen ingår i Samfälligheten?  
 **Svar:** Rör för avloppsvatten från anslutningen till allmänna avloppsnätet till underkanten av bottenbjälklaget/bottenplattan (<span style="color: #ff0000;">rödmarkerade</span> i skissen nedan) ingår för varje radhus i gemensamhetsanläggningen.  
 För att möjliggöra en enklare övergång till fastighetens rör är även de vertikala "stumparna" (gulmarkerade) upp genom bottenbjälklaget inkluderade vid rörförnyelsen av avloppsstammarna.  
 #### Exempel på en radhuslänga med tre hus och angivna delar som ingår i avloppsanläggningen.  
@@ -148,14 +153,14 @@ Gårdsbrunnarna förvaltas av samfälligheten och måste vara åtkomliga för un
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
 
-### Ingår yttre dränering av dagvatten i Samfälligheten?  
+## Ingår yttre dränering av dagvatten i Samfälligheten?  
 **Svar:** <span style="color: #ff0000;">**Nej**</span>, de regnvattenrör som går i mark längs radhusen från stuprören fram till gårdsbrunn är respektive fastighetsägares ansvar, se skissen och bilderna nedan samt bilden ovan av gårdsbrunnen med det framgrävda tegelröda röret för regnvatten från de övriga stuprören längs längan. <span style="color: #ff0000;">**OBS! Respektive fastighetsägare ansvarar för dränering av dagvatten från tomtmarken**</span>. 
 
 ![Yttre dränering av dagvatten](/wp-content/uploads/2022/09/Regnvatten-r1.png)
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |   
 
-### Vilka elkablar ingår i Samfälligheten?  
+## Vilka elkablar ingår i Samfälligheten?  
 **Svar:** Elektriska kablar, säkringsskåp (el-centraler) och säkringar från elskåpen (i gaveln av varje länga) som är anslutna till allmänna elnätet fram till elmätaren i varje radhus ingår i samfälligheten.  
 Elkablarna är installerade i rör som går längs taken i bottenplanet. Uppsatt i taket i anslutning till elkablarna sitter även centralen för respektive fastighets huvudsäkringar. Se bilden nedan. Bilden är från ett hus i änden av en länga. För de övriga radhusen fortsätter kabeln vidare till nästa hus efter att ha passerat centralen. <span style="color: #ff0000;">Huvudsäkringscentralen är i många fall felaktigt inbyggd i efterhand utan öppningsbar lucka för åtkomst</span>. 
 
@@ -165,7 +170,7 @@ Rören för elkablarna och huvudsäkringscentralen måste vara åtkomliga för u
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |    
 
-### Ingår elskåpen i Samfälligheten?  
+## Ingår elskåpen i Samfälligheten?  
 **Svar:** <span style="color: #339966;">**Ja**</span>, elskåpen som vanligen sitter i gaveln av varje radhuslänga ingår i samfälligheten, se bilden nedan. Vissa elskåp är lite skymda av värmepumpar. 
 
 Elskåpen måste vara åtkomliga för underhåll och kommande utbyte. Har de byggts in åligger det fastighetsägaren att se till att de är åtkomliga eller betala för rivning och återställning vid underhåll i form av byte av trasig huvudsäkring eller i samband med entreprenad för utbyte av elskåpen. 
@@ -175,7 +180,7 @@ Exempel på elskåp
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  | 
 
-### Är det fritt fram att renovera badrum?
+## Är det fritt fram att renovera badrum?
 **Svar:** <span style="color: #339966;">**Ja**</span>, men när ni renoverar avlopp i badrum eller kök, <mark>KONTAKTA STYRELSEN INNAN NI RÖR AVLOPPSRÖR UNDER BOTTENBJÄLKLAGET</mark>. 
 
 Detta eftersom anslutning till de relinade avloppsrören ska ske med [Repiper Connection]({% link wp-content/uploads/2024/Installationsmanual för relinade avlopsrör.pdf %}).  
