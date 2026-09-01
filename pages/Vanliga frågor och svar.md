@@ -77,9 +77,9 @@ Om problemet omfattas av garanti från Röranalys, står de för kostnaden.
 
 **Beställning av spolning**  
 Om akut - **Telefon Röranalys AB: 08-599 098 00**, **E-post Röranalys AB: info@roranalys.nu**.  
-Informera samtidigt via via epost till hbgsamfall@gmail.com om att Svensk Röranalys AB har kontaktats.  
+<u>Informera samtidigt</u> via via epost till hbgsamfall@gmail.com om att Svensk Röranalys AB har kontaktats.  
 
-Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) via epost till hbgsamfall@gmail.com.  
+Om behovet av spolning inte är akut görs enbart [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) via epost till hbgsamfall@gmail.com.  
 
 ### Läckande kallvattenledning  
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från [det inkommande kallvattenröret]({% link wp-content/uploads/2023/Kallvattenledning - med bilder.png %}). Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan eftersom den då saknar isolering.  
