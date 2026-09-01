@@ -1,6 +1,6 @@
 ---
 id: 25
-title: Årsstämma
+title: _Årsstämma
 date: '2014-03-11T12:18:53+01:00'
 author: hbgsamfall
 layout: page
