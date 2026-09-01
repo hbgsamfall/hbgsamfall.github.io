@@ -18,7 +18,7 @@ nav_order: 32
 | [Ingår elskåpen i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) |
 | [Är det fritt fram att renovera badrum?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#%C3%A4r-det-fritt-fram-att-renovera-badrum) |
 
-<br><br>
+<br>
 
 ## Måste man informera om ägarbyte?  
 **Svar:** <span style="color: #339966; font-size: 130%;">**Ja**</span>, **det är viktigt att anmäla ägarbyte till styrelsen**, ägarbyte registreras inte automatiskt.  
@@ -63,7 +63,7 @@ Kontaktuppgifter finns under sidorubriken [KONTAKT]({% link pages/kontakt.md %})
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information om förfarande vid:  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stopp i avloppet](https://hbgsamfall.win/pages/felanmalan.html#stopp-i-avloppet---separat-agerande)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Läckande kallvattenledning](https://hbgsamfall.win/pages/felanmalan.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elavbrott](https://hbgsamfall.win/pages/felanmalan.html#elavbrott)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Problem med dagvatten](https://hbgsamfall.win/pages/felanmalan.html#r%C3%B6r-f%C3%B6r-dagvatten)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stopp i avloppet](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#stopp-i-avloppet---separat-agerande)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Läckande kallvattenledning](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#l%C3%A4ckande-kallvattenledning)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elavbrott](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#elavbrott)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Problem med dagvatten](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#r%C3%B6r-f%C3%B6r-dagvatten)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  
 
 ### Stopp i avloppet - Separat agerande  
 <u>Kostnader för spolning</u>: Kostnaden för att spola bort ett stopp ska enligt nedan, betalas av fastighetsägaren, även för stopp som uppstått i de delar av avloppssystemet som ingår i gemensamhetsanläggningen.  
