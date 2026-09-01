@@ -7,9 +7,9 @@ nav_order: 32
 
 | **Vanliga frågor** <span style="color: #00B050; font-size: 11px; font-family: Arial; font-weight: italic;">- *klicka på frågan för att komma till svaret*</span> |
 | -------- |
-| [Måste man informera om ägarbyte?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-informera-om-%C3%A4garbyte) |
-| Måste man göra felanmälan?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) |
-| [Varför uttaxering, inte medlemsavgift?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#varf%C3%B6r-uttaxering-inte-medlemsavgift) |
+| [Måste man informera om ägarbyte?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-informera-om-%C3%A4garbyte) |
+| [Måste man göra felanmälan?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) |
+| [Varför uttaxering, inte medlemsavgift?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#varf%C3%B6r-uttaxering-inte-medlemsavgift) |
 | [Ingår kallvattenrören i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-kallvattenr%C3%B6ren-i-samf%C3%A4lligheten) |
 | [Vilka delar av avloppsanläggningen ingår i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vilka-delar-av-avloppsanl%C3%A4ggningen-ing%C3%A5r-i-samf%C3%A4lligheten) |
 | [Ingår gårdsbrunnar i samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-g%C3%A5rdsbrunnar-i-samf%C3%A4lligheten) |
@@ -54,7 +54,7 @@ Alternativt kan du via någon av de två andra länkarna, hämta, fylla i den in
 
 ## Måste man göra felanmälan?  
 ###### <span style="color: #ffffff; font-size: 130%;">Permalink till början av texten</span>  
-**Svar:** <span style="color: #339966;">**Ja**</span>, <img align="left" width="30%" src="/wp-content/uploads/2023/Underhållsplanering W237.png" /> Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com.  
+**Svar:** <span style="color: #339966;">**Ja**</span>, Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com.  
 I din <u>felanmälan</u> ska du beskriva felet och ange adressen till radhuset.    
 
 Arbeten som berör föreningens anläggningar får bestämmas och beställas enbart av föreningens ordförande eller om denne är oanträffbar av ledamöter i föreningens styrelse.  
