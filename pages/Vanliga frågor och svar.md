@@ -18,7 +18,7 @@ nav_order: 32
 | [Ingår elskåpen i Samfälligheten?](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) |
 | [Är det fritt fram att renovera badrum?]( https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#%C3%A4r-det-fritt-fram-att-renovera-badrum) |
 
-<br><br><br><br><br><br>
+<br><br>
 
 ## Måste man informera om ägarbyte?  
 **Svar:** <span style="color: #339966; font-size: 130%;">**Ja**</span>, **det är viktigt att anmäla ägarbyte till styrelsen**, ägarbyte registreras inte automatiskt.  
@@ -52,8 +52,7 @@ Alternativt kan du via någon av de två andra länkarna, hämta, fylla i den in
 **[Formulär i format .odt som kan fyllas i och mejlas](/wp-content/uploads/2026/Ägarbyte-att bifoga mejl_2026.odt)** (Formuläret går att ladda ner)  
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
 
-## Måste man göra felanmälan?  
-###### <span style="color: #ffffff; font-size: 130%;">Permalink till början av texten</span>  
+## Måste man göra felanmälan?   
 **Svar:** <span style="color: #339966;">**Ja**</span>, Fel och skador som inträffar på Hässelby Gårds Samfällighetsförenings anläggningar ska alltid anmälas via epost till hbgsamfall@gmail.com.  
 I din <u>felanmälan</u> ska du beskriva felet och ange adressen till radhuset.    
 
@@ -80,10 +79,10 @@ Om problemet omfattas av garanti från Röranalys, står de för kostnaden.
 Om akut - **Telefon Röranalys AB: 08-599 098 00**, **E-post Röranalys AB: info@roranalys.nu**.  
 Informera samtidigt via via epost till hbgsamfall@gmail.com om att Svensk Röranalys AB har kontaktats.  
 
-Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) via epost till hbgsamfall@gmail.com.  
+Om behovet av spolning inte är akut görs [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) via epost till hbgsamfall@gmail.com.  
 
 **Läckande kallvattenledning**  
-Med tanke på förebyggande underhåll ser vi gärna att ni gör en [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från [det inkommande kallvattenröret]({% link wp-content/uploads/2023/Kallvattenledning - med bilder.png %}). Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan eftersom den då saknar isolering.  
+Med tanke på förebyggande underhåll ser vi gärna att ni gör en [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) till någon av kontaktpersonerna i styrelsen om ni ser att det droppar från [det inkommande kallvattenröret]({% link wp-content/uploads/2023/Kallvattenledning - med bilder.png %}). Även om det blir kondens på kallvattenledningen vill vi att ni gör en felanmälan eftersom den då saknar isolering.  
 <img src="/wp-content/uploads/2023/Important.png" alt="OBS">  Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!  
 
 **Elavbrott**  
@@ -94,14 +93,14 @@ Börja med att kontrollera om det saknas el i en del eller i hela ditt hus när 
 1. Saknas el bara i en del av huset, då kan det vara en säkring i fastighetens egen elcentral som har gått. <BR> Den centralen sitter efter elmätaren och det är du som fastighetsägare som har ansvar för att återställa eller byta säkringen. Går säkringen igen så är det ditt ansvar att åtgärda orsaken till att säkringen går.  
    - Ibland kan även en huvudsäkringarna ha gått i radhusets säkringsskåp och då måste också den säkringen bytas (se information i 2. nedan).  
 1. Har inga av fastighetens egna säkringar gått eller om elavbrottet har drabbat hela ditt hus, då kan det vara trasiga huvudsäkringar i radhusets [säkringsskåp]({% link wp-content/uploads/2023/Inkommande dragning elkabel.png %}) som i varje radhus vanligen är placerat vid kabeln i taket intill elmätaren.  
-   - Känner du dig trygg med att själv byta trasiga säkringar i radhusets säkringsskåp, då föreslår vi att du själv vid behov även byter den säkringen. <BR> Gör i annat fall [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) eftersom det är samfälligheten som ansvarar för att de säkringarna byts.  
-1. Är det avbrott i hela längan, då är det troligen huvudsäkringar för längan som är trasiga. De säkringarna sitter i [elskåpet](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) på längans/längornas ena gavel. <BR> Gör [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) eftersom det är samfälligheten som ansvarar för att de säkringarna byts.  
+   - Känner du dighttps://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan trygg med att själv byta trasiga säkringar i radhusets säkringsskåp, då föreslår vi att du själv vid behov även byter den säkringen. <BR> Gör i annat fall [Felanmälan]() eftersom det är samfälligheten som ansvarar för att de säkringarna byts.  
+1. Är det avbrott i hela längan, då är det troligen huvudsäkringar för längan som är trasiga. De säkringarna sitter i [elskåpet](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#ing%C3%A5r-elsk%C3%A5pen-i-samf%C3%A4lligheten) på längans/längornas ena gavel. <BR> Gör [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) eftersom det är samfälligheten som ansvarar för att de säkringarna byts.  
 
 **Rör för dagvatten**  
 Om vatten inte rinner undan i [cementrören]({% link wp-content/uploads/2023/Rör för dagvatten - sammanslagen.png %}) dit stuprören leder ned vattnet från taken eller om vatten tränger in genom väggen på rum under mark så är det mest troligt att det är cementrören eller dagvattenledningen från cementrören till gårdsbrunnen som blivit igensatta.  
 Det kan dock vara en igensatt gårdsbrunn eller grenledning från gårdsbrunnen till avloppsstammen som satts igen.  
 
-Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.win/pages/felanmalan.html#permalink-till-b%C3%B6rjan-av-texten) om stoppet verkar vara i gårdsbrunnen eller i grenledningen från gårdsbrunnen till avloppsstammen.  
+Försök identifiera var stoppet ligger. Gör [Felanmälan](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#m%C3%A5ste-man-g%C3%B6ra-felanm%C3%A4lan) om stoppet verkar vara i gårdsbrunnen eller i grenledningen från gårdsbrunnen till avloppsstammen.  
 
 | <span style="color: #ffffff;"># Blank blank blank blank blank blank blank</span> | [<span style="color: #00B050; font-size: 13px; font-family: Arial; font-weight: italic;">*Tillbaka till frågorna*</span>](https://hbgsamfall.win/pages/Vanliga%20fr%C3%A5gor%20och%20svar.html#vanliga-fr%C3%A5gor-och-svar)  |  
 
