@@ -6,6 +6,7 @@ author: hbgsamfall
 layout: page
 guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=2'
 parent: Styrelsen Informerar
+nav_exclude: true
 ---
 
 ## Övriga handlingar  
