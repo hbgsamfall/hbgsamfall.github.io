@@ -1,6 +1,6 @@
 ---
 id: 251
-title: 'Styrelsen Informerar'
+title: Styrelsen
 date: '2014-03-16T13:04:03+01:00'
 author: hbgsamfall
 layout: page
