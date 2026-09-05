@@ -5,7 +5,7 @@ date: '2018-08-21T18:21:17+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1910'
-nav_order: 30
+nav_order: 5
 ---
 
 ## NYHETER  
