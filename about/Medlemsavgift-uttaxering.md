@@ -17,7 +17,7 @@ För närvarande räknar styrelsen med att med denna uttaxering klara nödvändi
 
 Vi hoppas det här ger de som undrar den information de behöver. Om ni har frågor är ni välkomna att kontakta styrelsen.  
 
-För de som inte var med på senaste årsstämman finns aktuell information om uttaxeringen "medlemsavgiften" i [**handlingarna från senaste årsstämman** (se Bilaga 4)]({% link yearly/arsmote.md %})   
+För de som inte var med på senaste årsstämman finns aktuell information om uttaxeringen "medlemsavgiften" i 
 
 **Fakturering av uttaxeringen**
 
