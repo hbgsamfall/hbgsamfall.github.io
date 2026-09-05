@@ -1,13 +1,12 @@
 ---
-id: 1759
-title: Medlemsåterkoppling
-date: '2022-12-29T14:30:31+01:00'
+title: Sammandrag av allmänna frågor 
 author: hbgsamfall
 layout: page
-nav_order: 999
+parent: 091 Vanliga frågor och svar
+nav_exclude: true
 ---
 
-## Medlemsåterkoppling  
+## Sammandrag av allmänna frågor  
 
 **Agerande vid stopp i avlopp**  
 Eftersom Röranalys har garanti på de delar av avloppen som de renoverat och även har kunskap om vilka metoder som får användas vid stopprensning **får endast Röranalys AB anlitas** för rensning av stopp i avloppsrören. Kostnaden för spolning av stopp tas av fastighetsägarna. Tänk därför på att inte spola ned något olämpligt i toalett eller avlopp. Om det vid rensning konstateras att stoppet beror på defekter eller avvikelser i avloppets samlingsledning tas kostnaden av föreningen, eller av Röranalys om orsaken till stoppet omfattas av garanti.
@@ -29,7 +28,7 @@ det underlättar föreningens administration
 **Underhålls och förnyelseplan**  
 Styrelsen har tagit fram en [förnyelseplan]({% link maintenance/underhallsplan.md %}) men vi ser gärna att medlemmarna lämnar information om status på avloppsstam och kallvattenrör samt pågående eller kommande renoveringar så att styrelsen får information för att avgöra turordning i planen.
 
-Telefonnummer och mejladresser hittar ni under rubriken [Styrelsen informerar/Föreningens styrelse]({%link styrelsen_info/styrelsen-informerar.md %}) 
+Telefonnummer och mejladresser hittar ni under rubriken [Styrelsen/Föreningens styrelse]({%link styrelsen_info/styrelsen-informerar.md %}) 
 
 **Kallvattenledningar**  
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en [FELANMÄLAN]({%link pages/felanmalan.md %}). 
