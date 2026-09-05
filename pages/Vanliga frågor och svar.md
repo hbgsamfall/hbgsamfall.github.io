@@ -1,7 +1,7 @@
 ---
-title: Vanliga frågor och svar
+title: 091 Vanliga frågor och svar
 layout: page
-nav_order: 32
+parent: Om HGS
 ---
 ## Vanliga frågor och svar   
 
