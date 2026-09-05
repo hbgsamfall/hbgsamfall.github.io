@@ -1,6 +1,6 @@
 ---
 id: 100
-title: 'Föreningens syfte och ansvar'
+title: 05 Föreningens syfte och ansvar
 date: '2014-03-15T10:21:34+01:00'
 author: hbgsamfall
 layout: page
