@@ -15,5 +15,5 @@ Här finns information om vilka som är medlemmar i nuvarande styrelse och kortf
 
 Information om de planer och den verksamhet som styrelsens arbete resulterat i hittar ni i bland annat under rubrikerna Förvaltning och Underhållsplan.  
 
-Från undermenyer i hemsidans meny kan ni gå direkt till sidorna med denna information.
+Från TABLE OF CONTENTS nedan eller undermenyer i hemsidans meny kan ni gå direkt till sidorna med denna information.
 
