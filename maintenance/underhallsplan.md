@@ -19,7 +19,9 @@ Utan underhållsplan finns det ingen långsiktig plan att luta sig emot, vilket 
 När en underhållsplan upprättas så bygger den oftast på en fullständig statusbesiktning av gemensamhetsanläggningarna. Den underhålls- och förnyelseplan som upprättats gör därmed att styrelsen får kontroll över fastighetens akuta och framtida underhållsbehov.  
 
 Kostnaden för underhållsåtgärderna ska täckas av den uttaxering "medlemsavgift" som görs från medlemmarna. För att få en stabil och förutsägbar nivå på uttaxeringen tas i kalkylen även hänsyn till att kontinuerliga avsättningar ska göras till framtida underhåll. Detta för att längre fram kunna undvika en plötslig chockhöjning av uttaxeringen.
-Vid varje årsstämma presenteras en uppdaterad underhålls- och förnyelseplan som fastslås för det kommande året.
+Vid varje årsstämma presenteras en uppdaterad underhålls- och förnyelseplan som fastslås för det kommande året.  
+
+Längst ned på sidan i TABLE OF CONTENTS finns information om hur samfällighetsföreningen kom till och om dess syfte och ansvar.  
 
 <BR>
 Genom att följa länkarna nedan kommer ni till de underhållsplaner med tillhörande kalkyler som fastslagits vid våra årsstämmor.  
