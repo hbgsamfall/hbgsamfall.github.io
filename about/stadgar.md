@@ -4,7 +4,7 @@ title: 04 Stadgar
 date: '2014-03-15T09:49:40+01:00'
 author: hbgsamfall
 layout: page
-parent: Om HGS
+parent: 1 Om HGS
 guid: 'http://hbgsamfall.info.tm/?page_id=80'
 ---
 
