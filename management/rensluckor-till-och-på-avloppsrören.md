@@ -5,7 +5,7 @@ date: '2016-09-13T16:56:14+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1468'
-parent: Krav på tillgänglighet
+parent: 03 Krav på tillgänglighet
 ---
 
 ## Rensluckor till och på avloppsrören
