@@ -10,8 +10,9 @@ nav_order: 50
 ---
 
 ## Ägarbyte, faktura  
+<br>
 
-<span style="color: #000000; font-size: 120%;">**Det är viktigt att anmäla ägarbyte till styrelsen**</span>, , ägarbyte registreras inte automatiskt. 
+<span style="color: #000000; font-size: 130%;">**Det är viktigt att anmäla ägarbyte till styrelsen**</span>, , ägarbyte registreras inte automatiskt. 
 Det innebär ett stort extra arbete för styrelsen att hitta nya ägare, och styrelsen måste vid varje kvartal ägna stor tid åt de fastighetsägare som inte betalar uttaxeringen (avgiften) i tid. Därför behöver föreningen veta när fastigheten byter ägare så att vi skickar räkningar till rätt person och låter rätt person rösta vid årsmöten.  
 
 **Styrelsen är enligt lag skyldig att se till att samtliga avgifter betalas av fastighetsägarna.**  
