@@ -1,7 +1,7 @@
 ---
 title: 091 Vanliga frågor och svar
 layout: page
-parent: Om HGS
+parent: 1 Om HGS
 ---
 ## Vanliga frågor och svar   
 
