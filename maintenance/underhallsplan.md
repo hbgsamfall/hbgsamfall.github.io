@@ -5,7 +5,7 @@ date: '2014-03-27T15:58:07+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=403'
-parent: Om HGS
+parent: 1 Om HGS
 ---
 
 ## Underhållsplan  
