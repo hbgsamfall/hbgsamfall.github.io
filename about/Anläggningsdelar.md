@@ -2,7 +2,7 @@
 title: 03 Anläggningsdelar
 author: hbgsamfall
 layout: page
-parent: Om HGS
+parent: 1 Om HGS
 ---
 ## Anläggningsdelar 
 
