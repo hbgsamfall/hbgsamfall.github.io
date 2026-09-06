@@ -1,6 +1,6 @@
 ---
 id: 251
-title: 2 Styrelsen
+title: 02 Styrelsen
 date: '2014-03-16T13:04:03+01:00'
 author: hbgsamfall
 layout: page
