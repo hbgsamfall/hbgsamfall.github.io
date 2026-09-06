@@ -1,7 +1,7 @@
 ---
 title: 'Bakgrund och redan utförd verksamhet'
 layout: page
-parent: Rörförnyelse
+parent: 02 Tidigare verksamhet
 ---
 ## Bakgrund och redan utförd verksamhet  
 
