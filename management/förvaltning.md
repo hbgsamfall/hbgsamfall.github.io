@@ -3,7 +3,7 @@ title: 07 Förvaltning
 author: hbgsamfall
 layout: page
 has_children: true
-parent: Om HGS
+parent: 1 Om HGS
 ---
 
 ## Förvaltning av Samfällighetsföreningens gemensamhetsanläggningar
