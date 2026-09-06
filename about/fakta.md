@@ -4,7 +4,7 @@ title: 02 Fakta (indelning i områden)
 date: '2014-03-15T10:10:57+01:00'
 author: hbgsamfall
 layout: page
-parent: Om HGS
+parent: 1 Om HGS
 guid: 'http://hbgsamfall.info.tm/?page_id=87'
 ---
 ## Fakta (indelning i områden)  
