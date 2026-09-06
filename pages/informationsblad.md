@@ -5,7 +5,7 @@ date: '2016-05-02T09:16:09+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1353'
-parent: Styrelsen
+parent: 2 Styrelsen
 ---
 
 ## Informationsblad  
