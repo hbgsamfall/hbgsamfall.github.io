@@ -1,9 +1,9 @@
 ---
-title: Krav på tillgänglighet
+title: 03 Krav på tillgänglighet
 author: hbgsamfall
 layout: page
 has_children: true
-nav_order: 140
+parent: 3 Vid stopp i avlopp, vattenläcka eller elavbrott
 ---
 ## Krav på tillgänglighet till gemensamhetsanläggningarna  
 
