@@ -1,8 +1,9 @@
 ---
-title: 02 Tidigare verksamhet
+title: 03 Tidigare verksamhet
 author: hbgsamfall
 layout: page
 parent: 4 Pågående projekt
+has_children: true
 ---
 
 ## Tidigare verksamhet  
