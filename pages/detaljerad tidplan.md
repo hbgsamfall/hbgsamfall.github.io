@@ -2,7 +2,7 @@
 title: Detaljerad tidplan
 author: hbgsamfall
 layout: page
-parent: Utbyte av Kallvattenrören - Genomförande
+parent: 01 Utbyte av Kallvattenrören - Genomförande
 ---
 
 ## Detaljerad tidplan 2026
