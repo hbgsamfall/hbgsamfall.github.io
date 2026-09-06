@@ -2,7 +2,7 @@
 title: Uttaxering (Avgift)
 author: hbgsamfall
 layout: page
-parent: 05 Ägarbyte, faktura
+parent: 5 Ägarbyte, faktura
 ---
 
 ## Uttaxering  (Avgift)  
