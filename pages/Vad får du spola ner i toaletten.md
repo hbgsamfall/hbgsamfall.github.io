@@ -2,7 +2,7 @@
 id: 
 title: Vad får du spola ner i toaletten?
 layout: page
-nav_order: 34
+parent: 02 Aktsamhetskrav för gemensamhetsanläggningarna
 ---
 
 ## Vad får du spola ner i toaletten? 
