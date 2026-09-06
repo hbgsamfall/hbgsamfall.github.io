@@ -28,7 +28,7 @@ det underlättar föreningens administration
 **Underhålls och förnyelseplan**  
 Styrelsen har tagit fram en [underhållsplan]({% link maintenance/underhallsplan.md %}) men vi ser gärna att medlemmarna lämnar information om status på avloppsstam och kallvattenrör samt pågående eller kommande renoveringar så att styrelsen får information för att avgöra turordning i planen.
 
-Telefonnummer och mejladresser hittar ni under rubriken [Kontakt]({%link pages/kontakt.md %}) 
+Telefonnummer och mejladresser hittar ni [HÄR]({%link pages/kontakt.md %}) 
 
 **Kallvattenledningar**  
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en [FELANMÄLAN]({%link pages/felanmalan.md %}). 
