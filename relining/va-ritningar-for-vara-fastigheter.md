@@ -5,7 +5,7 @@ date: '2018-05-31T19:25:46+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1878'
-parent: Om HGS
+parent: 1 Om HGS
 ---
 
 ## VA-ritningar för våra fastigheter  
