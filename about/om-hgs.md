@@ -1,6 +1,6 @@
 ---
 id: 246
-title: 'Om HGS'
+title: 1 Om HGS
 date: '2014-03-16T12:54:33+01:00'
 author: hbgsamfall
 layout: page
