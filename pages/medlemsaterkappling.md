@@ -19,16 +19,16 @@ Med anledning av att reklam i brevlådorna från VVStrygg kan initiera renoverin
 
 **Medlemsavgift**  
 Fakturering görs numera antingen per post eller via e-post av Hässelby Gårds Samfällighetsförening.
-[Via denna länk]({%link styrelsen_info/medlemsavgift.md %}) hittar ni information om hur ni ska anmäla om ni vill få fakturan via e-post! 
+[Via denna länk]({%link styrelsen_info/medlemsavgift.md %}) hittar ni, under rubriken 'Fakturering av uttaxeringen', information om hur ni ska anmäla om ni vill få fakturan via e-post! 
 
 **Anmäl till styrelsen när ni säljer fastigheten**  
 det underlättar föreningens administration
 [Se vad som gäller vid Äganderättsövergång]({%link pages/informera-om-agarbyte-2.md %}) 
 
 **Underhålls och förnyelseplan**  
-Styrelsen har tagit fram en [förnyelseplan]({% link maintenance/underhallsplan.md %}) men vi ser gärna att medlemmarna lämnar information om status på avloppsstam och kallvattenrör samt pågående eller kommande renoveringar så att styrelsen får information för att avgöra turordning i planen.
+Styrelsen har tagit fram en [underhållsplan]({% link maintenance/underhallsplan.md %}) men vi ser gärna att medlemmarna lämnar information om status på avloppsstam och kallvattenrör samt pågående eller kommande renoveringar så att styrelsen får information för att avgöra turordning i planen.
 
-Telefonnummer och mejladresser hittar ni under rubriken [Styrelsen/Föreningens styrelse]({%link styrelsen_info/styrelsen-informerar.md %}) 
+Telefonnummer och mejladresser hittar ni under rubriken [Kontakt]({%link pages/kontakt.md %}) 
 
 **Kallvattenledningar**  
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en [FELANMÄLAN]({%link pages/felanmalan.md %}). 
