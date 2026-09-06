@@ -2,7 +2,7 @@
 title: Längans elskåp
 author: hbgsamfall
 layout: page
-parent: Krav på tillgänglighet
+parent: 03 Krav på tillgänglighet
 ---
 ## Gavelskåp – Längans huvudsäkringscentral  
 
