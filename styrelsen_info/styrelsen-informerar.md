@@ -1,11 +1,11 @@
 ---
 id: 251
-title: 02 Styrelsen
+title: 2 Styrelsen
 date: '2014-03-16T13:04:03+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=251'
-nav_order: 51
+nav_order: 20
 has_children: true
 ---
 
