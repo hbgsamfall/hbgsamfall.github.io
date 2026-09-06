@@ -1,11 +1,11 @@
 ---
 id: 403
-title: Underhållsplan
+title: 06 Underhållsplan
 date: '2014-03-27T15:58:07+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=403'
-nav_order: 130
+parent: Om HGS
 ---
 
 ## Underhållsplan  
