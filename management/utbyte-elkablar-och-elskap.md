@@ -5,7 +5,7 @@ date: '2015-02-14T14:03:34+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=776'
-parent: Förvaltning
+parent: 07 Förvaltning
 ---
 
 ## Utbyte av Elkablar och Elskåp  
