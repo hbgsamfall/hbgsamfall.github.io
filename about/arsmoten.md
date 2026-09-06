@@ -5,7 +5,7 @@ date: '2014-03-15T10:14:40+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=90'
-parent: Om HGS
+parent: 1 Om HGS
 ---
 
 ## Årsstämman
