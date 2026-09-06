@@ -5,7 +5,7 @@ date: '2014-03-16T13:47:16+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://hbgsamfall.info.tm/?page_id=264'
-parent: Årsstämman
+parent: 09 Årsstämman
 ---
 
 ### Här finns information från de senaste årens årsstämmor.
