@@ -1,5 +1,5 @@
 ---
-title: 3 Vid stopp i avlopp, vattenläcka eller elavbrott
+title: Vid stopp i avlopp, vattenläcka eller elavbrott
 author: hbgsamfall
 layout: page
 has_children: true
