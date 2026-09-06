@@ -4,7 +4,7 @@ title: 01 Bakgrundsinformation
 date: '2017-12-29T14:12:39+01:00'
 author: hbgsamfall
 layout: page
-parent: Om HGS
+parent: 1 Om HGS
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1750'
 ---
 
