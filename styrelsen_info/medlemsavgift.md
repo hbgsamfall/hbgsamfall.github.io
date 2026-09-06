@@ -5,7 +5,7 @@ date: '2014-03-11T12:18:44+01:00'
 author: hbgsamfall
 layout: page
 guid: 'http://cryptic-peak-5555.herokuapp.com/?page_id=23'
-parent: 02 Styrelsen
+parent: 2 Styrelsen
 ---
 
 ## Uttaxering  (Avgift)  
