@@ -12,33 +12,32 @@ nav_order: 50
 ## Ägarbyte, faktura  
 <br>
 
-<span style="color: #000000; font-size: 130%;">**Det är viktigt att anmäla ägarbyte till styrelsen**</span>, , ägarbyte registreras inte automatiskt. 
-Det innebär ett stort extra arbete för styrelsen att hitta nya ägare, och styrelsen måste vid varje kvartal ägna stor tid åt de fastighetsägare som inte betalar uttaxeringen (avgiften) i tid. Därför behöver föreningen veta när fastigheten byter ägare så att vi skickar räkningar till rätt person och låter rätt person rösta vid årsmöten.  
+## Gamla ägaren är skyldig att lämna in ägarbytesanmälan.  
+
+<u> Nedan är de uppgifter som måste komma in till kassören: </u>  
+•	Email adress:  
+•	Kundnummer/Medlemsnummer (finns på fakturan):  
+•	Fullständiga namn och efternamn på gamla ägaren:  
+•	Adress på fastigheten:  
+•	Datum för nytt ägande:  
+•	Namn och efternamn på nya ägaren(na). Om flera ange vem som ska ha fakturan:  
+•	Personnummer på nya ägaren(na), tio siffror:  
+•	Mejladress till minst en ny ägare:  
+•	Telefonnummer till minst en ny ägare:
+•	**Ange avvikande faktureringsadress om sådan finns. Skriv annars ”Ingen”:**  
+
+Mejlet med den ifyllda informationen skickas till hbgsamfall@gmail.com  
+
+<u> OBS! Glöm inte att koppla bort eventuell e-fakturakoppling </u>  
+
+## Fakturering  
+
+Den som är registrerad som fastighetsägare i den debiteringslängd som beslutades vid årets årsmöte är ansvarig för betalningen året ut men uttaxeringen (avgiften) kan krävas in från antingen gammal eller ny fastighetsägare. **Se därför till att komma överens om vem av er som under övergångsåret ska betala <u> efter </u> ägarbytet när ni säljer/köper fastigheten.**  
 
 **Styrelsen är enligt lag skyldig att se till att samtliga avgifter betalas av fastighetsägarna.**  
 
-I sista hand måste styrelsen driva in obetald uttaxering genom kronofogdemyndigheten.  
+I sista hand måste styrelsen driva in obetald uttaxering genom Kronofogdemyndigheten.  
 
-Vid överlåtelse av en fastighet är både gammal och ny ägare betalningsansvarig, det vill säga att uttaxeringen (avgiften) kan krävas in från antingen gammal eller ny fastighetsägare. Den som är registrerad som fastighetsägare i den debiteringslängd som beslutades vid årets årsmöte är ansvarig för betalningen året ut. Den gamla och nya ägaren får diskutera vem som ska stå för betalning av uttaxeringen (avgiften) efter ägarbytet. **Se till att komma överens om vem av er som ska betala efter ägarbytet när ni säljer/köper fastigheten**. Om den tidigare fastighetsägaren haft e-faktura ska hen se till att avregistrera e-fakturan när den nye fastighetsägaren övertagit betalningen.  
+**Anslut er till elektroniskt utskick av faktura via e-post eller e-faktura!**  
 
-**Ägarbytet informeras till styrelsen** genom att kopiera den lista som nedan lagts in mellan de två horisontella röda linjerna kan du, den gamla eller nye ägaren, klistra in det kopierade i ett mejl och fylla i alla de uppgifter som styrelsen behöver känna till om den nye fastighetsägaren (för din information så är det fastigheten som är medlem, inte fastighetsägaren).  
-Mejlet med den ifyllda listan skickas till hbgsamfall@gmail.com  
-
-<hr style="height: 2px; background-color: red; border: none;">  
-Email adress:  
-Kundnummer/Medlemsnummer (finns på fakturan):  
-Fullständiga namn och efternamn på gamla ägaren:  
-Adress på fastigheten:  
-Datum för nytt ägande:  
-Namn och efternamn på nya ägaren(na). Om flera ange vem som ska ha fakturan:  
-Personnummer på nya ägaren(na), tio siffror:  
-Mejladress till minst en ny ägare:  
-Telefonnummer till minst en ny ägare:  
-
-**Ange avvikande faktureringsadress om sådan finns. Skriv annars ”Ingen”:**
-<hr style="height: 2px; background-color: red; border: none;">  
-
-Alternativt kan du via någon av de två andra länkarna, hämta, fylla i den information som söks i formuläret och bifoga det ifyllda formuläret i ett mejl till hbgsamfall@gmail.com.  
-**[Formulär i format .docx som kan fyllas i och mejlas](/wp-content/uploads/2026/Ägarbyte-att bifoga mejl_2026.docx)** (Formuläret går att ladda ner)  
-
-**[Formulär i format .odt som kan fyllas i och mejlas](/wp-content/uploads/2026/Ägarbyte-att bifoga mejl_2026.odt)** (Formuläret går att ladda ner)
+Styrelsen strävar mot att minska onödigt arbete som att leta fram nya ägarna för en såld fastighet, där gamla ägaren missat göra anmälan. Vi strävar också efter att utöka antalet medlemmar som får kvartalsfakturan via e-post eller e-faktura. Ej via brev, vilket är tidskrävande och kostsammare än det digitala valet.  
