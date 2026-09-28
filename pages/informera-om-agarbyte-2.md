@@ -11,7 +11,6 @@ nav_order: 50
 
 ## Ägarbyte, faktura  
 <br>
-
 ## Gamla ägaren är skyldig att lämna in ägarbytesanmälan.  
 
 <u> Nedan är de uppgifter som måste komma in till kassören: </u>  
