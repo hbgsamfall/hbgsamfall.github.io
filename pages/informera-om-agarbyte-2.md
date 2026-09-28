@@ -7,8 +7,7 @@ layout: page
 guid: 'http://www.hbgsamfall.info.tm/?page_id=1673'
 has_children: true
 nav_order: 50
----
-
+---  
 ## Ägarbyte, faktura  
 <br>
 ## Gamla ägaren är skyldig att lämna in ägarbytesanmälan.  
