@@ -37,4 +37,4 @@ Den som är registrerad som fastighetsägare i den debiteringslängd som besluta
 I sista hand måste styrelsen driva in obetald uttaxering genom Kronofogdemyndigheten.  
 
 **Anslut er till elektroniskt utskick av faktura via e-post eller e-faktura!**  
-<p style="margin-top: 4px;">Styrelsen strävar mot att minska onödigt arbete som att leta fram nya ägarna för en såld fastighet, där gamla ägaren missat göra anmälan. Vi strävar också efter att utöka antalet medlemmar som får kvartalsfakturan via e-post eller e-faktura. Ej via brev, vilket är tidskrävande och kostsammare än det digitala valet.</p>  
+Styrelsen strävar mot att minska onödigt arbete som att leta fram nya ägarna för en såld fastighet, där gamla ägaren missat göra anmälan. Vi strävar också efter att utöka antalet medlemmar som får kvartalsfakturan via e-post eller e-faktura. Ej via brev, vilket är tidskrävande och kostsammare än det digitala valet.
