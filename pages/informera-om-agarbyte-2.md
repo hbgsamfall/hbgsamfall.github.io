@@ -22,7 +22,7 @@ nav_order: 50
 •	Namn och efternamn på nya ägaren(na). Om flera ange vem som ska ha fakturan:  
 •	Personnummer på nya ägaren(na), tio siffror:  
 •	Mejladress till minst en ny ägare:  
-•	Telefonnummer till minst en ny ägare:
+•	Telefonnummer till minst en ny ägare:  
 •	**Ange avvikande faktureringsadress om sådan finns. Skriv annars ”Ingen”:**  
 
 Mejlet med den ifyllda informationen skickas till hbgsamfall@gmail.com  
