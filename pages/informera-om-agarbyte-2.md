@@ -33,8 +33,8 @@ Mejlet med den ifyllda informationen skickas till hbgsamfall@gmail.com
 
 Den som är registrerad som fastighetsägare i den debiteringslängd som beslutades vid årets årsmöte är ansvarig för betalningen året ut men uttaxeringen (avgiften) kan krävas in från antingen gammal eller ny fastighetsägare. **Se därför till att komma överens om vem av er som under övergångsåret ska betala <u> efter </u> ägarbytet när ni säljer/köper fastigheten.**  
 
-**<p>Styrelsen är enligt lag skyldig att se till att samtliga avgifter betalas av fastighetsägarna.</p>**  
-<p style="margin-top: 4px;">I sista hand måste styrelsen driva in obetald uttaxering genom Kronofogdemyndigheten.</p>  
+**Styrelsen är enligt lag skyldig att se till att samtliga avgifter betalas av fastighetsägarna.**  
+I sista hand måste styrelsen driva in obetald uttaxering genom Kronofogdemyndigheten.  
 
-**<p>Anslut er till elektroniskt utskick av faktura via e-post eller e-faktura!</p>**  
+**Anslut er till elektroniskt utskick av faktura via e-post eller e-faktura!**  
 <p style="margin-top: 4px;">Styrelsen strävar mot att minska onödigt arbete som att leta fram nya ägarna för en såld fastighet, där gamla ägaren missat göra anmälan. Vi strävar också efter att utöka antalet medlemmar som får kvartalsfakturan via e-post eller e-faktura. Ej via brev, vilket är tidskrävande och kostsammare än det digitala valet.</p>  
