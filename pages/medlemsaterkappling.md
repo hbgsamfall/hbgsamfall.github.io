@@ -32,7 +32,7 @@ Telefonnummer och mejladresser hittar ni [HÄR]({%link pages/kontakt.md %})
 
 **Kallvattenledningar**  
 Med tanke på förebyggande underhåll ser vi gärna att ni gör en felanmälan om ni ser att det droppar från kallvattenstammen. Även om det blir kondens på kallvattenledningen vill vi att ni gör en [FELANMÄLAN]({%link pages/felanmalan.md %}). 
-Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen!
+Bygg inte in och ta inte bort isoleringen omkring kallvattenstammen! Inbyggnad förhindrar åtkomst vid kommande renovering!
 
 ![plumber](/wp-content/uploads/2015/02/Underhållsplanering-W300.png)
 
